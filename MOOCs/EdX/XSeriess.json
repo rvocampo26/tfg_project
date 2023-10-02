@@ -1,0 +1,1062 @@
+[
+    {
+        "url": "https://www.edx.org/xseries/astrophysics",
+        "name": "Astrophysics XSeries Program | edX",
+        "topics": [
+            "Physics",
+            "Astrophysics"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The Astrophysics XSeries Program consists of four foundational courses in astrophysics taught by prestigious leaders in the field, including Nobel Prize winners. You will be taught by Brian Schmidt, who led the team that discovered dark energy \u00e2\u0080\u0093 work which won him the 2011 Nobel Prize for Physics, and by prize-winning educator, science communicator and astrophysics researcher Paul Francis, who will take you through an incredible journey where you learn about the unsolved mysteries of the universe, exoplanets, black holes and supernovae, and general cosmology. Astronomy and astrophysics is the study of everything beyond Earth. Astronomers work in universities, at observatories, for various space agencies like NASA, and more. The study of astronomy provides you with a wide range of skills in math, engineering, and computation which are sought after skills across many occupations. This XSeries Program is great for anyone to start their studies in astronomy and astrophysics or individuals simply interested in what lies beyond Earth.",
+        "language": "English",
+        "outcomes": [
+            "An understanding of the biggest unsolved mysteries in astrophysics and how researchers are attempting to answer them",
+            "Methods used to find and study exoplanets",
+            "How scientists tackle challenging problems",
+            "About white dwarfs, novae, supernovae, neutro stars and black holes and how quantum mechanics and relativity help explain these objects",
+            "How astrophysicists investigate the origin, nature and fate of our universe"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/bases-matematicas-para-estudiar",
+        "name": "Bases matem\u00c3\u00a1ticas para estudiar ingenier\u00c3\u00ada XSeries Program | edX",
+        "topics": [
+            "Math",
+            "Bases matem\u00c3\u00a1ticas para estudiar ingenier\u00c3\u00ada"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "En esta serie de cursos se tratan los conceptos matem\u00c3\u00a1ticos b\u00c3\u00a1sicos para empezar el primer curso de cualquier ingenier\u00c3\u00ada. El primer curso trata la teor\u00c3\u00ada de conjuntos, la notaci\u00c3\u00b3n matem\u00c3\u00a1tica elemental, los diferentes tipos de n\u00c3\u00bameros y el trabajo con n\u00c3\u00bameros complejos. En el segundo curso se ven los sistemas de ecuaciones lineales, las matrices y sus operaciones, el concepto de matriz inversa y una introducci\u00c3\u00b3n a la resoluci\u00c3\u00b3n de ecuaciones matriciales. En el tercer curso se introduce el concepto de funci\u00c3\u00b3n y de derivada, se trabajan los m\u00c3\u00a9todos de resoluci\u00c3\u00b3n de derivadas y su aplicaci\u00c3\u00b3n al c\u00c3\u00a1lculo de m\u00c3\u00a1ximos y m\u00c3\u00adnimos. En el \u00c3\u00baltimo curso de la serie se ve el concepto de primitiva y los distintos m\u00c3\u00a9todos de c\u00c3\u00a1lculo integral, incluidas las integrales definidas y el c\u00c3\u00a1lculo de \u00c3\u00a1reas.",
+        "language": "English",
+        "outcomes": [
+            "A trabajar con conjuntos num\u00c3\u00a9ricos",
+            "A trabajar con n\u00c3\u00bameros complejos",
+            "A resolver sistemas de ecuaciones",
+            "A trabajar con matrices",
+            "Los m\u00c3\u00a9todos de derivaci\u00c3\u00b3n",
+            "Los m\u00c3\u00a9todos de c\u00c3\u00a1lculo integral"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/aws-building-serverless-applications-on-aws",
+        "name": "Building serverless applications on AWS XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Are you looking to start a career developing software that runs on AWS? Or are you a trying to understand more about how developing applications with AWS benefits developers? Join us for the three-course Building Serverless Applications on AWS series.\nIn the first course, Integrating AWS with the SDK, we start with the basics of AWS Identity and Access Management to understand the different forms of authentication and security when integrating AWS services. We refactor an existing application using the AWS SDK to replace storage functionality with Amazon Simple Storage Service and Amazon DynamoDB. Next, we investigate using compute services Amazon EC2 and AWS Lambda to run our application code. In the final upgrade, we expose the application functionality as an API with Amazon API Gateway. Our experienced instructors take you on a deep dive on the workings and benefits of each service.\nIn the second course, Serverless Architectures on AWS, we get hands on with automation tools and serverless managed services. Get your projects completed faster without needing to maintain the underlying servers hosting the managed services. Treat your infrastructure as code using AWS CloudFormation and AWS Serverless Application Model as an automated way to build the resources hosting your applications. We use AWS Amplify to rapidly add front-end hosting and AWS Cognito to add authentication to our application. With Cognito in place, we upgrade the application API to require authentication. Next, we learn to use AWS Step Functions to move a lot of the workflow coordination code out of your applications. Using serverless services, we contrast some options for building event driven architectures with Amazon SNS, Amazon SQS and Amazon EventBridge. Join our expert instructors as we dive deep on real-world use cases for each of the featured services in the course.\nIn the third and final course, Hands-on with AWS: Software Development Practices, we will provide a combination of video-based lectures, demonstrations and hands-on lab exercises to get you hands-on committing code that flows through a full Continuous Integration and Continuous Delivery pipeline.",
+        "language": "English",
+        "outcomes": [
+            "Describe how to integrate an application with AWS APIs using the SDK.",
+            "Describe how to authenticate and authorize requests to AWS APIs.",
+            "Use Amazon API Gateway to host, authenticate and authorize your own APIs.",
+            "Store application data in Amazon DynamoDB, Amazon S3.",
+            "Describe the types of data best suited to storage services Amazon DynamoDB, Amazon S3."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/business-principles-entrepreneurial-thought",
+        "name": "Business Principles and Entrepreneurial Thought XSeries Program | edX",
+        "topics": [
+            "Business & Management",
+            "Business Principles and Entrepreneurial Thought"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Making good business decisions can make or break an entrepreneur. This business and management XSeries, brought to you by Babson College, the #1 school in Entrepreneurship (U.S. News & World Report), will explore topics such as financial accounting, analytics, customer behavior, and strategy all with the lens of an entrepreneur who has to make critical decisions for the success of the business.   \nWhether you are contributing to the strategy and development of your company, starting your own business, or working for a non-profit, this series will prepare you to make better, more informed decisions and contribute to the success and health of the organization. Before we begin with some of these core business concepts, we will define what entrepreneurial thinking is and discover some key methodologies to help with these decisions.   \nThis XSeries is targeted at:\n\nLearners interested in starting their own business.\nLearners who want to or are asked to contribute to the decisions of any organization.\nLearners who are ready to move forward in his or her organization.\nLearners who are ready to take action!\n",
+        "language": "English",
+        "outcomes": [
+            "Core business skills in financial accounting, statistics, marketing, finance and strategy",
+            "How entrepreneurial thinking can be applied to any business environment",
+            "An understanding of entrepreneurial thought and action"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/hkpolyux-chinese-culture-tradition-transformation-and-interaction",
+        "name": "Chinese Culture: Tradition, Transformation and Interaction XSeries Program | edX",
+        "topics": [
+            "Humanities",
+            "Chinese Culture: Tradition, Transformation and Interaction"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Introduction\r\nThis vibrant XSeries program showcases 15 experts in Chinese culture led by the Hong Kong Polytechnic University.  It is composed of 3 compact courses and 15 fascinating topics.  The topics touch on Chinese philosophy, Confucianism, Daoism, Buddhism, Sunzi, food and cuisine, politics, strategic thinking, literature, paintings, operas, education, and the history of China\u00e2\u0080\u0099s cultural exchanges with other countries and regions.\nWhy should I enrol in the XSeries on Chinese culture offered by the Hong Kong Polytechnic University?\r\nThe Hong Kong Polytechnic University is a world-class research university.  In 2021, it is ranked among the top 25 and top 75 universities by the QS Asian and QS World University Rankings respectively.  One of the missions of the University is to offer high-quality MOOCs. Our online courses have received a number of international awards, including the edX Prize for Exceptional Contributions in Online Teaching and Learning (Finalist) and Best Online Courses of All Time by Class Central in 2020-21.\nHow can I advance my knowledge and career by enrolling in this program?\r\nA basic knowledge of Chinese culture is requisite for anyone who aims to advance their career in business or academic study in the Chinese mainland, Hong Kong, Macau and Taiwan.  These regions have a population of 1.4 billion (18 percent of the world\u00e2\u0080\u0099s population).  This XSeries program empowers businesspeople by providing them with Chinese cultural knowledge that can inform their communication and engagement with their Chinese partners.  Furthermore, students of Chinese studies who aim to further their knowledge will find new perspectives from this program.  It also helps broaden the horizons of any laypeople who may currently have little knowledge of Chinese culture.\nThanks to a unique pedagogy that cross-references across the units and courses, this XSeries fosters the learner\u00e2\u0080\u0099s holistic understanding of Chinese culture.  This holistic knowledge equips the learner with skills to connect different contexts of Chinese culture meaningfully in application.\nFor instance, in the Tradition course, you learn about Confucianism in the Zhou dynasty.  In the Transformation course, you further learn about Chinese education through the private Confucian academies from the Song dynasty onwards, as well as New Confucianism in the 20th century. In the Interaction course, you discover the answer to the interesting question whether Confucius drank tea or alcohol. Likewise, in learning about Chinese thinking styles, you will be enlightened by the study of Sunzi\u00e2\u0080\u0099s The Art of War in the Tradition course, the elements of human character represented by the face make-up in Chinese Operas in the Transformation course, and the history of Chinese politics in the early 20th century in the Interaction course.  There are many more connections between the units of the X series.  This program is the only XSeries on Chinese culture that capitalizes on the use of powerful cross-referencing across the topics and units, with the aim to consolidate and upgrade your practical knowledge of Chinese culture.",
+        "language": "English",
+        "outcomes": [
+            "To master the foundational knowledge of traditional Chinese culture",
+            "To apply the insights of Chinese philosophy, religion and strategic thinking",
+            "To foster skills in appreciating Chinese paintings, operas and literature",
+            "To understand the history of China\u00e2\u0080\u0099s cultural exchanges with other countries and regions",
+            "To connect the meanings of different Chinese cultural practices in a holistic manner"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/mitx-circuits-and-electronics",
+        "name": "Circuits and Electronics XSeries Program | edX",
+        "topics": [
+            "Electronics",
+            "Circuits and Electronics"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Want to learn about circuits and electronics? Wondering how the electronics behind sensors and actuators works, or how to make computers run faster, or your mobile phone battery last longer? This series of circuits and electronics courses taught by edX CEO and MIT Professor Anant Agarwal and colleagues is for you. \nThese online Circuits & Electronics courses are taken by all MIT Electrical Engineering and Computer Science (EECS) majors.\nTopics covered include: circuit abstraction, circuit elements such as resistors and sources, signals, and networks; circuit design and circuit analysis methods; digital abstraction, digital logic, and basic digital design; electronic devices including MOSFETs, digital switches, amplifiers; Energy storage elements like capacitors and inductors; dynamics of first-order and second-order networks and circuit speed; design in the time and frequency domains; op-amps, filters, and analog and digital circuits, signal processing, and applications. Design and lab exercises are also significant components of the XSeries program.\nWeekly coursework includes interactive video sequences, readings from the textbook, homework, fun online laboratories, and optional tutorials. Each course will also have a final exam. \nThese are self-paced courses, so there are no weekly deadlines. \nStudent Testimonials\n\u00e2\u0080\u009cBrilliant course! It's definitely the best introduction to electronics in Universe! Interesting material, clean explanations, well prepared quizzes, challenging homeworks and fun labs.\u00e2\u0080\u009d - Ilya\n\n\u00e2\u0080\u009c6.002x will be a classic in the field of online learning. It combines Prof. Agarwal's enthusiasm for electronics and education. The online circuit design program works very well. The material is difficult. I took the knowledge from the class and built an electronic cat feeder.\u00e2\u0080\u009d - Stan",
+        "language": "English",
+        "outcomes": [
+            "How to design and analyze circuits using both intuition and mathematical analysis",
+            "How to construct simple digital circuits and improve their speed",
+            "How to construct and analyze filters and their frequency response using capacitors and inductors",
+            "Design circuits applications using MOS transistors and operational amplifiers",
+            "How to measure circuit variables using tools such as virtual oscilloscopes, virtual multimeters, virtual frequency analyzers, and virtual signal generators",
+            "Compare the measurements of the circuit variables with the behavior predicted by mathematical models and explain the discrepancies"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-classical-works",
+        "name": "Classical Works XSeries Program | edX",
+        "topics": [
+            "Humanities",
+            "Classical Works"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Take an aural journey through 17th- to 20th-century Europe\u00e2\u0080\u0094exploring world-renowned works in classical, orchestral, and operatic music to create a cultural and social context for each performance\u00e2\u0080\u0099s circumstances.\nYou\u00e2\u0080\u0099ll begin your tour 1607, Matua, Italy for Claudio Monteverdi\u00e2\u0080\u0099s L \u00e2\u0080\u0098Orfeo\u00e2\u0080\u0094long regarded as one of the first and most important examples of opera. You will also focus on Monteverdi's life and work as a Renaissance court musician.\nTravel into the 18th century for German composer George Frederic Handel\u00e2\u0080\u0099s Messiah, premiering in Dublin in April 1742. Popular during the Baroque era, Handel gained popularity for his oratorios and unique operatic techniques. Next up, take a trek east to Vienna for Ludwig van Beethoven\u00e2\u0080\u0099s 9th Symphony, with its famous choral finale changing our views of orchestral music forever.\nOne last train ride brings you to the City of Lights, for the Paris premiere of Hector Berlioz\u00e2\u0080\u0099s five-movement symphony, Symphonie Fantastique, before capping off your journey in 1913 for Igor Stravinsky\u00e2\u0080\u0099s The Rite of Spring ballet premiere in Paris\u00e2\u0080\u0094one of the most challenging and rewarding ballets ever written.\nBy examining these works, both uniquely and collectively, Thomas Forrest Kelley, Morton B. Knafel Professor of Music at Harvard will guide you through an explanation of the arts, from key features of classical works and Baroque opera to character development on stage and through music to techniques in orchestral music and choreography. Each course is designed to give you a closer look at each work of art from the cultural context and performance circumstances at the time of premiere\u00e2\u0080\u0094combining passions in art, music, society, and history.",
+        "language": "English",
+        "outcomes": [
+            "Gain an appreciation and understanding for the typical characteristics of Italian opera, classical music, and performance art\u00e2\u0080\u0094including instruments used and types of singing.",
+            "Understand the revolutionary relationships created between music, drama, and storytelling in opera.",
+            "Build on your learning and explore how performances have changed over time.",
+            "Compare the social and cultural influences of each work.",
+            "Learn the technologies and innovations behind opera performances, choir, instruments, and stage structure.",
+            "Follow the composition, legacy, and significance through time and the relevance today."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/mitx-computational-thinking-using-python",
+        "name": "Computational Thinking using Python XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The courses in the XSeries are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. Since these courses may be the only formal computer science courses many of the students take, we have chosen to focus on breadth rather than depth. The goal is to provide students with a brief introduction to many topics so they will have an idea of what is possible when they need to think about how to use computation to accomplish some goal later in their career. That said, they are not \u00e2\u0080\u009ccomputation appreciation\u00e2\u0080\u009d courses. They are challenging and rigorous courses in which the students spend a lot of time and effort learning to bend the computer to their will.\nIntroduction to Computer Science and Programming Using Python covers the notion of computation, the Python programming language, some simple algorithms, testing and debugging, and informal introduction to algorithmic complexity, and some simple algorithms and data structures. Introduction to Computational Thinking and Data Science will teach you how to use computation to accomplish a variety of goals and provides you with a brief introduction to a variety of topics in computational problem solving.",
+        "language": "English",
+        "outcomes": [
+            "Programming",
+            "Data structures",
+            "Computational thinking",
+            "Data science",
+            "Algorithms"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles",
+        "name": "CS50's AP\u00c2\u00ae Computer Science Principles XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This Xseries is only for students in high school. Students not in high school should register for CS50T and  CS50x separately.\r\n\r\nThis is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP Computer Science Principles (CSP) curriculum framework. Students in high school may receive AP credit for this course provided their school approves the credit and administers the College Board's Create Performance Task by Friday, April 30, 2021, 11:59 PM Eastern Time, and End-of-Course Multiple-Choice Exam on Thursday, May 13, 2021, 8:00 AM local time. Students should make all such arrangements in advance with their school directly. Students who earn a satisfactory score on all problem sets and a final project are also eligible to receive a verified certificate from HarvardX.\nAn entry-level course for students with no prior background, taught by  David J. Malan, CS50 AP teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students\u00e2\u0080\u0099 choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for mobile app development); or Lua (for game development). Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project.\nCS50 itself is Harvard University's largest course on campus.",
+        "language": "English",
+        "outcomes": [
+            "A broad and robust understanding of computer science and programming",
+            "How to think algorithmically and solve programming problems efficiently",
+            "Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development",
+            "Familiarity in a number of languages, including C, Python, and JavaScript plus SQL, CSS, and HTML",
+            "How to engage with a vibrant community of like-minded learners from all levels of experience",
+            "How to develop and present a final programming project to your peers"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/galileox-de-la-aritmetica-al-algebra-elemental",
+        "name": "De la Aritm\u00c3\u00a9tica al \u00c3\u0081lgebra Elemental XSeries Program | edX",
+        "topics": [
+            "Math",
+            "De la Aritm\u00c3\u00a9tica al \u00c3\u0081lgebra Elemental"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "El \u00c3\u00a1lgebra es una de las ramas m\u00c3\u00a1s importantes y bellas de la matem\u00c3\u00a1tica ya que nos provee de un lenguaje simple que nos permite describir muchos de los fen\u00c3\u00b3menos del mundo que nos rodea. Por ejemplo, una ecuaci\u00c3\u00b3n con 3 \u00e2\u0080\u009cletras\u00e2\u0080\u009d fue suficiente para que Einstein plasmara la teor\u00c3\u00ada de la relatividad especial sin la cual no comprender\u00c3\u00adamos varios aspectos del universo en el que vivimos. Por otro lado, dominar a plenitud el \u00c3\u00a1lgebra es fundamental para poder estudiar t\u00c3\u00b3picos m\u00c3\u00a1s avanzados en matem\u00c3\u00a1tica como trigonometr\u00c3\u00ada, geometr\u00c3\u00ada, c\u00c3\u00a1lculo y estad\u00c3\u00adstica; cursos requeridos en cualquier carrera profesional en \u00c3\u00a1reas STEM. De all\u00c3\u00ad la importancia de contar con un s\u00c3\u00b3lido conocimiento de \u00c3\u00a1lgebra elemental, t\u00c3\u00b3pico central de este programa.\nPara poder estudiar el lenguaje algebraico y sobre todo para comprenderlo a fondo es necesario sembrar bien los pilares que le sostienen. Es por ello que, en esta secuencia de cursos, iniciar\u00c3\u00a1s por repasar y consolidar las nociones fundamentales de la aritm\u00c3\u00a9tica en los n\u00c3\u00bameros reales. En el segundo curso, aprender\u00c3\u00a1s el concepto de expresi\u00c3\u00b3n algebraica y a realizar operaciones fundamentales entre ellas. Finalmente, en el tercer curso, aprender\u00c3\u00a1s a modelar y resolver problemas de aplicaci\u00c3\u00b3n\r\nen diversos contextos utilizando ecuaciones y desigualdades.\nEn cada curso te encontrar\u00c3\u00a1s con una gran cantidad de ejemplos resueltos y por supuesto con una amplia gama de problemas, ejercicios y retos que te ayudar\u00c3\u00a1n no solo a comprender el tema en cuesti\u00c3\u00b3n sino tambi\u00c3\u00a9n a medir tu progreso semanal. A pesar de ser un programa introductorio, cada uno de los temas se desarrolla con el rigor matem\u00c3\u00a1tico necesario para fundamentar los resultados y herramientas a aplicar, para que as\u00c3\u00ad comprendas lo que est\u00c3\u00a1s haciendo y diste de un enfoque memor\u00c3\u00adstico sin sentido. De esta manera, este programa te llevar\u00c3\u00a1 paso a paso en el estudio del \u00c3\u00a1lgebra y desarrollar\u00c3\u00a1 en ti las competencias necesarias para estudiar t\u00c3\u00b3picos m\u00c3\u00a1s avanzados en matem\u00c3\u00a1tica, fortaleciendo a la vez tu pensamiento l\u00c3\u00b3gico y estructurado.",
+        "language": "English",
+        "outcomes": [
+            "C\u00c3\u00b3mo operar con los n\u00c3\u00bameros reales aplicando sus propiedades elementales.",
+            "C\u00c3\u00b3mo operar y simplificar con facilidad expresiones algebraicas haciendo uso oportuno de las propiedades de los n\u00c3\u00bameros reales.",
+            "C\u00c3\u00b3mo resolver ecuaciones y desigualdades lineales, cuadr\u00c3\u00a1ticas, sistemas de ecuaciones lineales y otros tipos de ecuaciones relevantes utilizando diferentes algoritmos.",
+            "C\u00c3\u00b3mo modelar y resolver problemas que involucren ecuaciones o desigualdades.",
+            "Por qu\u00c3\u00a9 el \u00c3\u00a1lgebra es un lenguaje y c\u00c3\u00b3mo comunicar ideas a trav\u00c3\u00a9s de \u00c3\u00a9l."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/aws-devops-on-aws",
+        "name": "DevOps on AWS XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Software and the Internet have transformed the world and its industries, from shopping to entertainment to banking. Software no longer merely supports a business; rather it becomes an integral component of every part of a business.\nThis \u00e2\u0080\u009cDevOps on AWS\u00e2\u0080\u009d   series teaches you how to use the combination of DevOps philosophies, practices and tools to develop, deploy, and maintain applications in the AWS Cloud. Benefits of adopting DevOps include: rapid delivery, reliability, scalability, security and improved collaboration.\nAWS provides a set of flexible services designed to enable companies to more rapidly and reliably build and deliver products using AWS and DevOps practices. These services simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance.\nThis series has a significant hands-on component involving the AWS Free Tier in which you will explore AWS services and concepts using AWS SDKs, AWS APIs, and the AWS Console.\nThe first course introduces you to essential AWS products, services, and common solutions. The course covers the fundamental concepts of compute, database, storage, networking, monitoring and security that learners and professionals will need to know when working with AWS.\nThe second course discusses topics such as source control, best practices for Continuous Integration, and how to use the right tools to measure code quality, by identifying workflow steps that could be automated. You will explore AWS Services that will help your application delivery, like AWS CodeCommit, AWS CodeBuild and AWS CodePipeline.\nThe third course talks about how to improve the deployment process with DevOps methodology, and also some tools that might make deployments easier, such as Infrastructure as Code, or IaC, and AWS CodeDeploy.\nFinally, the last course teaches how to use Amazon CloudWatch for monitoring, as well as Amazon EventBridge and AWS Config for continuous compliance. It also covers Amazon CloudTrail and a little bit of Machine Learning for Monitoring operations.\nNo prior experience on AWS cloud is required because the first course teaches the fundamentals of AWS.",
+        "language": "English",
+        "outcomes": [
+            "Implement DevOps culture and practices in the AWS Cloud.",
+            "Adopt and enforce Continuous Integration and Continuous Delivery best practices on AWS.",
+            "Setup AWS CodeDeploy to write, run, and debug your code.",
+            "Explore deployment strategies for serverless applications.",
+            "Monitor a code pipeline using Amazon EventBridge and AWS Config."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/urosariox-diseno-de-prototipos-digitales-para-proyectos-sociales",
+        "name": "Dise\u00c3\u00b1o de prototipos digitales para proyectos sociales XSeries Program | edX",
+        "topics": [
+            "Design",
+            "Dise\u00c3\u00b1o de prototipos digitales para proyectos sociales"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Continuamente buscamos materializar las soluciones que puedan ser aplicadas en un proyecto social. Esto nos lleva a pasar a la acci\u00c3\u00b3n, a dise\u00c3\u00b1ar e implementar y a pensar con las manos en funci\u00c3\u00b3n del contexto social.\nBasados en la concepci\u00c3\u00b3n de que los proyectos sociales generan valor e influyen positivamente en las personas y sus comunidades, se presenta este x-series que te permitir\u00c3\u00a1 crear soluciones tecnol\u00c3\u00b3gicas a trav\u00c3\u00a9s de Protothinking\u00c2\u00ae\u00ef\u00b8\u008f y te facilitar\u00c3\u00a1 la implementaci\u00c3\u00b3n de prototipos funcionales.\nEn el primer curso aprender\u00c3\u00a1s los conceptos y frentes de acci\u00c3\u00b3n del Protothinking\u00c2\u00ae\u00ef\u00b8\u008f, la ruta de prototipado guiada por unas premisas y facilitada por una caja de herramientas digitales. Podr\u00c3\u00a1s partir desde cero ensamblando un proyecto social para prototipar y validar sus estrategias o avanzar a nuevas versiones de aquellas ya validadas.\nEn el segundo curso aprender\u00c3\u00a1s a implementar prototipos funcionales que requieran un intercambio de informaci\u00c3\u00b3n e intervenci\u00c3\u00b3n en el mundo f\u00c3\u00adsico con el apoyo de dispositivos electr\u00c3\u00b3nicos e internet.\nEn esta serie de cursos, encontrar\u00c3\u00a1s respuestas a las siguientes preguntas:\r\n\n\u00c2\u00bfC\u00c3\u00b3mo definir un reto social en mi comunidad?\n\u00c2\u00bfC\u00c3\u00b3mo planificar el trabajo en equipo?\n\u00c2\u00bfC\u00c3\u00b3mo pasar a la acci\u00c3\u00b3n a partir de t\u00c3\u00a9cnicas de prototipado centradas en el usuario?\n\u00c2\u00bfC\u00c3\u00b3mo aterrizar las estrategias recurriendo a t\u00c3\u00a9cnicas digitales de prototipado r\u00c3\u00a1pido?\n\u00c2\u00bfC\u00c3\u00b3mo gestionar las estrategias sociales en un contexto de Revoluci\u00c3\u00b3n 4.0?\n\n",
+        "language": "English",
+        "outcomes": [
+            "Establecer una ruta de prototipado para consolidar tus estrategias con enfoque social.",
+            "Aplicar t\u00c3\u00a9cnicas basadas en Protothinking\u00c2\u00ae\u00ef\u00b8\u008f para definir, empatizar, explorar, validar y levar tus ideas a la acci\u00c3\u00b3n.",
+            "Comprender las tecnolog\u00c3\u00adas de punta en el contexto de la revoluci\u00c3\u00b3n 4.0 e identificar la gesti\u00c3\u00b3n de proyectos tecnol\u00c3\u00b3gicos.",
+            "Identificar el uso enfocado de la plataforma Glide para el desarrollo de aplicaciones celulares, Build, la tarjeta de desarrollo Photon, y Google Sheets como base de datos b\u00c3\u00a1sica para desarrollar prototipos funcionales en IoT.",
+            "Integrar las diferentes plataformas para la implementaci\u00c3\u00b3n de una soluci\u00c3\u00b3n integral IoT."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/stanfordonline-diversity-equity-and-inclusion-in-healthcare",
+        "name": "Diversity, Equity, and Inclusion in Healthcare XSeries Program | edX",
+        "topics": [
+            "Medicine",
+            "Diversity, Equity, and Inclusion in Healthcare"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The healthcare system is not immune to the racism, inequity, and biases that exist in societal structures. The first step toward addressing and combating racism and discrimination experienced across social identities in healthcare systems is through education and raising awareness of the myriad forms of injustice entrenched in them. It\u00e2\u0080\u0099s therefore crucial that healthcare leaders acknowledge and understand the social determinants of health that place marginalized population groups at higher risk for poor health outcomes. It is equally important to have a diverse healthcare workforce \u00e2\u0080\u0094 which represents the community it serves \u00e2\u0080\u0094 to provide optimal care to the entire patient population.\nLearn how to mitigate health disparities and bias in the healthcare system in the Diversity, Equity, and Inclusion in Healthcare XSeries program from the Stanford Center for Health Education (SCHE), part of Stanford Medicine. Throughout this program, guided by industry leaders and healthcare experts, you'll examine why some population groups receive comparably worse healthcare than other groups. You'll also learn and apply specific DEI strategies to combat social inequities while building a stronger patient-practitioner experience in the process. From an organizational perspective, you'll discover how recruitment processes, organizational change, and team dynamics can be enhanced through the active use of inclusive practices. Walk away with the knowledge and tools to help advance workplace equity, and build a healthcare organization that prospers.",
+        "language": "English",
+        "outcomes": [
+            "Gain the knowledge and ability to develop your own DEI strategic plan.",
+            "Gain a critical understanding of the societal realities that drive disparities in health and healthcare.",
+            "Gain the ability to implement strategies to address the effects of structural racism and other identity-based inequities on health systems and policies.",
+            "Gain the insight to determine how DEI in the healthcare workplace can be impeded by biases, and how a focus on inclusive team dynamics can help alleviate these issues."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/michiganx-django-for-everybody",
+        "name": "Django for Everybody XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This series introduces Python programmers to building websites using the Django library. Across the four courses, you will learn HTML, CSS, SQL, Django, JavaScript, jQuery, and JSON Web Services. During the course, you will build online websites using Django and those working websites are graded throughout the course. This series is excellent preparation for learning other ways to build web applications using technologies like PHP, Flask or Ruby on Rails. This is a great first course in any web development curriculum.",
+        "language": "English",
+        "outcomes": [
+            "Django (Web Framework)",
+            "HTML",
+            "CSS (Cascading Style Sheets)",
+            "JavaScript",
+            "SQL"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/utokyox-four-facets-of-contemporary-japanese-architecture",
+        "name": "Four Facets of Contemporary Japanese Architecture XSeries Program | edX",
+        "topics": [
+            "Architecture",
+            "Four Facets of Contemporary Japanese Architecture"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This series will explore four facets of contemporary Japanese architecture: theory, technology, city, and humans. It will focus on the period between the two Tokyo Olympics in 1964 and 2021, and span five generations of architects since Kenzo Tange. Through lectures by instructors and discussions with the most influential Japanese architects, the course will trace the development of contemporary Japanese architecture and will consider its future direction.\nIn the first course, we will focus on one of the four facets of Japanese architecture: theory. The theory portion will feature discussions with architects who played a significant role in influencing the development of theoretical frameworks that contributed to guiding contemporary Japanese architecture.\u00c2\u00a0\r\nThe second course, the technology portion, will focus on works by architects who explored the use of technology\u00e2\u0080\u0094from techniques used for traditional crafts to computational processes\u00e2\u0080\u0094as a vehicle for their investigations into the conceptualization and production of architecture.\nThe third course on \u00e2\u0080\u009cCity\u00e2\u0080\u009d will review the works of those architects who have attempted to conceptualize cities through their architecture.  We will look back over the last half century, when the urban environment has changed dramatically with the collapse of traditional communities and population decline, and examine future issues.\u00c2\u00a0\nThe fourth course on \u00e2\u0080\u009cHumans\u00e2\u0080\u009d will review the works of those architects who have attempted to conceptualize humans through their architecture. How has architecture transformed in the turbulent half-century of rapid urban change, informatization, and globalization? And what has happened to the humans that architecture was supposed to have supported? Together with the architects, we will consider these questions.",
+        "language": "English",
+        "outcomes": [
+            "Development of contemporary Japanese architecture since the 1964 Tokyo Olympics.",
+            "Features of works of influential Japanese architects.",
+            "Present concerns and potential future directions for contemporary Japanese architecture."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/curtinx-from-digital-technologies-to-social-media",
+        "name": "From Digital Technologies to Social Media XSeries Program | edX",
+        "topics": [
+            "Communication",
+            "From Digital Technologies to Social Media"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Online communication and digital technologies dominate our everyday lives, extend our abilities, and change the way we communicate with each other. This series brings together three Internet Studies MOOCS:\r\nNET1x will increase learners\u00e2\u0080\u0099 understandings of social media by looking at the ways networked connectivity let users become 'social'\r\nNET2x further explores the way digital technologies and social media channels impact our daily routines and transform how we live, using people with disability as a case study. Learners will be introduced to the social model of disability and the ways negative attitudes affect digital accessibility and representation.  \r\nContinuing the theme of human reliance on technologies, NET3x explores how people communicate with robots and bots in everyday life, both now and into the future.\n",
+        "language": "English",
+        "outcomes": [
+            "Map significant milestones in the emergence of social media",
+            "Identify how different users are impacted by digital in/accessibility",
+            "Extrapolate current social trends online and map possible directions in social media",
+            "Understand how people interpret robots and bots as communicating, social, even emotional, others"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/fundamentals-computer-science",
+        "name": "Fundamentals of Computer Science XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "If you want to be the software designer who can architect systems for successful startups like Flipkart, this XSeries provides the foundational knowledge you need.  \nGoogle search, Netflix personalization, and self-driving cars rely on complex algorithms and data structures that can scale to a billion users.  \nIn this 5 course XSeries, you will learn the importance of software design, programming skills, data structures, and algorithm principles, that drive every electronic gadget that you see in the market.",
+        "language": "English",
+        "outcomes": [
+            "Basic programming skills",
+            "How to write C++ programs to solve real world computational problems",
+            "How to use object-oriented programming to design modern software systems that adapt to highly rapid change",
+            "How best to use different data structures to represent, organize, and manipulate data",
+            "To inculcate design thinking for building system that scale",
+            "The importance of efficient algorithms in terms of time and space complexity"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience",
+        "name": "Fundamentals of Neuroscience XSeries Program | edX",
+        "topics": [
+            "Biology & Life Sciences",
+            "Fundamentals of Neuroscience"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Based on the introductory neurobiology courses taught at Harvard College, Fundamentals of Neuroscience is a three-part series that explores the structure and function of the entire nervous system \u00e2\u0080\u0094 from the microscopic inner workings of a single nerve cell to the staggering complexity of the brain.\nYou\u00e2\u0080\u0099ll study the electrical properties of individual neurons, examine how neurons pass signals to one another, and how complex dynamics result from just a few neurons. You\u00e2\u0080\u0099ll explore sensation, perception, and the physiology of functional regions of the brain.\nThrough fun animations, documentaries, and interactive virtual labs discover what makes the brain tick and how we perceive the world around us.",
+        "language": "English",
+        "outcomes": [
+            "Fundamentals of bioelectricity",
+            "How you can do neuroscience in your home",
+            "How neurons communicate with each other",
+            "How sensory perception works in the brain",
+            "The basic anatomy of functional areas of the brain"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/upvalenciax-fundamentos-de-fisica-para-ingenieria",
+        "name": "Fundamentos de F\u00c3\u00adsica para ingenier\u00c3\u00ada XSeries Program | edX",
+        "topics": [
+            "Physics",
+            "Fundamentos de F\u00c3\u00adsica para ingenier\u00c3\u00ada"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "En este programa Xseries se aborda el estudio del universo f\u00c3\u00adsico desde diversas perspectivas, para que un estudiante de f\u00c3\u00adsica comience con \u00c3\u00a9xito su carrera universitaria.\nEl programa est\u00c3\u00a1 compuesto por tres cursos, los cuales ayudar\u00c3\u00a1n al estudiante a obtener los conocimientos de f\u00c3\u00adsica que son fundamentales para estudiar ingenier\u00c3\u00ada. En el programa el estudiante:\r\n\r\n\nAnalizar\u00c3\u00a1 los objetos en movimiento y las fuerzas que provocan dicho movimiento. Conocer\u00c3\u00a1 las  definiciones y analizar\u00c3\u00a1 todas las magnitudes y leyes f\u00c3\u00adsicas que permiten describir geom\u00c3\u00a9trica y causalmente el movimiento de cuerpos representados por un punto.\nEstudiar\u00c3\u00a1 la gran variedad de fen\u00c3\u00b3menos ondulatorios que se observan en la naturaleza.\nConocer\u00c3\u00a1 las definiciones y analizar\u00c3\u00a1 las magnitudes f\u00c3\u00adsicas que permiten caracterizar los diferentes tipos de ondas que existen, resaltando la importancia de la naturaleza del medio f\u00c3\u00adsico donde se est\u00c3\u00a9 propagando la onda.\nAs\u00c3\u00ad mismo obtendr\u00c3\u00a1 conocimientos sobre los fen\u00c3\u00b3menos que pueden experimentar las ondas cuando se propagan en el espacio analizando: el principio de Huygens, fen\u00c3\u00b3menos de reflexi\u00c3\u00b3n, refracci\u00c3\u00b3n, difracci\u00c3\u00b3n, superposici\u00c3\u00b3n y polarizaci\u00c3\u00b3n de las ondas y el efecto Doppler.\nInvestigar\u00c3\u00a1 las causas y conocer\u00c3\u00a1 las leyes de la interacci\u00c3\u00b3n electromagn\u00c3\u00a9tica. Esta interacci\u00c3\u00b3n es una de las m\u00c3\u00a1s importantes que caracterizan nuestra vida diaria, ya que muchos de los fen\u00c3\u00b3menos que se observan a nuestro alrededor, incluidos los qu\u00c3\u00admicos y biol\u00c3\u00b3gicos, son debidos a la interacci\u00c3\u00b3n electromagn\u00c3\u00a9tica entre \u00c3\u00a1tomos y mol\u00c3\u00a9culas. Analizar\u00c3\u00a1 el origen de esta interacci\u00c3\u00b3n y conocer\u00c3\u00a1 las leyes f\u00c3\u00adsicas que la gobiernan.",
+        "language": "English",
+        "outcomes": [
+            "Las magnitudes f\u00c3\u00adsicas y el \u00c3\u00a1lgebra vectorial, as\u00c3\u00ad como los fundamentos de la cinem\u00c3\u00a1tica y din\u00c3\u00a1mica del punto.",
+            "Los conceptos de trabajo, potencia y energ\u00c3\u00ada mec\u00c3\u00a1nica, y los fundamentos de las ondas.",
+            "El Principio de Huygens, el Efecto Doppler y la Polarizaci\u00c3\u00b3n de ondas.",
+            "Los fen\u00c3\u00b3menos de reflexi\u00c3\u00b3n, refracci\u00c3\u00b3n y difracci\u00c3\u00b3n.",
+            "El campo el\u00c3\u00a9ctrico, el campo magn\u00c3\u00a9tico y la inducci\u00c3\u00b3n magn\u00c3\u00a9tica."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/uamx-fundamentos-de-quimica-organica",
+        "name": "Fundamentos de Qu\u00c3\u00admica Org\u00c3\u00a1nica XSeries Program | edX",
+        "topics": [
+            "Chemistry",
+            "Fundamentos de Qu\u00c3\u00admica Org\u00c3\u00a1nica"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "La Qu\u00c3\u00admica Org\u00c3\u00a1nica es la rama de la qu\u00c3\u00admica que se encarga de estudiar la estructura, las propiedades f\u00c3\u00adsicas, la reactividad, las reacciones org\u00c3\u00a1nicas y la transformaci\u00c3\u00b3n de los compuestos org\u00c3\u00a1nicos. Es importante conocer los fundamentos de la qu\u00c3\u00admica org\u00c3\u00a1nica ya que nos permiten entender procesos qu\u00c3\u00admicos que tienen lugar en los organismos vivos.\nEn este programa XSeries se introducen los fundamentos de la Qu\u00c3\u00admica Org\u00c3\u00a1nica y de la estructura molecular, sin que sea necesario tener ning\u00c3\u00ban conocimiento previo de Qu\u00c3\u00admica. \u00c2\u00a1La Qu\u00c3\u00admica Org\u00c3\u00a1nica est\u00c3\u00a1 en todas partes!\nEste programa satisfar\u00c3\u00a1 la curiosidad del estudiante sobre la estructura molecular de sustancias, tanto naturales como otras creadas por el Qu\u00c3\u00admico Org\u00c3\u00a1nico. En el programa el estudiante percibir\u00c3\u00a1 su importancia sobre la preservaci\u00c3\u00b3n de la vida, el control de enfermedades y la producci\u00c3\u00b3n eficiente de alimentos, as\u00c3\u00ad como las limitaciones que tenemos en la producci\u00c3\u00b3n de energ\u00c3\u00ada y nuestra incidencia sobre el medio ambiente, al igual que el estudiante se introducir\u00c3\u00a1 en el apasionante arte de la separaci\u00c3\u00b3n, purificaci\u00c3\u00b3n y determinaci\u00c3\u00b3n de estructuras.",
+        "language": "English",
+        "outcomes": [
+            "Adquirir\u00c3\u00a1s importantes bases de la Qu\u00c3\u00admica Org\u00c3\u00a1nica.",
+            "El programa satisfar\u00c3\u00a1 tu curiosidad sobre la estructura molecular de numerosas sustancias.",
+            "Apreciar\u00c3\u00a1s la importancia que ciertas mol\u00c3\u00a9culas tienen, sean naturales o no, sobre la preservaci\u00c3\u00b3n de la vida, el control de enfermedades y la producci\u00c3\u00b3n eficiente de alimentos.",
+            "Descubrir\u00c3\u00a1s que la Qu\u00c3\u00admica en general, y la Qu\u00c3\u00admica Org\u00c3\u00a1nica en particular, no es el problema, sino ciertamente la soluci\u00c3\u00b3n a una enorme cantidad de problemas cotidiano.",
+            "Bases de las t\u00c3\u00a9cnicas de separaci\u00c3\u00b3n y purificaci\u00c3\u00b3n.",
+            "Nociones de las t\u00c3\u00a9cnicas de determinaci\u00c3\u00b3n de la estructura molecular.",
+            "Comprensi\u00c3\u00b3n de las mol\u00c3\u00a9culas esenciales para la vida."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/mitx-future-energy-systems",
+        "name": "Future Energy Systems XSeries Program | edX",
+        "topics": [
+            "Energy & Earth Sciences",
+            "Future Energy Systems"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The energy sector is the largest contributor to global greenhouse gas emissions driving climate change. Within a critical timeframe, we need people working in different industries, governments, and fields of study to drive the transition to more sustainable, accessible, and equitable energy systems.\r\nThe Future Energy Systems X-Series consists of four online courses taught by renowned MIT faculty, researchers, and partners: Sustainable Energy, Energy Economics and Policy, Sustainable Building Design, and Transformative Living Labs in Urban Climate Action and Transportation Planning. These interdisciplinary courses include cutting- edge research from MIT and provides a multifaceted skill set that empowers learners to develop and deploy new energy technologies and solutions in diverse geo-political contexts.\nThrough innovative, collaborative online education tools, learners will also gain the insights needed to guide partnerships and financing decisions through access to a network of motivated energy professionals.\nWith a certification in Future Energy Systems, you will be prepared to evaluate renewable energy generation projects, increase energy efficiency in the built environment, craft clean energy and transportation policies, build stakeholder support, and ultimately drive decarbonization at local, regional, and global scales.",
+        "language": "English",
+        "outcomes": [
+            "How to define your role in the energy system and drive the transition to sustainable energy.",
+            "How to evaluate modern energy technologies from engineering and socio-political perspectives.",
+            "How to apply economic and policy tools in real- world energy markets.",
+            "How to implement energy efficient design elements in buildings.",
+            "The role of transportation and mobility planning in climate action plans aiming to reduce greenhouse gas emissions and mitigate climate change."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/javerianax-genero-una-mirada-participativa-en-entornos-ecologicos-y-en-la-vida-digital",
+        "name": "G\u00c3\u00a9nero: una mirada participativa en entornos ecol\u00c3\u00b3gicos y en la vida digital XSeries Program | edX",
+        "topics": [
+            "Environmental Studies",
+            "G\u00c3\u00a9nero: una mirada participativa en entornos ecol\u00c3\u00b3gicos y en la vida digital"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "El escenario social frecuentemente cambiante convoca a nuevos estudios, investigaciones y estrategias en diferentes disciplinas que antes no contaban con la importancia que hoy en d\u00c3\u00ada se evidencia, como es el caso de los estudios para la equidad entre g\u00c3\u00a9neros promulgados, entre otras, por la Organizaci\u00c3\u00b3n de Naciones Unidas (ONU) por medio de sus agencias, programas, resoluciones e incluso los Objetivos de Desarrollo Sostenible (ODS) suscritos por la mayor\u00c3\u00ada de las naciones a nivel global.\nPara la ONU, la equidad entre g\u00c3\u00a9nero no solo es un derecho humano fundamental, es uno de los \r\nlineamientos esenciales para construir un mundo pac\u00c3\u00adfico, pr\u00c3\u00b3spero y sostenible, e invita a la reflexi\u00c3\u00b3n y generaci\u00c3\u00b3n de acciones efectivas desde los diferentes agentes que conforman la sociedad.\nComo respuesta a ello, se hace necesario un conocimiento riguroso sobre las formas como producen y se reproducen las desigualdades, as\u00c3\u00ad como de las acciones innovadoras y consistentes con los contextos, ya que, la manera en la que se analiza la realidad influye en c\u00c3\u00b3mo se piensan modelos de cambio y en el impacto de estas intervenciones.\nAtendiendo a esta realidad, este programa X serie busca, desde el compromiso acad\u00c3\u00a9mico, abordar componentes fundamentales como la interseccionalidad, la participaci\u00c3\u00b3n y la erradicaci\u00c3\u00b3n de todo tipo de violencias en raz\u00c3\u00b3n del g\u00c3\u00a9nero, en dos entornos clave como los contextos ecol\u00c3\u00b3gicos y digitales, esferas donde la participaci\u00c3\u00b3n equitativa, tanto activa como pasiva de la sociedad, requieren de la equidad entre g\u00c3\u00a9neros como su principal pilar.\nDe esta forma, el programa apunta a los siguientes \u00c3\u00a1mbitos relevantes: (1) g\u00c3\u00a9nero y era digital a nivel glocal, (2) diversidad como punto de encuentro entre la ecolog\u00c3\u00ada y la vida digital, (3) trabajo colaborativo e interconexi\u00c3\u00b3n y (4) ciudadan\u00c3\u00ada c\u00c3\u00advica, ecol\u00c3\u00b3gica y digital. Los anteriores apuntan a la construcci\u00c3\u00b3n de habilidades del siglo XXI prioritarias, como el pensamiento cr\u00c3\u00adtico e incluyente, el pensamiento visual, la comunicaci\u00c3\u00b3n y la sensibilidad y responsabilidad social, desde un abordaje de g\u00c3\u00a9nero, que permiten construir relaciones diversas y proyectuales entre diferentes campos disciplinarios como los estudios de g\u00c3\u00a9nero, la ecolog\u00c3\u00ada y la vida digital.",
+        "language": "English",
+        "outcomes": [
+            "Conocer los conceptos clave del enfoque de g\u00c3\u00a9nero.",
+            "Identificar la importancia de entender la ecolog\u00c3\u00ada y la responsabilidad medi\u00c3\u00a1tica en la era digital como una acci\u00c3\u00b3n participativa desde una  perspectiva de g\u00c3\u00a9nero en las comunidades vulnerables.",
+            "Conocer estrategias comunitarias, en clave de \u00c3\u00a9tica ambiental con perspectiva de g\u00c3\u00a9nero, que contribuyan al mejoramiento de los entornos  ecol\u00c3\u00b3gicos.",
+            "Comprender las nuevas formas de mediatizaci\u00c3\u00b3n y el comportamiento de las redes sociales en la participaci\u00c3\u00b3n ciudadana con enfoque de g\u00c3\u00a9nero.",
+            "Conocer las propuestas de activismo en g\u00c3\u00a9nero y los conflictos frente al lenguaje y el espacio  digital en el que se llevan a cabo."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/berkleex-grabacion-produccion-musical",
+        "name": "Grabaci\u00c3\u00b3n y producci\u00c3\u00b3n musical XSeries Program | edX",
+        "topics": [
+            "Music",
+            "Grabaci\u00c3\u00b3n y producci\u00c3\u00b3n musical"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Con la reciente introducci\u00c3\u00b3n de software y hardware musical de alta calidad y bajo costo, las herramientas de producci\u00c3\u00b3n musical e ingenier\u00c3\u00ada de sonido ahora est\u00c3\u00a1n disponibles para todos. Los \u00c3\u00a1lbumes se hacen en dormitorios al igual que en un estudio de grabaci\u00c3\u00b3n profesional. A primera vista esto es liberador. Cualquiera puede crear un \u00c3\u00a1lbum musical por el bajo costo de un par de piezas de equipo y un paquete de software. Pero, si profundizas, descubrir\u00c3\u00a1s que este proceso no es tan f\u00c3\u00a1cil. Producir y crear m\u00c3\u00basica requiere conocimiento, dedicaci\u00c3\u00b3n y creatividad.\nA trav\u00c3\u00a9s de estos cursos de producci\u00c3\u00b3n musical:\r\n\nUsar\u00c3\u00a1s tu talento y conocimiento acumulado para crear y enviar una canci\u00c3\u00b3n terminada y totalmente producida c\u00c3\u00b3mo si estuvieras en un estudio de m\u00c3\u00basica. \nDesarrollar\u00c3\u00a1s una canci\u00c3\u00b3n y una visi\u00c3\u00b3n para el producto terminado. \nPlanificar\u00c3\u00a1s y ejecutar\u00c3\u00a1s la producci\u00c3\u00b3n, incluida la grabaci\u00c3\u00b3n, edici\u00c3\u00b3n, mezcla y publicaci\u00c3\u00b3n del producto final. \nRecibir\u00c3\u00a1s comentarios a trav\u00c3\u00a9s del proceso de revisi\u00c3\u00b3n por tus compa\u00c3\u00b1eros, lo que te permitir\u00c3\u00a1 ajustar y refinar tu canci\u00c3\u00b3n terminada.\n\n\nLa creatividad musical es un producto de la mente y permanecer\u00c3\u00a1 all\u00c3\u00ad, no ser\u00c3\u00a1 expresada hasta que las herramientas correctas se usen de la manera correcta para compartirlo con el mundo. Si tienes una idea en la cabeza te tomar\u00c3\u00a1 numerosos pasos, cada uno con una herramienta importante para llegar a tu audiencia. Tu traes la dedicaci\u00c3\u00b3n y la creatividad y este programa te brindar\u00c3\u00a1 el conocimiento para que eso suceda.",
+        "language": "English",
+        "outcomes": [
+            "Analizar el concepto y las implicaciones del papel del productor",
+            "Desarrollar una metodolog\u00c3\u00ada para abordar tu estilo de producci\u00c3\u00b3n",
+            "Sentirse c\u00c3\u00b3modos al trabajar con una Estaci\u00c3\u00b3n de Audio Digital",
+            "Explorar la manipulaci\u00c3\u00b3n de las emociones a trav\u00c3\u00a9s de la producci\u00c3\u00b3n de m\u00c3\u00basica",
+            "Trabajar como un productor de m\u00c3\u00basica durante todas las etapas de la producci\u00c3\u00b3n, desde la preproducci\u00c3\u00b3n, la grabaci\u00c3\u00b3n, la edici\u00c3\u00b3n, la mezcla y la masterizaci\u00c3\u00b3n"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/uamx-griego-clasico",
+        "name": "Griego cl\u00c3\u00a1sico XSeries Program | edX",
+        "topics": [
+            "Language",
+            "Griego cl\u00c3\u00a1sico"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "La cultura griega cl\u00c3\u00a1sica ha sido y contin\u00c3\u00baa siendo determinante para la sociedad occidental. La literatura, la filosof\u00c3\u00ada, la historia de la Antig\u00c3\u00bcedad, sus mitos e instituciones, han ejercido una influencia sin parag\u00c3\u00b3n en el modo en que pensamos y nos expresamos. Por eso, conocer la lengua griega, el medio en que muchas de nuestras ideas fundacionales se forjaron, en el que se escribieron obras tan esenciales como los di\u00c3\u00a1logos de Plat\u00c3\u00b3n o las obras de Her\u00c3\u00b3doto y Tuc\u00c3\u00addides, resulta tan enriquecedor y fascinante.\nEste programa XSeries te ofrece una aproximaci\u00c3\u00b3n al estudio del griego cl\u00c3\u00a1sico, al tiempo que te acerca a la Grecia antigua y a la cultura cl\u00c3\u00a1sica a trav\u00c3\u00a9s de textos originales. En los dos primeros cursos en l\u00c3\u00adnea encontrar\u00c3\u00a1s textos sobre mitolog\u00c3\u00ada, filosof\u00c3\u00ada, pol\u00c3\u00adtica y de tem\u00c3\u00a1tica amorosa. Todav\u00c3\u00ada ser\u00c3\u00a1 pronto para profundizar en ellos, pero nos acompa\u00c3\u00b1ar\u00c3\u00a1n en la consecuci\u00c3\u00b3n de nuestros objetivos: sentar las bases del aprendizaje de la lengua griega y conocer el alfabeto, la morfolog\u00c3\u00ada nominal y verbal y los aspectos esenciales de la sintaxis. En el tercer curso, ampliar\u00c3\u00a1s y consolidar\u00c3\u00a1s tus conocimientos en un contexto hist\u00c3\u00b3rico muy concreto: las Guerras M\u00c3\u00a9dicas, que enfrentaron en el siglo V a. C. a las ciudades estado griegas y a los persas.\nEl programa est\u00c3\u00a1 compuesto por 3 MOOCs. ",
+        "language": "English",
+        "outcomes": [
+            "Qu\u00c3\u00a9 tipo de lengua es el griego cl\u00c3\u00a1sico y cu\u00c3\u00a1les son sus caracter\u00c3\u00adsticas fundamentales",
+            "C\u00c3\u00b3mo leer y escribir en alfabeto griego, tanto a mano como con el ordenador",
+            "C\u00c3\u00b3mo es el sistema de declinaciones de los nombres, adjetivos y pronombres",
+            "C\u00c3\u00b3mo se conjugan los verbos griegos y cu\u00c3\u00a1les son los tipos de oraciones m\u00c3\u00a1s importantes",
+            "Qu\u00c3\u00a9 nos cuentan los mitos de Prometeo y Pandora, qui\u00c3\u00a9n fue S\u00c3\u00b3crates y qu\u00c3\u00a9 escribi\u00c3\u00b3 Plat\u00c3\u00b3n sobre \u00c3\u00a9l, c\u00c3\u00b3mo entend\u00c3\u00ada Arist\u00c3\u00b3teles la pol\u00c3\u00adtica, y qu\u00c3\u00a9 imagen del amor ofrece la literatura griega",
+            "C\u00c3\u00b3mo se desarrollaron las Guerras M\u00c3\u00a9dicas, una serie de enfrentamientos entre los griegos y los persas que marcaron todo el curso posterior de la historia de Europa",
+            "Qu\u00c3\u00a9 vocabulario predomina en los textos de contenido militar a trav\u00c3\u00a9s del estudio de diversas familias l\u00c3\u00a9xicas"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/stanford-online-health-communication-strategies-for-impact-and-success",
+        "name": "Health Communication: Strategies for Impact and Success XSeries Program | edX",
+        "topics": [
+            "Medicine",
+            "Health Communication: Strategies for Impact and Success"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": " Enhance your ability to facilitate effective communication about health and science, with guidance from Stanford Medicine faculty. Connect and build trust with patients, colleagues, the public, and the media as you gain the communication skills to ensure the dissemination of accurate health information.\nIn an era of medical misinformation, false data and unsourced recommendations on health are shared wide and fast. Medical practitioners and communication specialists now have an additional responsibility to ensure concise and valid information is readily available, and prevent the dissemination of misleading information.\nThe Stanford Center for Health Education, a part of Stanford Medicine, recognizes the need for communication that ensures medical facts, rather than falsehoods, spread. The Health Communication: Strategies for Impact and Success XSeries program aims to give you these fundamental skills. Guided by leaders in the field, you\u00e2\u0080\u0099ll learn to effectively communicate health and science information to broad audiences including patients, colleagues, the public, and the media. \nThe program offers an in-depth look at the health information ecosystem, discussing how news is spread and why false details travel faster than the truth. Over several weeks, you\u00e2\u0080\u0099ll learn to deliver impactful medical and scientific presentations, engage in challenging conversations, and facilitate positive media interaction. The power of improvisation in improving your communication skills will also be explored and practiced in role-play scenarios and sessions. As you gain these practical strategies and techniques, you\u00e2\u0080\u0099ll learn how to build strong relationships across contexts, empowering you to become a trusted source of health information.",
+        "language": "English",
+        "outcomes": [
+            "Discover the fundamental principles of effective communication, enabling you to analyze the accuracy of medical information and become a reliable source of knowledge.",
+            "Build the skills to communicate scientific information through impactful presentations that resonate clearly with a broad range of audiences.",
+            "Develop an in-depth understanding of the health information ecosystem, with the relevant media skills to interact effectively in this space.",
+            "Gain strategies to navigate challenging conversations around health information, and facilitate productive exchanges with colleagues, patients, the public, and on social media."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/stanfordonline-healthcare-risk-management-planning-response-and-recovery",
+        "name": "Healthcare Risk Management: Planning, Response, and Recovery XSeries Program | edX",
+        "topics": [
+            "Medicine",
+            "Healthcare Risk Management: Planning, Response, and Recovery"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Healthcare systems globally have buckled under the pressure of recent crises. Whether the next emergency is a natural disaster, human-caused event, infrastructure failure, terrorist attack, or pandemic, the need for effective crisis management in this sector has never been more apparent.\nGain the tools to prepare your organization for future crises in the Healthcare Risk Management: Planning, Response, and Recovery program from the Stanford Center for Health Education (SCHE). Through scenario-based learning, you\u00e2\u0080\u0099ll develop practical skills in healthcare crisis management. In doing so, you\u00e2\u0080\u0099ll learn to identify and address the steps you can take in the disaster management cycle, from preparedness through response and mitigation to recovery. Guided by experts in the field, you\u00e2\u0080\u0099ll explore the role of a crisis response team in disaster management and create strategies to build organizational and workforce resilience.",
+        "language": "English",
+        "outcomes": [
+            "Gain in-depth insights into disaster epidemiology, the steps of disaster preparation, and the role of an Incident Command System.",
+            "Gain the knowledge and skills to create an effective Incident Action Plan for use in a disaster.",
+            "Gain the ability to develop planning exercises and drills for effective crisis management.",
+            "Gain an understanding of the leadership and communication principles required to adequately manage a crisis."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/urosariox-historias-de-la-creatividad-en-el-sur-global-arte-arquitectura-y-diseno",
+        "name": "Historias de la creatividad en el sur global: arte, arquitectura y dise\u00c3\u00b1o XSeries Program | edX",
+        "topics": [
+            "Art & Culture",
+            "Historias de la creatividad en el sur global: arte, arquitectura y dise\u00c3\u00b1o"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Este programa XSeries aborda fundamentos de nivel introductorio sobre  artes, arquitectura y dise\u00c3\u00b1o del  sur global. Mediante el an\u00c3\u00a1lisis de edificaciones emblem\u00c3\u00a1ticas, el an\u00c3\u00a1lisis de identidad a trav\u00c3\u00a9s de las prendas y objetos de dise\u00c3\u00b1o y arte que acompa\u00c3\u00b1an nuestra vida cotidiana; se brindan nuevos horizontes y perspectivas sobre la creatividad y su impacto cultural y social en el mundo y en especial en el sur global, influyendo en diferentes aspectos del siglo XXI.\nMediante un lenguaje claro y natural se invita al estudiante a la reflexi\u00c3\u00b3n y a formar una mirada cr\u00c3\u00adtica de su contexto al conocer la historia de la cultura y la historia del arte latinoamericano e isl\u00c3\u00a1mico.  Con esta serie se quiere dar cuenta de la historia de manera m\u00c3\u00a1s diversa y complementaria a las narrativas tradicionales y  apreciar el valor de los estudios en cultura material en general y en el \u00c3\u00a1mbito del sur global en particular.",
+        "language": "English",
+        "outcomes": [
+            "Conceptos fundamentales del arquitectura del mundo isl\u00c3\u00a1mico",
+            "Historias de la identidad latinoamericana a trav\u00c3\u00a9s de la moda, prendas y accesorios representativos",
+            "Estudio de objetos artesanales, art\u00c3\u00adsticos y de dise\u00c3\u00b1o latinoamericanos"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/china-civilization-empire",
+        "name": "History of China: Bronze Age to the Last Dynasties XSeries Program | edX",
+        "topics": [
+            "History",
+            "History of China: Bronze Age to the Last Dynasties"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "History of China: Bronze Age to the Last Dynasties explores the development of this great civilization from the Neolithic to the last dynasty. We see the formation of political structures and social practices that have lasted into the present; we learn to appreciate artistic and literary traditions of sophistication and refinement; we inquire into its philosophical and religious legacies and their significance for our own lives; and we trace the creation of the largest economy in world history.\nExplore the development of Chinese civilization with this comprehensive series on the history, geography, and culture of the country. From the Neolithic to the creation of the largest global economy in world history, this course will help you gain a critical appreciation of China's literary, philosophical, political, and cultural resources.\nThe political and moral ideas of ancient China are an ever more important part of the country\u00e2\u0080\u0099s modern identity. This series will show how China\u00e2\u0080\u0099s civilization developed and how it became the world\u00e2\u0080\u0099s first centralized bureaucratic state governing the largest population in the world. We will learn why the family is so important in Chinese culture, how Buddhism became part of everyday life, and how the high culture of the literati came to include not only the refined arts of calligraphy and classical Chinese poetry but also dramas and novels. All in the context of a constantly shifting political landscape as empires, dynasties, and economies rose and fell.\nJoin us to gain an appreciation for the artistic, literary, philosophical, religious, and political traditions of the people who created the largest economy in world history.",
+        "language": "English",
+        "outcomes": [
+            "China\u00e2\u0080\u0099s origins and how early concepts in Chinese culture still matter in the 21st century",
+            "How the relationship to the self evolved with the spread of aristocratic culture and Buddhism",
+            "Classical Chinese poetry and the ancient art of calligraphy",
+            "How a shifting social and political elite ultimately brings unity to China, ushering in an age of global empire",
+            "How the economic and political realities of today\u00e2\u0080\u0099s China originated in the region centuries ago"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/china-modern-world",
+        "name": "History of China: The Modern Era XSeries Program | edX",
+        "topics": [
+            "History",
+            "History of China: The Modern Era"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The Qing Dynasty was the wealthiest, most powerful, most civilized state on earth \u00e2\u0080\u0094 but by the 20th century, a 2,000-year imperial tradition is gone. What happened?\nThis series explores the building of contemporary China, a new country that sits on the bedrock of a great and ancient civilization. China re-engages with the West, the Communist Party comes to the fore, the Cultural Revolution returns Mao to power, and economic reforms usher in new foreign investments and renewed international trade. Throughout, enduring issues \u00e2\u0080\u0094 political unity, population growth, environmental costs, social constraints, commercialization, internationalization \u00e2\u0080\u0094 test the country\u00e2\u0080\u0099s national identity.\nWhen did modern Chinese history begin? How do you define a \u00e2\u0080\u009cmodern China\u00e2\u0080\u009d? Will the 21st century be the Chinese century? As China continues to play a critical role on the world stage, understanding these questions is essential to understanding the global world we live in. This course provides that understanding and will enable you to find your own answers.",
+        "language": "English",
+        "outcomes": [
+            "An overview of modern Chinese history, including the fall of the Qing and the end of imperial China.",
+            "How China engaged with the West and how this confrontation still resonates today.",
+            "The birth of modern China between the fall of the Qing and the end of World War II.",
+            "The rise of the Communist Party, the Cultural Revolution, and the reopening of China.",
+            "China from the rise of Deng Xiaoping to the present.",
+            "China\u00e2\u0080\u0099s global leadership role in the 21st century."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/lasallex-history-of-games",
+        "name": "History of Games XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Do you love playing video games and want to take a deep dive into where they come from and how they are developed? Learning the history of popular games will not only increase your love of games but also your appreciation for the work that goes into their development.\nIn this History of Games XSeries program, you will explore over 5,000 years of gaming history. The program provides a historical and analytical approach to the evolution of game design, including how game design has been shaped by cultures and societies around the world, from board games to video game consoles, and the impact that games have had on how people play, learn and connect with each other today.\nThis program is based on the Game Design and VFX School at our LaSalle College Vancouver campus, which has been crowned the #1 undergraduate school in Canada for video game design by the Princeton Review 10 years in a row.\nWith this newfound understanding of the evolution of games, you can begin to make choices about what design elements you might want to include in your own video games.",
+        "language": "English",
+        "outcomes": [
+            "How games evolved from board games to virtual reality games, creating a new reality for the game industry.",
+            "How to distinguish the design, features and applications of video game consoles, such as Sony and Nintendo, developed in specific eras.",
+            "How to research, analyze and deconstruct games into their component parts, systems and dynamics at an introductory level.",
+            "How to identify the major events that affected the history of gaming: the invention of the personal computer, the creation of consoles and microconsoles, and the evolution of games played on mobile devices and social media."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/intellectual-disability-healthcare",
+        "name": "Intellectual Disability Healthcare XSeries Program | edX",
+        "topics": [
+            "Social Sciences",
+            "Intellectual Disability Healthcare"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This XSeries Program has been designed to influence, empower and educate a wider population to improve the health and healthcare of people with intellectual disability.  \nWorldwide, 60+ million people with intellectual disability experience poor health, die prematurely and receive inadequate healthcare. You will gain an understanding of the barriers and enablers for people with intellectual disability, their families, and their healthcare providers.  \nIn our courses, you will learn about best practice in the field of intellectual disability healthcare and gain knowledge to improve health outcomes for this disadvantaged group.",
+        "language": "English",
+        "outcomes": [
+            "What is the experience of people with intellectual disability around the world, what barriers do they face, and how do they overcome these?",
+            "What are their healthcare needs and how can good health be promoted?",
+            "What health conditions do they commonly experience and how can these be assessed and managed?",
+            "What influence do other factors such as ageing and epilepsy have on their health?",
+            "What mental health issues do they have and how can these be recognised and managed?",
+            "What are some of the ethical and legal issues that are of particular relevance to them?"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/federicax-introduccion-a-la-ciencia-politica-ipsamooc",
+        "name": "Introducci\u00c3\u00b3n a la ciencia pol\u00c3\u00adtica IPSAMOOC XSeries Program | edX",
+        "topics": [
+            "Social Sciences",
+            "Introducci\u00c3\u00b3n a la ciencia pol\u00c3\u00adtica IPSAMOOC"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Este programa XSeries sobre Ciencias Pol\u00c3\u00adticas usa enfoques y m\u00c3\u00a9todos anal\u00c3\u00adticos que se pueden aplicar a cualquier organizaci\u00c3\u00b3n o problema complejo, para ofrecer a los estudiantes una s\u00c3\u00b3lida comprensi\u00c3\u00b3n de la estructura y funci\u00c3\u00b3n de los gobiernos nacionales, de la realidad pol\u00c3\u00adtica  y de las instituciones pol\u00c3\u00adticas internacionales, as\u00c3\u00ad como de los retos de la democracia contempor\u00c3\u00a1nea que est\u00c3\u00a1n generando movimientos sociales dentro de la sociedad civil en todo el mundo incluyendo a Europa, Estados Unidos y Am\u00c3\u00a9rica Latina.\nContando con acad\u00c3\u00a9micos de renombre, miembros de la Asociaci\u00c3\u00b3n Internacional de Ciencias Pol\u00c3\u00adticas (IPSA), el programa XSeries abarca, en el nivel introductorio, \u00c3\u00a1reas en el estudio de las ciencias pol\u00c3\u00adticas, desde m\u00c3\u00a9todos y dise\u00c3\u00b1os de investigaci\u00c3\u00b3n y teor\u00c3\u00ada cr\u00c3\u00adtica hasta el an\u00c3\u00a1lisis comparativo de distintos conceptos, grupos de inter\u00c3\u00a9s y sistemas pol\u00c3\u00adticos, la pol\u00c3\u00adtica mundial y las teor\u00c3\u00adas sobre la democracia y la autocracia, incluyendo la teor\u00c3\u00ada pol\u00c3\u00adtica, los actores pol\u00c3\u00adticos, las pol\u00c3\u00adticas p\u00c3\u00bablicas entre otros.\nEste conjunto de cursos est\u00c3\u00a1 pensado para tres tipos de p\u00c3\u00bablico: \r\n\nEstudiantes que est\u00c3\u00a1n pensando en comenzar a estudiar Ciencias Pol\u00c3\u00adticas, Ciencias Sociales o desean ser polit\u00c3\u00b3logos, o los que necesitan un estudio de base en Ciencias Pol\u00c3\u00adticas antes de embarcarse en un estudio de postgrado en un \u00c3\u00a1rea relacionada. El XSeries est\u00c3\u00a1 pensado para ser una orientaci\u00c3\u00b3n \u00c3\u00batil y una herramienta preparativa para conocer m\u00c3\u00a1s sobre los fen\u00c3\u00b3menos y los procesos pol\u00c3\u00adticos.\nPara profesores de Ciencias Pol\u00c3\u00adticas, a cualquier nivel, para que puedan complementar el material de su curso con MOOCs ofrecidos por acad\u00c3\u00a9micos reconocidos mundialmente, en un formato innovador y particularmente adecuado para la generaci\u00c3\u00b3n digital. Descubrir\u00c3\u00a1n que el programa funciona como un rico e interactivo libro de texto online y una \u00c3\u00batil herramienta de referencia, motivando as\u00c3\u00ad el inter\u00c3\u00a9s de los estudiantes por la participaci\u00c3\u00b3n pol\u00c3\u00adtica, el pensamiento pol\u00c3\u00adtico y m\u00c3\u00a1s.\nPara cualquier otra persona interesada en una mayor comprensi\u00c3\u00b3n de los retos a los que se enfrentan las democracias en el mundo contempor\u00c3\u00a1neo, por ejemplo en la importancia de los partidos pol\u00c3\u00adticos, el poder pol\u00c3\u00adtico, la participaci\u00c3\u00b3n, la organizaci\u00c3\u00b3n pol\u00c3\u00adtica de los ciudadanos, la toma de decisiones y m\u00c3\u00a1s. Al igual que aquellos interesados en c\u00c3\u00b3mo la cultura pol\u00c3\u00adtica afecta la opini\u00c3\u00b3n p\u00c3\u00bablica y puede ser objeto de estudio.\n",
+        "language": "English",
+        "outcomes": [
+            "Las principales caracter\u00c3\u00adsticas de los reg\u00c3\u00admenes pol\u00c3\u00adticos y c\u00c3\u00b3mo se gobiernan los reg\u00c3\u00admenes democr\u00c3\u00a1ticos.",
+            "Los principales retos de la pol\u00c3\u00adtica global y c\u00c3\u00b3mo afecta las relaciones internacionales.",
+            "Las bases de los dise\u00c3\u00b1os y m\u00c3\u00a9todos de investigaci\u00c3\u00b3n en las ciencias pol\u00c3\u00adticas.",
+            "Desarrollo del pensamiento conceptual y construcci\u00c3\u00b3n de una teor\u00c3\u00ada fundamental mediante el empleo de conceptos pol\u00c3\u00adticos."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/introduction-developmental-social",
+        "name": "Introduction to Developmental, Social & Clinical Psychology XSeries Program | edX",
+        "topics": [
+            "Humanities",
+            "Introduction to Developmental, Social & Clinical Psychology"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This psychology XSeries is an introduction to developmental, social, and clinical psychology so you can better understand the human mind and how it drives behavior.\r\nYou will learn about:\n\nPsychological disorders and how they are treated\nWhy we act the way we do in certain settings and situations\nHow our bodies and minds develop from birth until later in life\nMethods behind psychological research and how to interpret and report research\n",
+        "language": "English",
+        "outcomes": [
+            "An understanding of human behaviour in social settings",
+            "An appreciation for how we develop over our lifespan",
+            "An introduction to common psychological disorders and how we treat them",
+            "An understanding of the benefits of systematic research, and how to conduct and report it"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/lasallex-introduction-to-game-design",
+        "name": "Introduction to Game Design XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Are you interested in becoming a game designer? Would you like to learn how to create and describe a game concept and what specifically makes a game compelling? If the answer is yes, then this program is for you!\nThe Game Design XSeries program will give you the basic skills you need by teaching you the fundamentals of game development design theory, terminology, principles, processes and practices. You will learn about the entire development cycle for a traditional non-digital game, including identifying the target audience, envisioning a game idea, pitching, prototyping, playtesting and creating the final product.\nThis introductory program is based on the Game Design and VFX School at our LaSalle College Vancouver campus, which has been crowned the #1 undergraduate school in Canada for video game design by the Princeton Review 10 years in a row.\nNow you can turn your passion for video games into a rewarding, high-paying career.",
+        "language": "English",
+        "outcomes": [
+            "How to use theoretical design frameworks, target audience information and game psychology to aid in the game design process.",
+            "How to define success for your game, evaluate its viability, and design and prototype the game idea you have selected.",
+            "How to produce and finalize your game, including finalizing card games and board games and designing packaging and a clear rule book.",
+            "How to achieve game balance through various tools, including fairness, challenge versus success, simplicity and complexity, dominant strategies, and skill versus chance."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/lasallex-introduction-to-level-design",
+        "name": "Introduction to Level Design XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Do you have a love of video games and a desire to take your creativity and eye for detail to a whole new level?\nYou may be asking yourself: What does a level designer do? What makes a successful video game level?\nThe Introduction to Level Design XSeries program will help you answer all these questions. You will be introduced to game development through level design theory, terminology and the development process. You will also learn how to create actions, events and objects in 2D and 3D, and environments that support character development and player experience\u00e2\u0080\u0094all leading to a logical outcome while meeting the objectives of the game.\nThe program focuses on deconstructing, analyzing and documenting various pre-existing levels from shipped games, as well as designing and building multiplayer and single-player levels in a game engine.\nThis program is based on the Game Design and VFX School at our LaSalle College Vancouver campus, which has been crowned the #1 undergraduate school in Canada for video game design by the Princeton Review 10 years in a row.\nGet ready to take your knowledge to a higher level!",
+        "language": "English",
+        "outcomes": [
+            "How level design has evolved, how it contributes to a player\u00e2\u0080\u0099s experience and the different elements it must balance.",
+            "How to classify the different elements that story-based design and dungeon design incorporate in different game genres.",
+            "How to recognize the unique characteristics of different game genres, such as platformers, racing games, strategy games and MOBAs.",
+            "How to evaluate whether a given shooter map is well designed by applying level design concepts and tools."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/federicax-introduction-to-political-science",
+        "name": "Introduction to Political Science IPSAMOOC XSeries Program | edX",
+        "topics": [
+            "Social Sciences",
+            "Introduction to Political Science IPSAMOOC"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This Political Science Xseries program uses critical approaches and analytical methods that can be applied to any complex organisation or problem to offer learners a solid understanding of the structure and function of national governments and international political Institutions, and the challenges of contemporary democracy.\nBenefiting from leading academics associated with the International Political Science Association, the XSeries program covers, at the introductory level, areas in the study of political science, ranging from research design and methods and critical theory to comparative analysis of different political concepts and systems, world politics and theories of democracy and autocracy.\nThis series of courses are meant to appeal to three types of audience:\r\nFor students considering or starting a degree in Political Science or for those requiring a basic grounding in Political Science before embarking on post-graduate study in a related field, the XSeries is intended to serve as a useful orientation and preparation tool.\nFor teachers of Political Science at any level who may choose to complement their course material with MOOCs offered by world renowned scholars in an innovative format particularly suitable for the digital generation. They will find that the course acts as a rich and interactive online textbook and a useful reference tool.\nFor anyone else who is interested in a better understanding of the challenges facing contemporary democracies in the contemporary world.",
+        "language": "English",
+        "outcomes": [
+            "The main characteristics of political regimes and how democratic regimes are governed",
+            "The main challenges in global politics",
+            "The fundamentals of research designs and methods in the social sciences",
+            "Development of conceptual thinking and elementary theory building through the employment of political concepts"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/mitx-introductory-electricity-and-magnetism",
+        "name": "Introductory Electricity and Magnetism XSeries Program | edX",
+        "topics": [
+            "Physics",
+            "Introductory Electricity and Magnetism"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Explore the concepts of electricity and magnetism in this series of courses, based on the second semester of introductory physics at MIT. \nThis series of modules discusses the idea of fields, specifically the electric and magnetic field. We explore several ways to calculate both the electric and magnetic field and also look at dipoles, forces, and simple circuits. We finish the course by combining all of Maxwell\u00e2\u0080\u0099s Equations to see how the speed of light and electromagnetic radiation comes about. \nThis series requires the use of multivariable calculus, although most of the math that is used will be reviewed. It is also best if you have previously completed our 8.01x Introductory Mechanics series.",
+        "language": "English",
+        "outcomes": [
+            "Electric and Magnetic Fields",
+            "Electric and Magnetic Dipoles",
+            "Simple AC and DC circuits",
+            "Electromagnetic Radiation and Energy Flow"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/mitx-introductory-mechanics",
+        "name": "Introductory Mechanics XSeries Program | edX",
+        "topics": [
+            "Physics",
+            "Introductory Mechanics"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Learn physics just like an MIT freshman would in our Introductory Mechanics X-Series. This set of modules will take you through the full set of topics covered in the first semester of physics at MIT. \r\n\nIn the first module, you\u00e2\u0080\u0099ll explore the basic kinematic description of motion and the causes of motion\u00e2\u0080\u0094forces\u00e2\u0080\u0094and discuss more complex situations, such as a rocket whose mass depends on time, or the tension in a massive rope. Then you\u00e2\u0080\u0099ll learn to use energy (kinetic, potential) instead of forces to describe the same physics. Finally, we dive into more complicated topics such as angular momentum, torque, and rotational dynamics and end the series with a mathematical description of simple harmonic motion and use that to approximate the simple pendulum and other cases where we can approximate the potential function as a quadratic.\r\n\nThis series of courses requires the use of calculus, but many of the concepts will be reviewed as needed. ",
+        "language": "English",
+        "outcomes": [
+            "Kinematics",
+            "Forces and Free Body Diagrams",
+            "Circular Motion",
+            "Energy",
+            "Torque and Rotational Dynamics",
+            "Simple Harmonic Motion"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/uamx-lectura-de-imagenes-historicas",
+        "name": "Lectura de im\u00c3\u00a1genes hist\u00c3\u00b3ricas XSeries Program | edX",
+        "topics": [
+            "History",
+            "Lectura de im\u00c3\u00a1genes hist\u00c3\u00b3ricas"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "En medio de la revoluci\u00c3\u00b3n ic\u00c3\u00b3nica de nuestros d\u00c3\u00adas se hace preciso disponer de m\u00c3\u00a9todos para comprender las im\u00c3\u00a1genes. Los mapas, los paisajes, las obras de arte, los medios de masas, las pel\u00c3\u00adculas de cine y las p\u00c3\u00a1ginas de internet nos hablan. Debemos conocer sus c\u00c3\u00b3digos para entenderlas.\nEste programa XSeries pretende poner al servicio del estudiante las claves para analizar las im\u00c3\u00a1genes que los seres humanos hemos producido a lo largo de la Historia. El dominio de su lenguaje nos permitir\u00c3\u00a1 percibirlas en su totalidad y por los cinco sentidos. Por tanto, abarcamos la lectura de tres tipos de im\u00c3\u00a1genes: los mapas, el paisaje y las im\u00c3\u00a1genes hist\u00c3\u00b3ricas entendidas en un sentido amplio y como fuentes de informaci\u00c3\u00b3n. No olvidemos que la historia de las im\u00c3\u00a1genes es m\u00c3\u00a1s amplia que la historia del arte. La primera engloba a la segunda.\nLa especie humana, desde sus or\u00c3\u00adgenes, ha elaborado im\u00c3\u00a1genes con fines religiosos, informativos o placenteros. La sociedad ha experimentado un proceso de multiplicaci\u00c3\u00b3n ic\u00c3\u00b3nica. Una densidad figurativa o abstracta que se ha acelerado en los \u00c3\u00baltimos siglos. El homo sapiens se ha ido transformando cada vez m\u00c3\u00a1s r\u00c3\u00a1pidamente en homo videns. Puesto que ni mucho menos eran iguales el n\u00c3\u00bamero de pinturas que contemplaba el cham\u00c3\u00a1n en las cuevas prehist\u00c3\u00b3ricas que la mara\u00c3\u00b1a de anuncios, carteles, peri\u00c3\u00b3dicos, portales, s\u00c3\u00admbolos, se\u00c3\u00b1ales y signos que nos asaltan en nuestra vida cotidiana. En la historia de la humanidad se ha verificado, pues, el paso de la pintura sagrada del santuario rupestre a la actual era de la saturaci\u00c3\u00b3n de im\u00c3\u00a1genes.\nLo \u00c3\u00banico se ha hecho m\u00c3\u00baltiple. La singularidad del original se ha vulgarizado en la pluralidad de las copias. El carisma del aura se ha desvanecido a manos de la reproducci\u00c3\u00b3n mec\u00c3\u00a1nica. Pero esas im\u00c3\u00a1genes que han hecho de la sociedad una densa iconosfera, lo mismo pueden interpretarse como pedagog\u00c3\u00ada popular que como mirada autoritaria.\nEn suma, en este programa XSeries ofrecido por la Universidad Aut\u00c3\u00b3noma de Madrid seguiremos la trayectoria de las im\u00c3\u00a1genes desde la cueva de Altamira hasta la globalizaci\u00c3\u00b3n ic\u00c3\u00b3nica de nuestro tiempo, permiti\u00c3\u00a9ndonos entender el momento hist\u00c3\u00b3rico que representan.",
+        "language": "English",
+        "outcomes": [
+            "Teor\u00c3\u00adas iconogr\u00c3\u00a1ficas, m\u00c3\u00a9todos de an\u00c3\u00a1lisis y el poder de las im\u00c3\u00a1genes. Seguimos creyendo que las im\u00c3\u00a1genes influyen en nuestras vidas. Desde las pinturas rupestres hasta la pantalla de Internet, nunca han perdido su aura m\u00c3\u00a1gica.",
+            "A leer la Historia a trav\u00c3\u00a9s de obras de arte. A hacer un seguimiento iconogr\u00c3\u00a1fico en la larga duraci\u00c3\u00b3n hist\u00c3\u00b3rica de las Cruzadas y El Quijote. C\u00c3\u00b3mo las im\u00c3\u00a1genes han sido tratadas por los medios de comunicaci\u00c3\u00b3n de masas, de la imprenta al cine.",
+            "Recrear la historia del paisaje y percibirlo por los cinco sentidos. El culto (campo, ciudad, jardines) y el inculto (mar, desierto, monta\u00c3\u00b1a). La percepci\u00c3\u00b3n frontal del paisaje (caminante), lateral (ferrocarril) y vertical (submarinos y sat\u00c3\u00a9lites).",
+            "A descifrar el lenguaje de los mapas: colores, secretos y s\u00c3\u00admbolos. Rol como aparato del poder: en la guerra, la exploraci\u00c3\u00b3n o persuasi\u00c3\u00b3n; en la paz, el viaje o est\u00c3\u00a9tica. Informan y desinforman, portan ideolog\u00c3\u00adas y mensajes, son objetos art\u00c3\u00adsticos.",
+            "A comprender la utilidad diaria de los mapas en el siglo XXI: desde el GPS y el plano del metro hasta la cartograf\u00c3\u00ada por sat\u00c3\u00a9lite y en Internet."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/adelaidex-math-trackx",
+        "name": "MathTrackX XSeries Program | edX",
+        "topics": [
+            "Math",
+            "MathTrackX"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "MathTrackX is an XSeries Program that has been designed to provide learners with a solid foundation in fundamental mathematics and how it can be applied in the real world. The 6 courses in this program will assist in developing the skills, knowledge and confidence for STEM related career development or preparation for further studies.\nGuided by experts from the School of Mathematical Sciences and the Maths Learning Centre at the University of Adelaide, this self-paced program will equip learners with a comprehensive understanding of the key underpinnings of mathematics, required for further study. Learners will develop skills in communicating mathematical solutions and arguments, and build confidence in solving mathematical problems. Topics covered include methods and applications of differentiation, integration, probability and statistics.\nUpon successful completion, this program will be accepted as a prerequisite in place of SACE Stage 2 Mathematical Methods at the University of Adelaide. MathTrackX is not a replacement for SACE Year 12 Stage 2 Maths Methods but could be a useful study tool towards completion of this certificate.\nRecognition of this program may also be applicable for further studies in your state or country. Please contact your accrediting body for any processes that apply if you are hoping to use this program as a bridging course into further education at a University level. ",
+        "language": "English",
+        "outcomes": [
+            "Concepts and techniques from calculus, probability and statistics at a pre-university level.",
+            "How to solve problems and apply reasoning in calculus, probability and statistics.",
+            "Interpretation and evaluation of mathematical and statistical information to determine the correctness of solutions to problems.",
+            "How to implement a sequence of strategies to solve problems and construct logical arguments to communicate the solutions."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/berkleex-music-business-industry-essentials",
+        "name": "Music Business: Industry Essentials XSeries Program | edX",
+        "topics": [
+            "Business & Management",
+            "Music Business: Industry Essentials"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This XSeries will give you the knowledge, both theoretical and practical, to launch your career in the music business as an artist, manager, agent, and/or producer. Authored by industry experts, this XSeries will allow you to learn music industry essentials at your own pace.\nYou will begin with Introduction to the Music Business, which provides a broad overview of the music business, including a history of the industry as well as the various roles that exist and how they relate to one another. You will learn how record contracts are structured as well as a basic overview of copyright law. From there, you will complete Building Your Career in Music: Developing a Brand and Funding, designed for both musical artists and those who wish to work with artists.\nThis course will help you identify the unique elements of your artistry and provide you with the practical business know-how you\u00e2\u0080\u0099ll need to build a fanbase, become a recording artist, and successfully run a crowdfunding campaign. Next, you will complete Copyright Law in the Music Business, which gets to the heart of compensation and revenue in the music business. You will have the opportunity to unpack high-profile copyright law cases involving world-renowned artists, gaining a better understanding of how to leverage the law to their benefit. Finally, you will complete Creativity and Entrepreneurship, in which you\u00e2\u0080\u0099ll learn what it takes to be an effective entrepreneur in the music business, learning skills that are essential for thriving in an ever-changing music industry.",
+        "language": "English",
+        "outcomes": [
+            "How to navigate the music industry as an independent artist, including how to network, leverage social media, and launch a crowdfunding campaign.",
+            "Discuss how the music industry functions, including the various roles within the business, contract agreements, and how artists make money.",
+            "Discuss the exclusive rights granted by copyright law and explain how to leverage those rights as a creator.",
+            "Leverage skills used in musicianship to become a more effective entrepreneur."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/uamx-pedagogias-radicales-emergentes-sobre-la-vida",
+        "name": "Pedagog\u00c3\u00adas radicales emergentes para una vida m\u00c3\u00a1s consciente XSeries Program | edX",
+        "topics": [
+            "Education & Teacher Training",
+            "Pedagog\u00c3\u00adas radicales emergentes para una vida m\u00c3\u00a1s consciente"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "La vida humana transcurre de un lado al otro de un puente. Sus extremos son la concepci\u00c3\u00b3n y el fallecimiento. De ah\u00c3\u00ad que, entre la Pedagog\u00c3\u00ada prenatal y la Pedagog\u00c3\u00ada de la muerte, haya relaciones evidentes. Desde un punto de vista formativo, la m\u00c3\u00a1s destacada es que ambas disciplinas estudian cuestiones radicales, es decir, esenciales, aunque, como suele ocurrir con las ra\u00c3\u00adces, no se vean.\nEste programa XSerie te ofrece una aproximaci\u00c3\u00b3n a dos disciplinas radicales emergentes que intentan contribuir al tr\u00c3\u00a1nsito de una educaci\u00c3\u00b3n basada en la ense\u00c3\u00b1anza y el aprendizaje a una educaci\u00c3\u00b3n basada en la ense\u00c3\u00b1anza y la conciencia, que incluya el aprendizaje, pero sin quedarse en \u00c3\u00a9l.",
+        "language": "English",
+        "outcomes": [
+            "C\u00c3\u00b3mo la educaci\u00c3\u00b3n prenatal puede enriquecerse desde la Pedagog\u00c3\u00ada Prenatal, y sus objetos de formaci\u00c3\u00b3n, ense\u00c3\u00b1anza e investigaci\u00c3\u00b3n.",
+            "C\u00c3\u00b3mo es posible que la educaci\u00c3\u00b3n formal e informal avancen significativamente con la incorporaci\u00c3\u00b3n de la educaci\u00c3\u00b3n prenatal en el sistema educativo y en la formaci\u00c3\u00b3n de educadores naturales y profesionales.",
+            "C\u00c3\u00b3mo la educaci\u00c3\u00b3n que incluye la muerte puede ser una propuesta formativa m\u00c3\u00a1s completa que la educaci\u00c3\u00b3n globalizada, hegem\u00c3\u00b3nica.",
+            "C\u00c3\u00b3mo incluir la muerte en la ense\u00c3\u00b1anza y en los proyectos pedag\u00c3\u00b3gicos del centro.",
+            "C\u00c3\u00b3mo acompa\u00c3\u00b1ar a un estudiante o grupo de estudiantes que han experimentado un fallecimiento significativo."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/google-power-searching-with-google",
+        "name": "Power Searching with Google XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Google is the most widely used search engine on the Web, processing over 3.5 billion searches per day. We\u00e2\u0080\u0099ve become reliant on Google to provide the critical information we need, but do you know how to use Google in the most effective way?\nIn this two-part program, you\u00e2\u0080\u0099ll learn directly from a Google expert how to become a Google power searcher, including advanced search techniques and skills to help you better track down the information you need in a reliable and repeatable way. From learning how to make an effective query to strategies and tools to help you find information that is not indexed in an ordinary way, this program will improve the efficiency and effectiveness of your search process.\nYou\u00e2\u0080\u0099ll learn to harness and build your online search skills. Skills that have become more and more critical, not only in our everyday lives but in our jobs, as we constantly need to find the right information and furthermore discern what\u00e2\u0080\u0099s credible. You\u00e2\u0080\u0099ll improve your ability to separate fact from fiction as the program teaches you how to accurately validate information.\nYour instructor, Daniel Russell, has been on the inside of the Google Search engineering team since 2005. His research on how people use online search tools to find what they seek gets translated into effective tips and tricks everyone should know.",
+        "language": "English",
+        "outcomes": [
+            "Fundamentally understand how Google works.",
+            "How to create an effective search query to yield the most relevant results.",
+            "How to interpret search results.",
+            "How to use advanced Google techniques, including using time restriction (to search in specific date ranges), site restriction (to search in a specific online site), using double quotes correctly, and using other operators accurately.",
+            "Improve fact finding techniques and verify credible sources."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-prediction",
+        "name": "PredictionX XSeries Program | edX",
+        "topics": [
+            "History",
+            "PredictionX"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "How did explorers navigate the world before the creation of meridians? What does astrology have to do with modern computer simulations? How did a 19th-century doctor end an epidemic and create epidemiology as we know it today?\nIn PredictionX, learners will journey through the history of predictions and how the desire to uncover future events lead to the creation of a new world of creative technologies beyond our imagination. Learn how ancient practices led to technological advancements, generated modern conveniences, and gave humanity a glimpse of our own future.",
+        "language": "English",
+        "outcomes": [
+            "Gain insight into the evolution of omens and oracles in ancient civilizations to the creation of forecasting via computer simulations, epidemiology, and GPS.",
+            "Explore text and images to better understand the process of building new technologies and medical practices.",
+            "Examine efforts to predict the future over recorded history."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/stanfordonline-preventing-heart-disease",
+        "name": "Preventing Heart Disease XSeries Program | edX",
+        "topics": [
+            "Medicine",
+            "Preventing Heart Disease"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Coronary artery disease (CAD) is the leading cause of death among men and women in the United States and globally and yet, CAD is preventable, specifically through the early detection and treatment of risk factors. Leading a healthy lifestyle can help lower patients\u00e2\u0080\u0099 risk for CAD, as can the appropriate use of evidence-based medications.\nThe Preventing Heart Disease XSeries program from the Stanford Center for Health Education (SCHE) offers a practical approach to the prevention of initial and recurrent cardiac events by recognizing risk factors and treating them with lifestyle and medications, when necessary. Guided by expert cardiologist Dr. David Maron, you'll explore an integrated approach to patient care, including the theory of preventive cardiology and the application of evidence-based principles to real-world clinical practice. You\u00e2\u0080\u0099ll examine the impact of risk factors on CAD, and how a healthy lifestyle and medications, when needed, can reduce risk and eventual onset. Leave the program prepared with behavior change strategies and appropriate use of medications that will encourage patients to understand the value of preventive interventions in managing their risk factors.\nIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.\nCredit designation\u00e2\u0080\u00a8\r\nAmerican Medical Association (AMA)\nThe Stanford University School of Medicine designates this enduring material for a maximum of 48.00 AMA PRA Category 1 Credits\u00e2\u0084\u00a2. Physicians should claim only the credit commensurate with the extent of their participation in the activity.\nView the full accreditation information here from Stanford Medicine.\nHow to claim credit\u00e2\u0080\u00a8\nAt the end of the XSeries Program with successful completion, a claim credit and evaluation link will be emailed to you with more detailed instructions.",
+        "language": "English",
+        "outcomes": [
+            "Learn how to recognize which behavioral and other risk factors are causes of atherosclerotic cardiovascular disease.",
+            "Learn how to assess an individual's risk of atherosclerotic cardiovascular disease.",
+            "Learn how metabolic factors increase the risk of coronary artery disease.",
+            "Learn how to recommend treatment options for individuals with metabolic factors to reduce the risk of coronary artery disease.",
+            "Learn how to recommend behavioral change strategies that help to reduce the risk of coronary artery disease."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-shakespeares-life-work-and-characters",
+        "name": "Shakespeare's Life, Work, and Characters XSeries Program | edX",
+        "topics": [
+            "Humanities",
+            "Shakespeare's Life, Work, and Characters"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Join us for an exploration of Shakespeare! From a biographical history of the playwright and his time to a review of his notable\u00e2\u0080\u0099s \u00e2\u0080\u009coutsider\u00e2\u0080\u009d characters: the disturbing and uncanny \u00e2\u0080\u009cothers\u00e2\u0080\u009d whose presence at the margins of society is both celebrated and contested. From lectures filmed on-location in Venice, London, and Stratford-upon-Avon to conversations with artists, academics, and librarians at Harvard, you will have unprecedented access to a range of resources for unlocking Shakespeare's classic plays. You will also be invited to share your own theatrical interpretations and to consider how the meaning of a work of art changes depending on the time, context, and culture.\nIn Shakespeare\u00e2\u0080\u0099s Life and Work, learn how to read William Shakespeare's plays through his biography, Elizabethan and Jacobean history, and modern performance. Moving between the world in which Shakespeare lived and the present day, this course will introduce different kinds of literary analysis that you can use when reading Shakespeare.\nIn William Shakespeare\u00e2\u0080\u0099s Hamlet, the ghost of the dead King of Denmark appears to his son, setting off a chain of events that culminates in the play\u00e2\u0080\u0099s notoriously bloody finale. But how would this mysterious figure have been understood in Shakespeare\u00e2\u0080\u0099s world? You\u00e2\u0080\u0099ll learn the narrative sources of Hamlet, the religious convictions that shaped how people in Renaissance England understood the afterlife, and the ways that Shakespeare\u00e2\u0080\u0099s Ghost would have thrilled and challenged its original audience.\nIn William Shakespeare\u00e2\u0080\u0099s The Merchant of Venice, the Jewish moneylender Shylock proposes a \u00e2\u0080\u009cmerry sport\u00e2\u0080\u009d to the merchant Antonio: he will lend Antonio the money he needs if Antonio agrees to let Shylock take a pound of his flesh should he default. But what does Shylock want from the bond, and how merry does the play ultimately prove? In this section, you\u00e2\u0080\u0099ll be introduced to Jewish history in Venice and in England, to the ways in which Shakespeare\u00e2\u0080\u0099s own audience might have responded to the play and its genre, and to the history of the play\u00e2\u0080\u0099s production through the twenty-first century.\nIn William Shakespeare\u00e2\u0080\u0099s Othello, the Venetian general Othello represents himself to Desdemona and to the Venetian Senate through fantastic tales. Othello\u00e2\u0080\u0099s stories \u00e2\u0080\u0094 about himself, to himself, and to others \u00e2\u0080\u0094 sets in motion a tragic romance. You\u00e2\u0080\u0099ll learn the ways in which Shakespeare's characters tell stories within the play; how actors, directors, composers, and other artists tell stories through Othello in performance; and how the play grapples with larger issues including power, identity, and the boundary between fact and fiction.",
+        "language": "English",
+        "outcomes": [
+            "Foundational knowledge on the cultural significance of Shakespeare\u00e2\u0080\u0099s plays.",
+            "How Shakespeare\u00e2\u0080\u0099s work was considered in his own time and in the present, in his own country and around the world.",
+            "Appreciate Shakespearean dramaturgy and language.",
+            "Identify historical contexts that illuminate Shakespeare\u00e2\u0080\u0099s artistic choices.",
+            "Explore the implications of different theatrical and performance interpretations."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/aws-starting-your-career-with-aws-cloud",
+        "name": "Starting your Career with AWS Cloud XSeries Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Starting your career in the cloud computing industry is a good choice, and AWS Cloud is an excellent place to begin the journey. Amazon Web Services offers a wide range of services and tools that enable businesses to operate more efficiently and effectively. There are numerous reasons why starting your career with AWS Cloud is desirable:\r\n\nHigh demand for AWS Cloud skills: As more and more businesses move their operations to the cloud, the demand for AWS Cloud professionals is increasing rapidly. This trend is expected to continue as more businesses adopt cloud-based technologies to improve their operations.\nDiverse career paths: AWS Cloud offers a variety of career paths, ranging from technical roles such as cloud architects and DevOps engineers to non-technical roles such as project manager, sales and marketing. Whether you are tech, non-tech or somewhere in between, there\u00e2\u0080\u0099s an AWS Cloud career path for you.\nLearning and growth opportunities: Working in the AWS Cloud opens a wide range of training and certification programs that enable professionals to maximize their careers. Whether you are new to the industry or have experience, there is always something changing and growing in cloud computing.\r\nMake a difference: The AWS Cloud helps individuals and businesses to innovate, improve efficiency, cut costs and scale growth. As an AWS Cloud professional, you won\u00e2\u0080\u0099t just solve problems \u00e2\u0080\u0093 you\u00e2\u0080\u0099ll have a chance to work on projects that have a worldwide impact on businesses and communities.\n\nWith high demand for AWS Cloud skills, diverse career paths, opportunities for learning and growth, and meaningful work, the AWS Cloud is an attractive and fulfilling place to build your cloud computing career.",
+        "language": "English",
+        "outcomes": [
+            "Understand which cloud computing roles that are in demand.",
+            "Identify and assess the skills and knowledge necessary to tasks in cloud computing roles.",
+            "Describe how cloud expertise and knowledge of AWS can help build solutions."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/wasedax-steps-in-japanese-for-beginners",
+        "name": "Steps in Japanese for Beginners XSeries Program | edX",
+        "topics": [
+            "Language",
+            "Steps in Japanese for Beginners"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This program is designed for a Japanese beginner to learn how to express basic ideas in Japanese, by using simple vocabulary and sentence patterns commonly used in college life.\nFor this purpose, the course will provide video lectures/practice and quizzes to help learn Japanese conversation, grammar, and vocabulary. Also, discussion forums about the Japanese language and culture are available through the program.\nLearn the language and cultural values of Japan through conversation and expand your world.",
+        "language": "English",
+        "outcomes": [
+            "Introduction to Japanese language (characters, pronunciation, etc.)",
+            "Basic conversational skills (greetings, favorite foods, ordering, etc.)",
+            "Basic vocabulary and grammar needed for basic conversation skills",
+            "Japanese culture, through everyday expressions"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/wasedax-steps-in-japanese-for-beginners-2",
+        "name": "Steps in Japanese for Beginners 2 XSeries Program | edX",
+        "topics": [
+            "Language",
+            "Steps in Japanese for Beginners 2"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "In aim of the first series is to be able to greet and introduce yourself. The second series is aimed at developing your ability to participate in small talk (for example, ii tenki desu ne - It's a nice day today isn't it), to explain your feelings (for example, tabetai - I wanna eat something, or yasumitai - I want to take a break), to describe your health, and to express your opinions.\nIn addition to this, the course assists in developing an understanding of how people interact in the culture by introducing casual language you would use with a close friend, and polite language used with people more senior than you.\nTo enable you to do these things, the course provides video lectures/practice and quizzes, to help learn Japanese conversation, grammar, and vocabulary. Also, discussion forums about the Japanese language and culture are available through the program.",
+        "language": "English",
+        "outcomes": [
+            "Basic conversational skills.",
+            "Part 1: Learn casual expressions which are used among people who know each other well and the small talk which helps build personal relationships.",
+            "Part 2: Learn how to ask the details about a situation and make requests to people.",
+            "Part 3: Learn how to explain a troubling situation, and how to ask for assistance from people.",
+            "Basic vocabulary and grammar needed for basic conversation skills",
+            "Japanese culture, through everyday expressions"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/wasedax-steps-in-japanese-for-beginners-3",
+        "name": "Steps in Japanese for Beginners 3 XSeries Program | edX",
+        "topics": [
+            "Language",
+            "Steps in Japanese for Beginners 3"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The aim of series 1 was to be able to greet and introduce yourself, and series 2 was aimed at developing your ability to participate in small talk, to describe your body condition, and to express your opinions about a close topic. The aim of series 3 is to solve problems that happen in daily life in Japanese. We will learn Japanese expressions that are used when the relationships are getting wider and deeper in romantic, academic, or business scenes in daily life. For example, we will learn how to express your opinion or emotion such as encouragement, advice, joy, hesitation, worry, anger, refusal, apology, and so on.",
+        "language": "English",
+        "outcomes": [
+            "Basic conversational skills",
+            "Part1: We will learn the following expressions; feelings that occur when relationships such as junior/senior or romantic relationships get deeper, how to persuade when unpredicted things happen, and how to encourage or give advice.",
+            "Part 2: We will learn the following expressions; how to greet formally in a part time job interview or at workspace, how to explain, how to deal with troubles, and how to express your opinion.",
+            "Part 3: We will learn how to deal with troubles in company or problems in college life, and expression of presentation in academic scenes.",
+            "Basic vocabulary and grammar needed for basic conversation skills.",
+            "Japanese culture, through everyday expressions."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/stanfordonline-telehealth-strategy-implementation-and-optimization",
+        "name": "Telehealth: Strategy, Implementation, and Optimization XSeries Program | edX",
+        "topics": [
+            "Health & Safety",
+            "Telehealth: Strategy, Implementation, and Optimization"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "In recent years, telehealth \u00e2\u0080\u0094 and its subcategory, telemedicine \u00e2\u0080\u0094 has seen its usage spike dramatically as healthcare continues to go through a historically transformative period. The COVID-19 pandemic may help explain this boom to some extent, but the technology\u00e2\u0080\u0099s expansion is nevertheless indicative of a long-term change in the way patients and healthcare workers interact. After all, telehealth offers a safe, efficient solution to many medical needs, without the patient having to leave their home.\nThe Stanford Center for Health Education (SCHE) Telehealth: Strategy, Implementation, and Optimization XSeries program allows you to explore the strategic considerations and best practices of telehealth and telemedicine. Learners examine the clinical, operational, financial, and legal factors of telehealth, and assess how this technology can become a bridge to equitable healthcare access.\nIn the program, you\u00e2\u0080\u0099ll learn to overcome telehealth\u00e2\u0080\u0099s risks and barriers, and equip yourself to make the most of its opportunities. Finally, you\u00e2\u0080\u0099ll explore how to effectively empower your organization\u00e2\u0080\u0099s telehealth efforts in enabling successful implementation and ongoing optimization of telehealth delivery.\nAccreditation\nIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.\nCredit designation\nAmerican Medical Association (AMA)\nThe Stanford University School of Medicine designates this enduring material for a maximum of 48.00 AMA PRA Category 1 Credits\u00e2\u0084\u00a2. Physicians should claim only the credit commensurate with the extent of their participation in the activity.\nView the full accreditation information here from Stanford Medicine.\nHow to claim credit \nAt the end of the XSeries program with successful completion, a claim credit and evaluation link will be emailed to you with more detailed instructions.",
+        "language": "English",
+        "outcomes": [
+            "Develop practical strategies and approaches to implementing telehealth in your organization.",
+            "Build an understanding of the clinical, operational, financial, and legal factors of telehealth delivery and utilization.",
+            "Enhance your ability to identify and overcome the risks and barriers of telehealth solutions, while exploring its potential.",
+            "Gain skills to effectively empower your organization in successfully implementing and optimizing telehealth delivery."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/civil-war-reconstruction",
+        "name": "The Civil War and Reconstruction XSeries Program | edX",
+        "topics": [
+            "History",
+            "The Civil War and Reconstruction"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Civil War and Reconstruction, which introduces students to the most pivotal era in American history. The Civil War transformed the nation by eliminating the threat of secession and destroying the institution of slavery. It raised questions that remain central to our understanding of ourselves as a people and a nation \u00e2\u0080\u0093 the balance of power between local and national authority, the boundaries of citizenship, and the meanings of freedom and equality. This XSeries will examine the causes of the war, the road to secession, the conduct of the Civil War, the coming of emancipation, and the struggle after the war to breathe meaning into the promise of freedom for four million emancipated slaves. One theme throughout the series is what might be called the politics of history \u00e2\u0080\u0093 how the world in which a historian lives affects his or her view of the past, and how historical interpretations reinforce or challenge the social order of the present.",
+        "language": "English",
+        "outcomes": [
+            "How generations of historians have explained the road to secession, the causes and conduct of the war, the coming of emancipation, and the struggle to breathe meaning into the promise of freedom for four million emancipated slaves",
+            "Slavery's central role in the southern and national economies",
+            "How the issue of the expansion of slavery came to dominate national politics",
+            "The dramatic change in historians' interpretations of the period in the last two generations",
+            "How the Civil War and Reconstruction turned on issues of continued relevance today"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-us-government",
+        "name": "U.S. Government XSeries Program | edX",
+        "topics": [
+            "Social Sciences",
+            "U.S. Government"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "What are the foundations of the U.S. political system? How do leading institutions such as the presidency and Congress operate? Where do public opinion, political parties, groups, and the media fit in? What explains America\u00e2\u0080\u0099s economic, social, and foreign policies? If exploring these questions interests you, then this series is for you.\nYou\u00e2\u0080\u0099ll examine the American political system, including its constitutional foundations and public policies. You\u00e2\u0080\u0099ll learn about U.S. institutions and U.S. political organizations while maintaining a perspective on the \"big picture\". What are the driving forces and persistent tendencies of American politics? Who governs America \u00e2\u0080\u0094 how, when and why? Lectures highlight the main features of American politics and case studies will prompt you to think critically about what you have learned.\nAmerican politics has all the aspects of drama, but it has real meaning for people\u00e2\u0080\u0099s everyday lives. This introduction to the U.S. government will enable you to understand the origin of key narratives in U.S. political discourse and guide you through a complex system so that you can enable change in your communities.",
+        "language": "English",
+        "outcomes": [
+            "Public policy in America",
+            "The dynamics of American politics",
+            "The inner workings of the three branches of the U.S. Federal Government",
+            "The forces in American politics that shift the political landscape",
+            "How early American politics informed the U.S. Constitution"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/columbiax-veteran-transition",
+        "name": "Veteran Transition: Academic Excellence and Career Readiness XSeries Program | edX",
+        "topics": [
+            "Education & Teacher Training",
+            "Veteran Transition: Academic Excellence and Career Readiness"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Note: All CVTI courses are free for everyone.\nThe Columbia University Center for Veteran Transition and Integration (CVTI) supports excellence and innovation in transition programming for current and former members of the armed forces.\nAs a service member in transition, you may face barriers reaching your potential in accessing higher education and beginning meaningful careers, despite the many effective programs offered to this population by the Department of Labor, Department of Defense\u00e2\u0080\u0099s Transition Assistance Program, and other programs offered by the Army, Air Force, Navy, Marine Corps, and Coast Guard. With this in mind, the CVTI is dedicated to creating free courses that will help to break down those barriers to your successful transition. Currently we are offering three courses to meet these demands, with more courses on the way. While these courses are created for veterans and active duty service members, they are free and available for all.\nAttaining Higher Education is a course designed to facilitate the successful transition of active duty service members and veterans to postsecondary education, whether at a two- or four-year college for an associate's or bachelor's degree, or even graduate school.\nUniversity Studies for Student Veterans helps orient veterans to the norms and expectations of the college classroom, along with offering strategies to ease the transition, to help achieve academic goals, and to allow students to optimize their college education.\nFind Your Calling: Transition Principles for Returning Veterans will focus on the development of interpersonal, intrapersonal, and intellectual character strengths as they relate to making a successful career transition from military service to the civilian workforce. The course content is meant to provide you with a framework for an iterative process of self-reflection and the development of practical skills that enables you to make career choices that better align with your values, ambitions, and continued service. Ultimately, this course helps you answer the question: What should I do next?",
+        "language": "English",
+        "outcomes": [
+            "General and detailed information about colleges and universities.",
+            "Foundational academic and study skills for achieving academic success in college.",
+            "Strategies for more effective reading, writing, test preparation, and time management.",
+            "Practical tips and strategies for making a successful military-to-civilian career transition.",
+            "A framework for how to begin thinking about and exploring new career opportunities."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/visualizing-japan",
+        "name": "Visualizing Japan XSeries Program | edX",
+        "topics": [
+            "Social Sciences",
+            "Visualizing Japan"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "This 3-course XSeries examines the modern history of Japan, from the 1850s to 1930s, as well as that of postwar Tokyo through the rich historical visual records.  \nThe first course, \u00e2\u0080\u009cVisualizing Japan (1850s-1930s): Westernization, Protest, Modernity,\u00e2\u0080\u009d considers methodologies historians use to \u00e2\u0080\u009cvisualize\u00e2\u0080\u009d the past and look into some historical events such as Commodore Perry\u00e2\u0080\u0099s 1853-54 expedition to Japan and Tokyo\u00e2\u0080\u0099s 1905 Hibiya Riot. It also examines modernity, as seen in the archives of the major Japanese cosmetics company, Shiseido.  \nThe second and third courses, Visualizing Postwar Tokyo, Parts 1 & 2, focus on the changes and developments of Tokyo after World War II, as well as the gazes exchanged in postwar Tokyo, as a place of visualities.  \nThis XSeries gives a great overview of Japan\u00e2\u0080\u0099s transition into the modern world and the transformation of postwar Tokyo.",
+        "language": "English",
+        "outcomes": [
+            "Methodologies to \"visualize\" Japanese history between the 1850s and 1930s",
+            "An understanding of Westernization, social protest, modernity in Japanese history through digital imagery",
+            "Strategies for learning \u00e2\u0080\u0094 and teaching \u00e2\u0080\u0094 history through visual sources",
+            "Noteworthy factors which promoted the development and change of Tokyo in the postwar period, such as the U.S. occupation and Tokyo Olympic Games",
+            "The dynamic exchange of gazes in postwar Tokyo from different perspectives"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/water-management",
+        "name": "Water Management XSeries Program | edX",
+        "topics": [
+            "Engineering",
+            "Water Management"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Safe water supply and hygienic water treatment are prerequisites for the well-being of communities all over the world. This Water XSeries, offered by the water management experts of TU Delft, will give you a unique opportunity to gain access to world-class knowledge and expertise in this field.\nThis 3-course series will cover questions such as: How does climate change affect water cycle and public safety? How to use existing technologies to treat groundwater and surface water so we have safe drinking water? How do we take care of sewage produced in the cities on a daily basis? You will learn what are the physical, chemical and biological processes involved; carry out simple experiments at home; and have the chance to make a basic design of a drinking water treatment plant",
+        "language": "English",
+        "outcomes": [
+            "An understanding of the global water cycle and its various processes",
+            "The mechanisms of climate change and their effects on water systems",
+            "Drinking treatment and quality of groundwater and surfacewater",
+            "The major pollutants that are present in the sewage",
+            "The physical, chemical, and biological processes involved in water treatment and distribution",
+            "How urban water services function and the technologies they use"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/columbiax-women-have-always-worked",
+        "name": "Women Have Always Worked XSeries Program | edX",
+        "topics": [
+            "History",
+            "Women Have Always Worked"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "Please note that you have the option to enroll in each individual course either as an auditor (free of charge) or with a verified certificate, by going to the course page and selecting the \u00e2\u0080\u009cEnroll Now\u00e2\u0080\u009d button. A list of the 4 courses in this series is available below.\nWithout women\u00e2\u0080\u0099s history we have only a partial and incomplete knowledge of our past. The Women Have Always Worked four-part series will explore women\u00e2\u0080\u0099s participation in the economy, politics, and social life of the nation, from Colonial America to the present day. We will challenge old truisms about the past and learn to view American history from a new and rich historical perspective. These four MOOCs investigate the practice of women\u00e2\u0080\u0099s history; they explore how and why we write women\u00e2\u0080\u0099s history, and why it is important that we do so.\nTogether we will learn how women began to ask for equality and what the word equality meant and still means for different women. But we'll also ask you to consider a more difficult set of questions that revolve around whether equality for some women might limit the freedom of others. Will women demand benefits for themselves that provide a few with equality with men while fomenting inequality with each other? What about sisterhood? Will some of us move forward while others are left behind? These are questions that haunt us today.",
+        "language": "English",
+        "outcomes": [
+            "How women\u00e2\u0080\u0099s participation in, exclusion from, and impact on American economic, political, and social life have altered American history",
+            "How key figures and events have challenged the role of women in the home and workplace",
+            "How ideas, such as democracy, citizenship, liberty, patriotism, and equality have differently shaped the lives of women and men",
+            "How women of different races and classes have experienced work, both inside and outside the home",
+            "How historians of women and gender study America\u00e2\u0080\u0099s past, including hands-on opportunities to practice analyzing primary sources from the present and the past",
+            "How women\u00e2\u0080\u0099s history has developed and changed over time"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/xseries/harvardx-world-religions-through-scriptures",
+        "name": "World Religions Through Their Scriptures XSeries Program | edX",
+        "topics": [
+            "Humanities",
+            "World Religions Through Their Scriptures"
+        ],
+        "skills": [],
+        "type": "XSeries",
+        "description": "The study of religion is rich and fascinating \u00e2\u0080\u0094 and goes well beyond beliefs and ritual practices. In this series, learners explore the diversity and evolution of the religions around the world. Through scripture, learners will explore themes such as gender and sexuality, art and science, violence and peace, and power and authority.\nJudaism, Christianity, and Islam are global religions with diversity in language, culture, history, and creed, but the sacred scriptures of the Tanakh, the Bible, and the Quran give followers a shared language. How do Jews draw inspiration and guidance from traditional texts? How have Christians lived out their stories and teachings? What is the relationship between the Quran and the prophet Mohammed? This series will answer these questions and introduce you to these scriptures.\nHinduism, Buddhism, and Sikhism present a rich array of religious texts from across the Indian subcontinent. How do these texts influence the lives of adherents? What challenges do multiple collections of scriptures present for practitioners? Why is Sikhism, the fifth largest religion, relatively unknown in the Western world? Learners will explore the tenets, beliefs, and history of these followers by analyzing scripture, literature, and contemporary media relevant to these religions.\nBoth the faithful and the questioning are invited to join us as we traverse the globe to explore the power of the written word and its relevance to contemporary public life and the spiritual lives of all who encounter it.",
+        "language": "English",
+        "outcomes": [
+            "Interpret the roles world religions to play in today and throughout history.",
+            "Appreciate the internal diversity and evolution of world religions and their scriptures.",
+            "Understand the strengths and limitations of learning about world religions through their sacred texts.",
+            "Explore how scriptures are interpreted to diverse ends in different historical and cultural contexts.",
+            "Engage in nuanced readings of world scriptures."
+        ]
+    }
+]

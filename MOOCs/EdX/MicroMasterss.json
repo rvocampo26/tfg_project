@@ -1,0 +1,1018 @@
+[
+    {
+        "url": "https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures",
+        "name": "Algorithms and Data Structures MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "This MicroMasters program is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems through implementing over one hundred algorithmic coding problems in a programming language of your choice. \nNo other online course in Algorithms even comes close to offering you a wealth of programming challenges that you may face at your next job interview. To prepare you, we have invested thousands of hours designing challenges as an alternative to multiple choice questions that you usually find in MOOCs. We believe in learning through application, especially when it comes to learning algorithms.\nFor each algorithm you develop and implement, we have designed multiple tests to check its correctness and running time \u00e2\u0080\u0094 you will have to debug your programs without even knowing what these tests are! It may sound difficult, but we believe it is the only way to truly understand how the algorithms work and to master the art of programming. ",
+        "language": "English",
+        "outcomes": [
+            "Understand essential algorithmic techniques and apply them to solve algorithmic problems",
+            "Implement programs that work in less than one second even on massive datasets",
+            "Test and debug your code even without knowing the input on which it fails",
+            "Formulate real life computational problems as rigorous algorithmic problems",
+            "Prove correctness of an algorithm and analyze its running time"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/gtx-analytics-essential-tools-and-methods",
+        "name": "Analytics: Essential Tools and Methods MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Nominated for the 2020 edX Prize\nGain an interdisciplinary understanding of the essential fundamentals of analytics, including analysis methods, analytical tools, such as R, Python and SQL, and business applications.\nUsing common analytics software and tools, statistical and machine learning methods, and data-intensive computing and visualization techniques, learners will gain the experience necessary to integrate all of these parts for maximum impact.\nProject experience is also included as part of the MicroMasters program. Through these projects, learners will hone their skills with data collection, storage, analysis, and visualization tools, as well as gain instincts for how and when each tool should be used. \nThese projects provide hands-on experience with real-world business applications of analytics and a deeper understanding of how to apply analytics skills to make the biggest difference.",
+        "language": "English",
+        "outcomes": [
+            "Use essential analytics tools like R, Python, SQL, and more.",
+            "Understand fundamental models and methods of analytics, and how and when to apply them.",
+            "Learn to build a data analysis pipeline, from collection and storage through analysis and interactive visualization.",
+            "Apply your new analytics skills in a business context to maximize your impact."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/adelaidex-big-data",
+        "name": "Big Data MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Big data is changing the way businesses operate. Driven by a new scale of data collection that provides massive levels of information, businesses are now able to analyse and gather data insights to make better-informed decisions.\nData scientists and business analysts are in high-demand as companies look to use data to improve their business operations.\nIn this Big Data MicroMasters program, you will learn tools and analytical methods to use data for decision-making, collect and organise data at scale, and gain an understanding of how data analysis can help to inform change within organisations.\nYou\u00e2\u0080\u0099ll develop both the technical and computational skills that are in high demand across a range of industries. You\u00e2\u0080\u0099ll develop critical skills in programming for data science, computational thinking, algorithm design, big data fundamentals, and data-driven analysis, with plenty of opportunities to apply and explore your new learnings through a range of case studies.",
+        "language": "English",
+        "outcomes": [
+            "How to design algorithms",
+            "Understand fundamental programming concepts including data abstraction, storage and structures",
+            "Understand computational thinking which includes decomposition, pattern recognition and abstraction",
+            "Data-driven problem and algorithm design for big data",
+            "Interpretation of data representation and analysis",
+            "Understand key mathematical concepts, including dimension reduction and Bayesian models",
+            "How to use analytical tools such as R and Java"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/hkustx-big-data-technology",
+        "name": "Big Data Technology MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "This program integrates a variety of topics to allow students to learn the fundamental facets of big data and how it is used in the real world. Topics include mathematical foundations (convex/non-convex optimization and computational methods), data analytics (from data collection, integration, cleansing, mining, machine learning, to business intelligence), and data processing infrastructures (MapReduce, Hadoop, Apache Spark, SQL).\nThe courses in this program are offered by renowned faculty members from the Computer Science and Engineering Department and the Mathematics Department at HKUST. HKUST ranks at the 30th in Computer Science and Information Systems and 36th in Mathematics according to 2021 QS World University Rankings by Subject.",
+        "language": "English",
+        "outcomes": [
+            "Identify, explain, and use Big Data infrastructure.",
+            "Solve Big Data integration and storge problems.",
+            "Perform various data analytics tasks using Big Data management and computing techniques.",
+            "Investigate existing problems on Big Data and conduct original Big Data research."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/wageningenx-business-and-operations-for-a-circular-bio-economy",
+        "name": "Business and Operations for a Circular Bio-Economy MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Energy & Earth Sciences",
+            "Business and Operations for a Circular Bio-Economy"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The world is moving from a linear \u00e2\u0080\u0098cradle-to-grave\u00e2\u0080\u0099 economy to a more sustainable circular \u00e2\u0080\u0098cradle-to-cradle\u00e2\u0080\u0099 economy. In this new world, it\u00e2\u0080\u0099s critical to determine if alternative (biobased) resources have the potential to become economically viable sustainable sources for the production of high value food and materials, feed and energy. This requires the development of feasible biobased business strategies and the skills to apply these strategies to operations and logistics. Companies that want to succeed in this industry must be prepared for the challenges and opportunities ahead.\nThis MicroMasters programme consists of three courses and a capstone. The courses will teach you about the basics of biobased materials/natural resources and their conversion to useful products and services. This will help you to understand and evaluate strategic, technological, and operational aspects of running a biobased business and therefore understand the dynamics in biobased business investments and the factors that influence them. You will learn to design and evaluate biobased supply (and value) chains using quantitative methods.\nIn the final course you will perform a capstone project in which you apply the knowledge from all courses to your own business case, which gives you the opportunity to receive feedback from experts in the field of biobased business and operations.\nCompletion of this MicroMasters programme in Business and Operations for a Circular Bio-Economy will provide you with knowledge and tools to analyze the business and operations sides of the switch from fossil to renewable, biobased resources. Upon earning the programme certificate, you will be able to contribute substantially to managerial decision-making, as well as deal with issues regarding supply chain management and planning.\nSubscribe now to this MicroMasters programme and learn how to implement natural resource/biobased resource business models and seize this economic opportunity that lies ahead!",
+        "language": "English",
+        "outcomes": [
+            "Understand and evaluate strategic, technological, and operational aspects of running a biobased business",
+            "Understand the basics of biobased materials and their conversion to useful products and services",
+            "Identify factors that affect biobased investments and innovations",
+            "Create business strategies in a biobased economy",
+            "Design and evaluate biobased supply chains using quantitative methods"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/uqx-business-leadership",
+        "name": "Business Leadership MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Communication",
+            "Business Leadership"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": " Business leadership is more than just a fancy job title and a corner office. Effective leadership requires a deep understanding of the organisation; the people who run it; the context in which it operates; and perhaps most importantly, self-insight. By building these competencies, the Business Leadership MicroMasters program prepares both emerging and experienced managers for facing the challenges of leadership.\nEach course in the MicroMasters program integrates current academic theories with the wisdom of experienced leaders, providing a learning experience that can\u00e2\u0080\u0099t be accomplished in the classroom alone. The objective: empower learners with the knowledge and skill to act effectively as leaders.\nThis MicroMasters program is intended for people who are interested in becoming effective leaders within their organization. This program and capstone project will teach you the skills needed to inspire your colleagues and to evolve your business. ",
+        "language": "English",
+        "outcomes": [
+            "Understand the strengths and weaknesses of various leadership styles, and gain insight into your own leader tendencies.",
+            "Improve your ability to lead complex modern organisations by developing your decision-making skills.",
+            "Better engage your people, and develop more collaborative teams.",
+            "Navigate the broader social issues and political pressures impacting your business.",
+            "Lead more effective change initiatives in your organization"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/iimbx-business-management",
+        "name": "Business Management MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Business Management"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Gain an advantage by learning the key business essentials through this comprehensive online MicroMasters program, covering all core management disciplines.    \r\n\r\nUnderstanding the managerial context of decision making is critical to being a successful manager. The MicroMasters program in management from the Indian Institute of Management Bangalore, aims to provide the learner with the perfect learning pathway to develop core competencies across six management disciplines:  Accounting Finance Operations Management People Management  Marketing  Business Strategy",
+        "language": "English",
+        "outcomes": [
+            "An overview of business organizations and the role accounting plays in managing them.",
+            "Understand the role of operations management in a firm and develop the ability to structure and solve operations related problems.",
+            "Acquire a deeper understanding of the different aspects of people management.",
+            "An introduction to the systematic framework of marketing management and different approaches for marketing goods and services.",
+            "Master concepts and tools that are useful to managers for making financial decisions.",
+            "Understand the analytical approaches underlying strategy and competitive advantage."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/wisconsinx-business-data-insights-and-analytics",
+        "name": "Business: Data, Insights and Analytics MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Companies increasingly rely on analysts and data scientists to convert data into actionable insights to remain competitive. The Wisconsin Business: Data, Insights and Analytics MicroMasters program will help jump-start your career as an analyst where you will gain skills in data visualization, database management, statistics, programming, and cloud computing.\nFounded in 1900, the Wisconsin School of Business established one of the first five business programs in the nation. Wisconsin faculty and staff are committed to helping you achieve your professional goals and work to get you on the path to career success.\nThe ability to turn data into decisions is crucial in our fast-paced world, and as a business analyst you can learn to leverage data to answer complex business questions.",
+        "language": "English",
+        "outcomes": [
+            "Learn Python, SQL, Tableau, AWS, and other top tools.",
+            "Leverage expertise in data management software and statistical programming.",
+            "Deliver insights and recommendations for organizations using cutting-edge descriptive, predictive, and prescriptive analytics techniques."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/doanex-certified-lifestyle-medicine-executive",
+        "name": "Certified Lifestyle Medicine Executive MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Certified Lifestyle Medicine Executive"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Health systems around the world are confronting ever-rising costs, poor outcomes and economic inefficiencies. In addition, life expectancy is increasing and people are remaining active longer. The need for strong administration is great, which is why employment of Healthcare Administrators is projected to grow 17 percent from 2016 to 2026.  The Certified Lifestyle Medicine Executive MicroMasters program will introduce you to leadership frameworks and prepare you to manage the complex issues in public health, healthcare systems, and related industries. You will learn the skills required to prevent and address human disease through the use of lifestyle medicine and population-based healthcare delivery models that engage the individual, community and the larger society. You will also examine how an emphasis on the value of services rendered in clinical care and public health practices, as opposed to volume, is the desired goal of healthcare delivery. This program will provide learners with the knowledge required to analyze and stratify populations as well as analyze and implement lifestyle medicine based solutions at the individual, group and population levels. Learners will also earn a solid foundational understanding of how the U.S. healthcare system operates and how to navigate it. Any health professional looking to show employers a distinctive skill set and credential will find value in this program.  This CLME MicroMasters program signals to prospective employers:   You have attained a high level of management education   You have core competencies in key leadership areas  You have superior communication skills   Upon successful completion, this graduate-level, credit-eligible program will also allow the learner the opportunity to apply 9 credit hours towards the Doane University online MBA program.",
+        "language": "English",
+        "outcomes": [
+            "Assess how to lead healthcare organizations in a complex and changing system.",
+            "Develop in others the knowledge and skills needed to devise programs to prevent and manage chronic disease using population based healthcare delivery interventions that engage the individual and the community.",
+            "Evaluate the value of new healthcare delivery systems and interventions on the basis of quality, safety, efficiency and cost effectiveness using accumulated data.",
+            "Evaluate health policy as it applies to industry economics, needs demands and quality of care.",
+            "Apply advocacy skills including quality of care, patients-rights, cultural competency and preventative care.",
+            "Demonstrate an understanding of healthcare system providers, financing, consumerism, past and future trends and regulatory and legal framework.",
+            "Apply leadership frameworks, skills and functions of management in planning, organizing leadership and systems control."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/wageningenx-chemistry-and-technology-for-sustainability",
+        "name": "Chemistry and Technology for Sustainability MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Chemistry",
+            "Chemistry and Technology for Sustainability"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The world is moving from using fossil resources to sustainable biobased ones. In order to be truly sustainable, alternative, biobased resources also need to be economically viable. To be successful, corporations need to be able to navigate the challenges and opportunities in this dynamic field. This MicroMasters program is intended for those currently working in the energy, chemical and biotech industries and seeking to make a shift to more sustainable practices. It will focus on the use of chemical and biotechnological approaches for the production of energy-carriers, polymers, chemical building blocks and materials from renewable resources and waste streams. Completion of this MicroMasters program in Chemistry and Technology for Sustainability will enable you to discover new resources and help your company make the switch from fossil to renewable, biobased resources. The only way to obtain the MicroMasters program certificate is to complete and pass all courses in the programme with a verified (paid) certificate. You may browse individual courses for free before deciding to pursue the entire programme. However, some course content is only available to verified learners.",
+        "language": "English",
+        "outcomes": [
+            "Understand the challenges of switching from a fossil source-based economy to a biobased economy.",
+            "Understand how to identify suitable raw materials and create valuable new products.",
+            "Learn how to refine biomass without damaging its valuable components.",
+            "Perform a functional analysis of potential methods that can be used for refining a resource.",
+            "Learn how to efficiently convert biobased feedstocks into desired products.",
+            "Evaluate technological, ethical, societal and economic consequences in the production of biobased products."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/usmx-umgc-cloud-computing",
+        "name": "Cloud Computing MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The exciting field of Cloud Computing has experienced explosive growth. This transformative technology has not only altered the way business operate, but it has also shaken up the traditional structure of the IT department and placed new demands on staff members who are faced with reinventing their own careers.  With organizations rapidly moving their infrastructures and services to the cloud, jobs are growing at a breakneck pace, with many positions are left unfilled.\nGain an understanding of cloud technologies such as AWS, Azure, Google Cloud, OpenStack, and vSphere and how to leverage them to increase business productivity and effectiveness. In this Cloud Computing MicroMasters program, you will learn about Infrastructure As A Service (IaaS), Platform As A Service (PaaS), Software As A Service (SaaS), and other \"X as a service\" platforms. You will receive key foundational knowledge about legal and compliance issues, security and risk mitigation and how to follow industry standards and best practices. You will also gain hands-on experience in implementing, configuring and managing cloud technologies.\nThis applied, graduate-level program is designed for learners who want to enter or advance their careers in this exciting and well-paying field. IT professionals not already working with cloud technologies will gain a solid foundation while those with some cloud experience will gain a more in-depth understanding of other cloud technologies and other knowledge such as security, policy, and legal and compliance issues.",
+        "language": "English",
+        "outcomes": [
+            "Cloud computing foundations and models",
+            "Types of cloud computing technologies (ie: AWS, Azure, IBM)",
+            "Methods for managing a cloud computing adoption/migration project",
+            "How to design a cloud computing infrastructure or service",
+            "Deployment and configuration of cloud computing systems",
+            "Insuring cloud security and mitigating risk",
+            "SaaS, PaaS and IaaS and other service platforms"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/uqx-corporate-innovation",
+        "name": "Corporate Innovation MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Corporate Innovation"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The ability to innovate is crucial for business survival and growth in the current climate of rapid technological advancement and changing consumer preferences. Without innovation and entrepreneurship skills, more and more corporate ventures are failing when faced with market challenges.\nIn this MicroMasters program, you will develop the knowledge and skills to encourage innovation and entrepreneurship within your organization. The program will teach you how to understand, integrate and promote innovation in a variety of settings, including public, private and not-for profit organizations and research institutions. Drawing on the innovation value chain, this program will provide you with a comprehensive understanding of the different aspects of corporate innovation, including:  how to foster creativity and design thinking in the initial idea generation phase how organizations can utilize idea management tools to select the most feasible ideas for development, including how to manage intellectual property, introduce innovative processes and commercialize new technologies, products and services; how an evidence-based approach to innovation management can be utilized to improve the decision-making process and how to introduce open innovation practices; and How to build innovation into the strategy, capabilities and culture of an organization.\nDuring this program, theory will be complemented with real-world case studies, which will help you develop strategies that you can apply to improve business productivity, economic growth and global competitiveness. Additionally, as a verified learner, you will have the opportunity to refine your knowledge and skills, with the guidance of UQ experts, through a series of activities that allow you to apply theory and tools to your own ideas.\nGraduates of the program will be empowered with the ability to foster entrepreneurial and innovative behaviors in themselves and others; making them well suited to leadership roles within innovation programs, and enhancing an organizations ability to rapidly respond to and survive market threats.",
+        "language": "English",
+        "outcomes": [
+            "Fundamentals of creative and design thinking to enable innovation",
+            "Idea Management to better select and implement business ideas",
+            "Evidence based innovation how to develop a business model into a business plan",
+            "How to scale innovation as a capability within organisations and assess your innovation readiness"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/ritx-cybersecurity",
+        "name": "Cybersecurity MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Gain the essential knowledge and expertise in network security and forensics needed for cybersecurity in enterprise environments. \nIn this Cybersecurity MicroMasters program, you will learn:  \r\nFundamentals of networks;\nSystems administration;\nHow to protect computer networks and other systems by mitigating vulnerabilities and monitoring intrusions; How to perform digital forensic analysis of cybercrime by gathering information on the nature and extent of the attack for presentation in a court of law, as well as assessing the extent of the damage to an organization;\nTechniques of risk analysis;\nRisk assessment and vulnerability assessment. ",
+        "language": "English",
+        "outcomes": [
+            "How to setup and secure basic computer systems and networks",
+            "Information security risk management framework and methodologies",
+            "How to implement network security solutions and detect intrusions",
+            "How to conduct a digital forensics investigation admissible to a court"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/uc-san-diegox-data-science",
+        "name": "Data Science MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Excel in Data Science, one of the hottest fields in tech today. Learn how to gain new insights from big data by asking the right questions, manipulating data sets and visualizing your findings in compelling ways. \nIn this MicroMasters program, you will develop a well-rounded understanding of the mathematical and computational tools that form the basis of data science and how to use those tools to make data-driven business recommendations. \nThis MicroMasters program encompasses two sides of data science learning: the mathematical and the applied. \nMathematical courses cover probability, statistics, and machine learning. The applied courses cover the use of specific toolkit and languages such as Python, Numpy, Matplotlib, pandas and Scipy, the Jupyter notebook environment and Apache Spark to delve into real world data.\nYou will learn how to collect, clean and analyse big data using popular open source software will allow you to perform large-scale data analysis and present your findings in a convincing, visual way. When combined with expertise in a particular type of business, it will make you a highly desirable employee.",
+        "language": "English",
+        "outcomes": [
+            "How to load and clean real-world data",
+            "How to make reliable statistical inferences from noisy data",
+            "How to use machine learning to learn models for data",
+            "How to visualize complex data",
+            "How to use Apache Spark to analyze data that does not fit within the memory of a single computer"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/umbc-database-management-systems",
+        "name": "Database Management Systems MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Databases are pervasive in corporations, government agencies and almost any organization across the globe.   A number of jobs work solely with databases, like Database Administrator, Database Developer and Database Architect.  Numerous other in-demand occupations also need to have database skills, including Software Engineers, Data Scientists and Cybersecurity Engineers.  For many decades, organizations have been using Relational Databases. But recently, a new type of database has begun to emerge, NoSQL Databases, adding complexity for professionals seeking to learn how to use database management systems.\nIn this program, you will learn all aspects needed to work as a Database Administrator and Architect and will learn key database skills beneficial in other occupations.  The program covers both Relational Databases and NoSQL Databases.  It also covers how to create your own databases and how to interact with the data within them.",
+        "language": "English",
+        "outcomes": [
+            "Build design models of databases.",
+            "Create Relational databases.",
+            "Create NoSQL databases.",
+            "Gain experience with multiple database technologies."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/urosariox-derechos-humanos-desafios-contemporaneos",
+        "name": "Derechos humanos: desaf\u00c3\u00ados contempor\u00c3\u00a1neos MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Law",
+            "Derechos humanos: desaf\u00c3\u00ados contempor\u00c3\u00a1neos"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Este micromaster plantea, desde una perspectiva cr\u00c3\u00adtica y anal\u00c3\u00adtica, cuestiones de actualidad que se relacionan con el goce, ejercicio y efectividad de los derechos humanos, el surgimiento de garant\u00c3\u00adas emergentes y los desaf\u00c3\u00ados de cuestiones relacionadas con los procesos de justicia transicional.\nOfrece un acercamiento a las nociones generales de los derechos humanos desde diversos marcos conceptuales, tales como el normativo, sociol\u00c3\u00b3gico, la salud, y la antropolog\u00c3\u00ada. As\u00c3\u00ad, se efect\u00c3\u00baa un abordaje del contenido normativo internacional que regula las cuestiones presentadas en los temarios y en algunos casos, se hace alusi\u00c3\u00b3n a la normativa interna colombiana como ejemplo para ilustrar estudios de caso. Lo anterior, permite generar un conocimiento aplicado sobre temas como igualdad, no discriminaci\u00c3\u00b3n, justicia transicional, litigio estrat\u00c3\u00a9gico, derechos de las v\u00c3\u00adctimas, bio\u00c3\u00a9tica y debates relacionados con esto, as\u00c3\u00ad como, la movilidad humana, derechos de los migrantes, migraci\u00c3\u00b3n internacional, refugio, ap\u00c3\u00a1trida, entre otros.\nCon esto, es posible hallar aproximaciones de alcance global que a partir del desarrollo normativo y la interpretaci\u00c3\u00b3n realizada por parte de los \u00c3\u00b3rganos de los tratados, se acercan al tratamiento de derechos ya consolidados, como el marco aplicable a las personas en situaci\u00c3\u00b3n de movilidad humana y derechos gen\u00c3\u00a9ticos, as\u00c3\u00ad como tambi\u00c3\u00a9n, al abordaje de categor\u00c3\u00adas y derechos como el olvido, la memoria hist\u00c3\u00b3rica, la reparaci\u00c3\u00b3n de las v\u00c3\u00adctimas, etc.\nEl micromaster puede ser cursado por l\u00c3\u00adderes sociales, abogados especializados en derechos humanos, trabajadores de organizaciones no gubernamentales, miembros de organizaciones internacionales, funcionarios p\u00c3\u00bablicos, internacionalistas, profesionales en humanidades o ciencias afines, docentes, profesionales de la salud, polit\u00c3\u00b3logos, o cualquier profesional interesado en conocer sobre la protecci\u00c3\u00b3n de derechos humanos.\nEntre los temas conviene destacar cuestiones relacionadas con el alcance de la dignidad humana, la igualdad y no discriminaci\u00c3\u00b3n, el acceso a derechos civiles y pol\u00c3\u00adticos, as\u00c3\u00ad como derechos sociales, econ\u00c3\u00b3micos y culturales de poblaci\u00c3\u00b3n vulnerable, como sucede con las personas en situaci\u00c3\u00b3n de movilidad, as\u00c3\u00ad tambi\u00c3\u00a9n se estudian, las violaciones de derechos humanos, y los mecanismos de protecci\u00c3\u00b3n de los derechos humanos por v\u00c3\u00ada del litigio estrat\u00c3\u00a9gico. Por su parte, tambi\u00c3\u00a9n abarca cuestiones relacionadas con la importancia de la justicia, los derechos de las v\u00c3\u00adctimas, la justicia transicional, e instituciones fundamentales como las comisiones de la verdad y su papel en las sociedades democr\u00c3\u00a1ticas. Por \u00c3\u00baltimo, se hace una aproximaci\u00c3\u00b3n al tema de los derechos emergentes que se relacionan con la bio\u00c3\u00a9tica y el bio-derecho.",
+        "language": "English",
+        "outcomes": [
+            "Conocer conceptos fundamentales y reflexiones en torno a temas actuales de los derechos humanos y de la justicia transicional.",
+            "Comprender la importancia de que en los marcos jur\u00c3\u00addicos existan reconocimientos efectivos para el goce y ejercicio de los derechos de las poblaciones vulnerables, como es el caso de las v\u00c3\u00adctimas y de las personas en situaci\u00c3\u00b3n de movilidad humana.",
+            "Abordar discusiones sobre el papel del litigio estrat\u00c3\u00a9gico en el amparo de los derechos humanos y el rol de la sociedad civil, junto con los desaf\u00c3\u00ados que deben asumir las democracias que se encuentran en etapas de transici\u00c3\u00b3n.",
+            "Realizar an\u00c3\u00a1lisis estructurales desde la teor\u00c3\u00ada de la justicia con el \u00c3\u00a1nimo de encontrar respuestas que conduzcan a la reconciliaci\u00c3\u00b3n y a comprender el papel de las v\u00c3\u00adctimas en el marco del conflicto armado.",
+            "Reflexionar sobre la bio\u00c3\u00a9tica y los derechos humanos en un contexto en el que los avances de la ciencia cada vez son mayores y se plantean muchos desaf\u00c3\u00ados para el derecho como disciplina."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/hecmontrealx-design-et-evaluation",
+        "name": "Design et \u00c3\u0089valuation UX MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Il est difficile d'exag\u00c3\u00a9rer l'importance de l'UX dans notre relation avec l'environnement num\u00c3\u00a9rique. Forrester a \u00c3\u00a9tabli que les organisations qui investissent dans l'exp\u00c3\u00a9rience utilisateur ont mieux r\u00c3\u00a9ussi que la plupart, dans des march\u00c3\u00a9s haussiers et durant des r\u00c3\u00a9cessions (Forrester, 2015). C'est maintenant plus vrai que jamais, alors que la pand\u00c3\u00a9mie a \u00c3\u00a9largi l'adoption du travail \u00c3\u00a0 distance, de la vie sociale en ligne et du divertissement.\nApprenez les bases de l'exp\u00c3\u00a9rience utilisateur gr\u00c3\u00a2ce aux professeurs du plus important laboratoire UX d'Am\u00c3\u00a9rique du Nord. Dans ce programme de MicroMasters en UX, vous apprendrez \u00c3\u00a0 atteindre les objectifs organisationnels et \u00c3\u00a0 satisfaire les utilisateurs en appliquant un processus centr\u00c3\u00a9 sur l'utilisateur au d\u00c3\u00a9veloppement de produits et de services num\u00c3\u00a9riques qui r\u00c3\u00a9sout des probl\u00c3\u00a8mes r\u00c3\u00a9els et pertinents pour l'industrie.\nPour chaque phase de d\u00c3\u00a9veloppement centr\u00c3\u00a9e sur l'utilisateur (Recherche UX, Design, Prototypage et \u00c3\u0089valuation), vous acquerrez des connaissances th\u00c3\u00a9oriques pertinentes et apprendrez les meilleures pratiques appliqu\u00c3\u00a9es pour planifier, ex\u00c3\u00a9cuter, analyser et communiquer des informations utiles pour la phase de d\u00c3\u00a9veloppement suivante.\nDes services financiers personnels et des logiciels ax\u00c3\u00a9s sur les employ\u00c3\u00a9s, aux applications m\u00c3\u00a9dicales perturbatrices, ce programme de MicroMasters vous aidera \u00c3\u00a0 d\u00c3\u00a9velopper les comp\u00c3\u00a9tences de r\u00c3\u00a9flexion conceptuelle, d'\u00c3\u00a9valuation UX et de gestion de projet UX n\u00c3\u00a9cessaires pour g\u00c3\u00a9n\u00c3\u00a9rer de nouvelles solutions \u00c3\u00a0 des probl\u00c3\u00a8mes urgents.\nDans chaque cours, vous serez confront\u00c3\u00a9 \u00c3\u00a0 une s\u00c3\u00a9rie de d\u00c3\u00a9fis d'une semaine, bas\u00c3\u00a9s sur des recherches de pointe actuellement en cours au Laboratoire Tech3lab de HEC Montr\u00c3\u00a9al. \u00c3\u0080 travers ces d\u00c3\u00a9fis, vous affinerez votre compr\u00c3\u00a9hension des concepts de base et prouverez vos capacit\u00c3\u00a9s dans le domaine tr\u00c3\u00a8s convoit\u00c3\u00a9 de l'UX.\nCette s\u00c3\u00a9rie d'\u00c3\u00a9tudes sup\u00c3\u00a9rieures rigoureuses repr\u00c3\u00a9sente 20% des cours menant \u00c3\u00a0 une Ma\u00c3\u00aetrise en gestion (M. Sc.) en exp\u00c3\u00a9rience utilisateur dans un contexte d\u00e2\u0080\u0099affaires de HEC Montr\u00c3\u00a9al. Vous aurez un acc\u00c3\u00a8s unique au Tech3lab, un laboratoire en sciences de la gestion appliqu\u00c3\u00a9e, sp\u00c3\u00a9cialis\u00c3\u00a9 dans l'analyse des interactions entre les interfaces technologiques des organisations et de leurs employ\u00c3\u00a9s ou de leurs clients.",
+        "language": "English",
+        "outcomes": [
+            "Concevoir des interfaces professionnelles offrant des exp\u00c3\u00a9riences utilisateur de qualit\u00c3\u00a9;",
+            "D\u00c3\u00a9velopper de l'empathie et des connaissances fortes (\u00e2\u0080\u009cinsights\u00e2\u0080\u009d) \u00c3\u00a0 l'aide du Web analytique et des m\u00c3\u00a9thodes qualitatives et quantitatives;",
+            "Tirer parti des \u00e2\u0080\u009cinsights\u00e2\u0080\u009d tir\u00c3\u00a9s des donn\u00c3\u00a9es afin de proposer des recommandations empiriques;",
+            "Produire des prototypes de maquettes low-tech et des interfaces interactives de haute fid\u00c3\u00a9lit\u00c3\u00a9; et",
+            "Ex\u00c3\u00a9cuter des \u00c3\u00a9valuations formelles en laboratoire pour tous les tests utilisateurs, y compris les tests de conformit\u00c3\u00a9."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/ritx-design-thinking",
+        "name": "Design Thinking MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Design Thinking"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Innovation. Creativity. Strategic thinking. In the past year, more than 279,000 job postings have listed these skills. Another 239,000 mention design thinking.* \nWhy has design thinking become one of the most sought-after skills?  Employers are looking for problem solving, creativity, critical thinking, and analytical skills to enhance the capabilities of their employees to lead their companies into a successful future. Design thinking was developed out of the processes used by designers including user understanding and user experience, however, its application may be used to address non-product oriented problems as well \u00e2\u0080\u0093from innovating new product or service possibilities to implementing procedural change, or identifying a new strategic direction for the company. \nIn the Design Thinking MicroMasters program, you will learn how to use the design thinking process to solve problems creatively, collaboratively and empathetically. Earning the MicroMasters program certificate will equip you with knowledge of the processes and techniques used to solve problems and innovate in the workplace. \n* Source: Burning Glass Technologies",
+        "language": "English",
+        "outcomes": [
+            "User-centered research skills to gain user empathy through interviews and observations",
+            "Strategies to understand user context to identify and verify business problems",
+            "Ideation and visualization techniques to generate targeted and creative solutions",
+            "Methods for evaluating and applying user feedback from testing models and prototypes to identify preferred solutions"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/bux-digital-transformation-leadership",
+        "name": "Digital Transformation Leadership MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Digital Transformation Leadership"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "What does it take to win in today\u00e2\u0080\u0099s digital economy? How do you deal with the disruption caused by digital technologies, evolving business models and a changing workforce?\r\nDigital leaders are in high demand as business increasingly relies on digital technologies. These leaders are tech savvy, data driven and are able to inspire teams to engage in rapid experimentation that drives transformation and business outcomes.\nGiven the scale of digital disruptions, the skills and perspectives of digital leaders are now required in every industry and job function: from operations to HR; accounting to product development; marketing to strategy.\nIn this Digital Transformation Leadership MicroMasters program, you will develop the knowledge and capabilities to lead organizational change and transformation. You will gain hands on experience in understanding and articulating:\r\n\nStrategies to drive and transform your business in the digital economy;\nHow to drive business value through experimentation;\nNegotiation and management of digital transformation projects;\nEffective people and team management strategies;\nHands on experience in creating roadmaps and running products from concept to implementation\nAgile and lean management practices for creating software and digital products\nDevelopment of platform based strategies for growth and innovation\n",
+        "language": "English",
+        "outcomes": [
+            "Techniques for oversight of agile development, rapid prototyping, experimentation and risk management to manage digital projects.",
+            "Harness data to improve business decisions.",
+            "Lead people and teams in dynamic environments.",
+            "Transform your business model to succeed within digital disruptions.",
+            "Develop platform based strategies for growth and innovation."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/galileox-e-learning-crea-actividades-y-contenidos-para-la-ensenanza-virtual",
+        "name": "e-Learning: crea actividades y contenidos para la ense\u00c3\u00b1anza virtual MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Education & Teacher Training",
+            "e-Learning: crea actividades y contenidos para la ense\u00c3\u00b1anza virtual"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "El programa MicroMasters en \u00e2\u0080\u009ce-Learning: crea actividades y contenidos para la ense\u00c3\u00b1anza virtual\u00e2\u0080\u009d se basa en las \u00c3\u00baltimas investigaciones realizadas en el \u00c3\u00a1mbito de las Tecnolog\u00c3\u00adas de la Informaci\u00c3\u00b3n - comunicaci\u00c3\u00b3n (TIC) y su aplicaci\u00c3\u00b3n a las teor\u00c3\u00adas del aprendizaje.\nNuestros cursos est\u00c3\u00a1n basados en que puedas crear pr\u00c3\u00a1cticamente cualquier tipo de contenido e-Learning de manera  profesional, utilizando lo \u00c3\u00baltimo en tecnolog\u00c3\u00ada educativa y a\u00c3\u00b1adiendo elementos interactivos para transformar proyectos de formaci\u00c3\u00b3n tradicional, en cursos de ense\u00c3\u00b1anza virtual innovadores y efectivos.\nGracias a nuestra modalidad educativa podr\u00c3\u00a1s recibir tus clases en cualquier momento y compartir tus dudas y conocimientos con nuestra comunidad, adicional a esto obtendr\u00c3\u00a1s cr\u00c3\u00a9ditos acad\u00c3\u00a9micos para respaldar tus conocimientos, competencias y habilidades en tecnolog\u00c3\u00adas educativas que te brindar\u00c3\u00a1n la oportunidad de optar a la Maestr\u00c3\u00ada en Direcci\u00c3\u00b3n y Producci\u00c3\u00b3n de e-Learning que se ofrece en modalidad virtual en la Universidad Galileo, (Pionera a nivel latinoamericano en educaci\u00c3\u00b3n virtual)    Inscr\u00c3\u00adbete ahora y en s\u00c3\u00b3lo 21 semanas conocer\u00c3\u00a1s todo respecto a las nuevas tecnolog\u00c3\u00adas educativas y las t\u00c3\u00a9cnicas para dise\u00c3\u00b1ar y desarrollar materiales de aprendizaje virtual (e-Learning) efectivos que te permitir\u00c3\u00a1n optar a ofertas laborales. No esperes m\u00c3\u00a1s y empieza a crear cursos virtuales interactivos que capten toda la atenci\u00c3\u00b3n de tus estudiantes.\nLos alumnos que obtengan la credencial del programa MicroMasters pueden solicitar su admisi\u00c3\u00b3n a la Maestr\u00c3\u00ada virtual en Direcci\u00c3\u00b3n y Producci\u00c3\u00b3n de e-Learning y la convalidaci\u00c3\u00b3n de los cursos del programa MicroMasters por 6 cursos del primer a\u00c3\u00b1o de la Maestr\u00c3\u00ada virtual que totalizan 18 cr\u00c3\u00a9ditos acad\u00c3\u00a9micos, y corresponden al 50 % del total de cr\u00c3\u00a9ditos del primer a\u00c3\u00b1o.",
+        "language": "English",
+        "outcomes": [
+            "Dise\u00c3\u00b1ar experiencias e-Learning innovadoras apoyadas y enriquecidas por el uso de tecnolog\u00c3\u00ada, centradas en el proceso de aprendizaje del estudiante.",
+            "Dise\u00c3\u00b1ar y producir recursos de ense\u00c3\u00b1anza virtual de forma profesional.",
+            "Utilizar herramientas web 2.0 para generar cursos online y los diferentes m\u00c3\u00a9todos y t\u00c3\u00a9cnicas para introducir estos recursos en tus cursos de formaci\u00c3\u00b3n e-Learning.",
+            "Crear tus propios recursos multimedia interactivos para apoyar el proceso de formaci\u00c3\u00b3n o capacitaci\u00c3\u00b3n virtual en instituciones educativas o empresas.",
+            "Utilizar las t\u00c3\u00a9cnicas y herramientas de creaci\u00c3\u00b3n r\u00c3\u00a1pida de contenidos (Rapid Learning) l\u00c3\u00adderes en la industria de producci\u00c3\u00b3n de contenidos educativos digitales.",
+            "Aplicar el uso de innovadoras Tecnolog\u00c3\u00adas educativas en contextos de aprendizaje y formaci\u00c3\u00b3n, para poder crear recursos y contenidos de apoyo para clases presenciales."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/wageningenx-economics-and-policies-for-a-circular-bio-economy",
+        "name": "Economics and Policies for a Circular Bio-Economy MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Energy & Earth Sciences",
+            "Economics and Policies for a Circular Bio-Economy"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Policies stressing circularity in our economy is becoming ever more important. Understanding the economic implications is critical for assessing the policies. The market structure and performance of the value chain, in combination with technical change, influence- and are influenced by circular bioeconomic policies. A company that wants to succeed in the circular bioeconomy must be prepared for the challenges and opportunities ahead.\nThis MicroMasters programme will help you understand the basic economics of a circular biobased economy. You will learn to carry out economic assessments of the benefits and costs of new biobased technologies, in a dynamic value chain, where feedback occurs between different actors such as between retailers and food processors. At the end of the MicroMasters programme, in the last course, you will perform a capstone project in which you apply the knowledge from all courses to your own business case. This will give you the opportunity to receive feedback from experts in the field of circular bioeconomy economics and policies.\nCompletion of this MicroMasters programme in Business and Economics for a Circular BioEconomy will provide you with knowledge and tools to analyse the economics and policy sides of converting biological resources into biobased products. Upon earning the programme certificate, you will be able to contribute substantially to managerial decision-making, as well as policy development.",
+        "language": "English",
+        "outcomes": [
+            "Take a systems approach and consider different actors, feedback cycles and pressures in a dynamic value chain",
+            "Understand the economic issues and policies affecting the circular bioeconomy at the firm, on a national and international level",
+            "Assess the costs, benefits and market impacts of new biobased technologies",
+            "Evaluate the adoption and environmental benefits of biobased policies"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/mitx-finance",
+        "name": "Finance MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Economics & Finance",
+            "Finance"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The skills and expertise required for a career in finance are in high demand across countless industries. From asset management, to corporations, to official institutions, the career opportunities for qualified finance professionals continue to grow and evolve. For example, demand for financial analysts is predicted to grow at a faster than average rate of 11% through 2026 (Source). And according to Glassdoor, the median salary of a quantitative financial analyst was $106,575. (Source)\nThe MITx MicroMasters\u00c2\u00ae Program in Finance offers recent graduates, early to mid-stage professionals, and other individuals interested in pursuing a career in finance, an opportunity to advance in the finance field or fast-track an MIT Sloan Master of Finance through a rigorous, comprehensive online curriculum, delivered by the world-renowned MIT Sloan School of Management.\nDrawn from the STEM-based curriculum taught on campus, all five online courses in this program mirror on-campus graduate-level MIT coursework and cover the following topics: modern finance, financial accounting, mathematical methods for quantitative finance, and derivatives markets. Learners who complete and pass each course in this online program may earn a MicroMasters program certificate in finance, and are considered affiliate members of the MIT Alumni Association. Those learners are eligible to apply to the MIT Sloan Master of Finance and upon acceptance, earn credit for the work performed online.",
+        "language": "English",
+        "outcomes": [
+            "Comprehend the foundations of modern finance.",
+            "Understand the basics of corporate finance, capital budgeting, real and financial options, capital structure, yield curve analysis, and corporate risk management.",
+            "Apply financial decision making, the theory of efficient markets, valuation theory, financial securities, risk analysis, portfolio theory, derivatives pricing, hedging strategies based on duration and convexity, and asset pricing models.",
+            "Identify the basic structure of financial reports and the process of recording transactions.  Understand how investors, creditors, and other users analyze financial statements to assess corporate performance.",
+            "Perform applied computational techniques in R and apply advanced mathematical topics in financial engineering and quantitative finance using linear algebra, optimization, probability, stochastic processes, and statistics."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/urosariox-finanzas",
+        "name": "Finanzas MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Economics & Finance",
+            "Finanzas"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "El Microm\u00c3\u00a1ster\u00c2\u00ae en Finanzas ofrece una formaci\u00c3\u00b3n cuantitativa y anal\u00c3\u00adtica s\u00c3\u00b3lida para profesionales que deseen desempe\u00c3\u00b1arse en varios \u00c3\u00a1mbitos del sector financiero y real. El programa tiene una visi\u00c3\u00b3n global sobre las bases fundacionales que permiten la toma de decisiones en las finanzas, las empresas, los mercados financieros, de capitales, y la econom\u00c3\u00ada en general.\nCon este programa pionero, y abierto a toda la comunidad hispanoparlante del mundo, el estudiante podr\u00c3\u00a1 avanzar su carrera profesional en el campo de las finanzas con un programa autocontenido, y con la posibilidad de iniciar una Maestr\u00c3\u00ada completa en Finanzas impartida por la Facultad de Econom\u00c3\u00ada de la prestigiosa Universidad del Rosario, ubicada en Bogot\u00c3\u00a1, Colombia. Cuatro cursos, que hacen parte del ciclo b\u00c3\u00a1sico del plan de estudios de la Maestr\u00c3\u00ada en Finanzas, han sido adaptados al medio virtual para facilitar y dinamizar el autoaprendizaje. Los cursos cubren temas de matem\u00c3\u00a1ticas financieras, fundamentos de contabilidad, uso aplicado de Excel en finanzas, valoraci\u00c3\u00b3n de activos financieros, valoraci\u00c3\u00b3n de empresas, an\u00c3\u00a1lisis macroecon\u00c3\u00b3mico, mercado de capitales, modelos financieros, herramientas de an\u00c3\u00a1lisis y finanzas corporativas.\nEl Microm\u00c3\u00a1ster\u00c2\u00ae cuenta con unos contenidos gratuitos y de acceso abierto que abordan tem\u00c3\u00a1ticas como los estados financieros, estrategias financieras, decisiones de inversi\u00c3\u00b3n, proyectos de inversi\u00c3\u00b3n, direcci\u00c3\u00b3n financiera, planificaci\u00c3\u00b3n financiera, situaci\u00c3\u00b3n financiera, herramientas financieras, capital de trabajo y otros, con material especializado y actividades complementarias que se pueden acceder en el modo verificado.",
+        "language": "English",
+        "outcomes": [
+            "Comprender los elementos fundamentales de la econom\u00c3\u00ada y las finanzas modernas.",
+            "Dominar y aplicar los conceptos principales de las matem\u00c3\u00a1ticas financieras y la contabilidad.",
+            "Valorar empresas y diferentes tipos de activos financieros.",
+            "Fortalecer la capacidad de an\u00c3\u00a1lisis para la gesti\u00c3\u00b3n del riesgo financiero y proponer soluciones a las necesidades financieras de las empresas, el sector p\u00c3\u00bablico y las personas en general.",
+            "Estar en capacidad de evaluar las oportunidades de inversi\u00c3\u00b3n financiaci\u00c3\u00b3n, la administraci\u00c3\u00b3n del capital de trabajo, la cobertura de riesgos y la repartici\u00c3\u00b3n adecuada de dividendos, para la generaci\u00c3\u00b3n de valor en una organizaci\u00c3\u00b3n."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/rosariox-fundamentos-de-investigacion-en-ciencias-de-la-salud",
+        "name": "Fundamentos de investigaci\u00c3\u00b3n en ciencias de la salud MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Medicine",
+            "Fundamentos de investigaci\u00c3\u00b3n en ciencias de la salud"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "La din\u00c3\u00a1mica actual de las ciencias de la salud exige una gran solidez en la formaci\u00c3\u00b3n t\u00c3\u00a9cnica y cient\u00c3\u00adfica, trabajo con la mejor evidencia disponible, experiencia profesional y respeto por las expectativas y necesidades de las personas. Para lograr esto, cada d\u00c3\u00ada es m\u00c3\u00a1s importante investigar, producir nuevo conocimiento y generar evidencia s\u00c3\u00b3lida que permita tomar decisiones, garantice el mejor ejercicio profesional, aporte a cada disciplina, a los pacientes y a la sociedad en general\nEl micromaster ofrece una formaci\u00c3\u00b3n en investigaci\u00c3\u00b3n orientada a las ciencias de la salud, siendo este un campo de conocimiento necesario para los profesionales que deseen obtener las competencias requeridas para realizar procesos de investigaci\u00c3\u00b3n cient\u00c3\u00adfica, teniendo en cuenta que esta se caracteriza por su enfoque inter y transdisciplinar, en el que participan personas y comunidades. El Micromaster en Fundamentos de Investigaci\u00c3\u00b3n en Ciencias de la Salud brinda herramientas para proponer, evaluar y desarrollar proyectos de investigaci\u00c3\u00b3n en el \u00c3\u00a1rea de la salud.\nA trav\u00c3\u00a9s del estudio de cada curso, podr\u00c3\u00a1 adquirir nuevos conocimientos para la toma de decisiones a partir del planteamiento de un proyecto de investigaci\u00c3\u00b3n, la implementaci\u00c3\u00b3n de una metodolog\u00c3\u00ada, el an\u00c3\u00a1lisis de datos y de los resultados de la investigaci\u00c3\u00b3n, buscando la apropiaci\u00c3\u00b3n de fundamentos te\u00c3\u00b3ricos y metodol\u00c3\u00b3gicos para que el estudiante identifique problem\u00c3\u00a1ticas, susceptibles de ser intervenidas.\nAs\u00c3\u00ad mismo se busca profundizar desde la mirada de la bio\u00c3\u00a9tica, en los problemas que se originan en la interacci\u00c3\u00b3n de la vida con la tecnolog\u00c3\u00ada para favorecer la toma de decisiones que protejan los derechos humanos y valores como la vida, la salud, la libertad, la intimidad, la diversidad, entre otros.   Tambi\u00c3\u00a9n se proveen herramientas estad\u00c3\u00adsticas para analizar la informaci\u00c3\u00b3n resultante de los procesos de investigaci\u00c3\u00b3n, as\u00c3\u00ad como metodolog\u00c3\u00adas propias de la investigaci\u00c3\u00b3n en el contexto de las ciencias de la salud a trav\u00c3\u00a9s casos pr\u00c3\u00a1cticos.\nEl micromaster puede ser cursado  por profesionales en formaci\u00c3\u00b3n y graduados interesados en la investigaci\u00c3\u00b3n cient\u00c3\u00adfica en las \u00c3\u00a1reas de la salud, la biom\u00c3\u00a9dica, bioet\u00c3\u00a1d\u00c3\u00adstica, la innovaci\u00c3\u00b3n biotecnol\u00c3\u00b3gica, y dem\u00c3\u00a1s personas interesadas en explorar problem\u00c3\u00a1ticas sociales relacionadas con las condiciones de salud de las poblaciones.",
+        "language": "English",
+        "outcomes": [
+            "Identificar paradigmas de investigaci\u00c3\u00b3n para la formulaci\u00c3\u00b3n de un proyecto de investigaci\u00c3\u00b3n en \u00c3\u00a1reas de la medicina y ciencias de la salud.",
+            "Conocer y aplicar m\u00c3\u00a9todos de investigaci\u00c3\u00b3n cualitativos y cuantitativos.",
+            "Identificar est\u00c3\u00a1ndares \u00c3\u00a9ticos de pr\u00c3\u00a1ctica profesional y del ejercicio investigativo, evidenciando valores, principios, conocimiento legales y virtudes."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/uncordobax-gestion-de-servicios-diseno-de-experiencias-exitosas",
+        "name": "Gesti\u00c3\u00b3n de servicios: dise\u00c3\u00b1o de experiencias exitosas MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Gesti\u00c3\u00b3n de servicios: dise\u00c3\u00b1o de experiencias exitosas"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Vivimos un momento de la humanidad fuertemente impactado por cambios pol\u00c3\u00adticos, sociales y tecnol\u00c3\u00b3gicos. Si el siglo pasado se caracteriz\u00c3\u00b3 por un auge industrial sin precedentes, en las \u00c3\u00baltimas d\u00c3\u00a9cadas el sector servicios (sector terciario) se ha convertido en el sector m\u00c3\u00a1s importante de la econom\u00c3\u00ada mundial. Hoy en d\u00c3\u00ada, los servicios proporcionan m\u00c3\u00a1s del 60% del empleo y del PBI en Am\u00c3\u00a9rica Latina y el Caribe.\nLos mercados han cambiado: nuevas categor\u00c3\u00adas de productos y servicios surgen cada vez m\u00c3\u00a1s r\u00c3\u00a1pido, la expansi\u00c3\u00b3n de internet en la vida cotidiana brinda oportunidades e innovaciones que nunca antes nos hubi\u00c3\u00a9ramos imaginado. Los clientes tambi\u00c3\u00a9n han cambiado: son cada vez m\u00c3\u00a1s exigentes, no est\u00c3\u00a1n dispuestos a esperar, est\u00c3\u00a1n informados y acceden a tecnolog\u00c3\u00adas en todo momento.\nHay nuevas reglas de juego y con ellas nuevas oportunidades y desaf\u00c3\u00ados. Por eso, desde la Facultad de Ciencias Econ\u00c3\u00b3micas de la Universidad Nacional de C\u00c3\u00b3rdoba, hemos dise\u00c3\u00b1ado un programa MicroMasters online, masivo y abierto, para aprender los conceptos, herramientas y modelos para el dise\u00c3\u00b1o de experiencias exitosas de servicios. \nEl programa se compone de tres cursos en l\u00c3\u00adnea que integran contenidos de estrategia, marketing, operaciones y recursos humanos, centrados en el conocimiento de los clientes. Incluye casos y actividades que entrenan al participante mediante din\u00c3\u00a1micas creativas y amenas.\nSe introduce a los estudiantes de este programa en l\u00c3\u00adnea en el trabajo con herramientas, modelos y estrategias para enfrentar los desaf\u00c3\u00ados inherentes a la gesti\u00c3\u00b3n de operaciones y prestaci\u00c3\u00b3n de servicios de calidad en el contexto actual, promoviendo una mentalidad orientada al cliente. Se espera que puedan utilizar las herramientas que ofrecemos para mejorar sus experiencias futuras, no s\u00c3\u00b3lo como empleados o gerentes de servicios, sino tambi\u00c3\u00a9n como clientes de diversos tipos de empresas de servicios o creando sus propios proyectos.",
+        "language": "English",
+        "outcomes": [
+            "El contenido y las actividades propuestas habilitan al reconocimiento y comprensi\u00c3\u00b3n de los desaf\u00c3\u00ados inherentes a la gesti\u00c3\u00b3n y prestaci\u00c3\u00b3n de servicios de calidad",
+            "Entender como se observa un modelo de negocio desde la perspectiva de las operaciones",
+            "Habilidades estrat\u00c3\u00a9gico directivas y herramientas de escucha activa y feedback",
+            "Detectar y analizar experiencias exitosas de servicios y crear servicios innovadores",
+            "Reconocer la integraci\u00c3\u00b3n de marketing, recursos humanos y operaciones, y la necesidad de segmentar y entender a qui\u00c3\u00a9n destinamos la experiencia de servicio"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/tecdemonterreyx-habilidades-profesionales-negociacion-y-liderazgo",
+        "name": "Habilidades profesionales: negociaci\u00c3\u00b3n y liderazgo MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Habilidades profesionales: negociaci\u00c3\u00b3n y liderazgo"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Cualquiera que sea tu formaci\u00c3\u00b3n acad\u00c3\u00a9mica, el desarrollar un conjunto de habilidades blandas (Soft Skills) es un factor clave en la trayectoria profesional. El tener tu propio negocio y el desarrollo de una carrera corporativa depender\u00c3\u00a1 de la forma en que se vea el mundo y la velocidad en la que se tomen decisiones.\nEl programa MicroMasters: Habilidades profesionales: negociaci\u00c3\u00b3n y liderazgo del Tecnol\u00c3\u00b3gico de Monterrey, est\u00c3\u00a1 compuesto por cursos profesionales de postgrado del Full-Time Master en Business Management.\nEl certificado del programa MicroMasters te permitir\u00c3\u00a1 consolidar las habilidades profesionales que pondr\u00c3\u00a1n en marcha tu carrera como la negociaci\u00c3\u00b3n, el liderazgo, la comunicaci\u00c3\u00b3n y el pensamiento cr\u00c3\u00adtico.\nDa los primeros pasos en una carrera profesional exponencial y redefine tus objetivos en un entorno global, diverso y desafiante en la escuela de negocios l\u00c3\u00adder de Am\u00c3\u00a9rica Latina.",
+        "language": "English",
+        "outcomes": [
+            "Desarrollar habilidades de comunicaci\u00c3\u00b3n m\u00c3\u00a1s importantes: asertividad y empat\u00c3\u00ada",
+            "Identificar las estrategias de negociaci\u00c3\u00b3n en funci\u00c3\u00b3n de los resultados esperados y su impacto en la relaci\u00c3\u00b3n entre las partes involucradas",
+            "Analizar la perspectiva \u00e2\u0080\u009csocial\u00e2\u0080\u009d de una negociaci\u00c3\u00b3n y su impacto en acuerdos exitosos, as\u00c3\u00ad como los riesgos de ignorarla o desconocer su aplicabilidad",
+            "Analizar eventos con rigor intelectual",
+            "Identificar como las decisiones razonadas ayudan a enfrentar el cambio",
+            "Te desaf\u00c3\u00ada a desarrollar tus habilidades de liderazgo",
+            "Desarrollar un liderazgo orientando al florecimiento humano"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/doanex-healthcare-administration",
+        "name": "Healthcare Administration MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Healthcare Administration"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The Healthcare Administration MicroMasters program consists of 3 courses and a capstone. After completing, you can also apply to Doane University to complete your MBA online for approximately $10,500 (more details below).\nThe demand for skilled Healthcare Administrators is projected to grow 17 percent between 2016 and 2026, \nThe Healthcare Administration MicroMasters program will introduce learners to management and leadership frameworks, theories and case studies specific to healthcare organizations. It will also prepare students with the skills to manage the complex issues inherent in healthcare systems and lead in the public health sector.\nLearners will examine a variety of evidence-based methods to advocate for patients, families, and communities, as well as within healthcare organizations. They will also explore financial management techniques -- preparing budgets, developing financial forecasts, assessing investment alternatives, and leveraging capital structures all within the context of healthcare organizations -- and explore the healthcare system's economic environment by taking on managerial roles.\nLearners will also gain foundational understanding for the role of information technology in the healthcare field, developing familiarity with information systems designed to mitigate data loss, create consistent care, and offer research solutions. Whether students are working in entry-level positions or have a roles as healthcare executives, the Healthcare Administration program will provide the path.",
+        "language": "English",
+        "outcomes": [
+            "How to use management and leadership frameworks, theories, and case studies to address complex issues in healthcare organizations",
+            "How to manage the economic environment in healthcare",
+            "Financial Management techniques to prepare budgets, financial forecasts, assess investment alternatives, and leverage capital structures within healthcare organizations",
+            "Evaluate the value of new healthcare delivery systems and interventions on the basis of quality, safety, efficiency and cost effectiveness using accumulated data",
+            "Evaluate health policy as it applies to industry economics, needs demands and quality of care",
+            "Apply advocacy skills including quality of care, patients-rights, cultural competency and preventative care",
+            "Apply leadership frameworks, skills and functions of management in planning, organizing leadership and systems control",
+            "Evidence-based methods for planning, organizing, leading, and advocating for patients, families and communities in the public health sector",
+            "Demonstrate an understanding of healthcare system providers, financing, consumerism, past and future trends and regulatory and legal framework."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/tecdemonterreyx-humanities-and-soft-skills",
+        "name": "Humanities & Soft Skills MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Humanities & Soft Skills"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Whatever your academic background, developing a set of soft skills is a key factor in your career. Having your own business and developing a corporate career will depend on the way the world looks and the speed in which decisions are made.\nThe MicroMasters program: Professional skills: negotiation and leadership of Tecnol\u00c3\u00b3gico de Monterrey, is composed of professional postgraduate courses based on the Full-Time Master in Business Management.\nThe MicroMasters program certificate will allow you to consolidate the professional skills that will launch your career such as negotiation, leadership, communication and critical thinking.\nTake the first steps in an exponential professional career and redefine your goals in a global, diverse and challenging environment in the leading business school in Latin America.",
+        "language": "English",
+        "outcomes": [
+            "Develop a style of leadership that is suited to your strengths and the needs of the situation.",
+            "Solve complex problems that meet the interests and objectives of the parties involved.",
+            "Implement the key negotiation skills and styles to carry out effective negotiations and reach satisfactory agreements.",
+            "Develop communication skills: assertiveness and empathy.",
+            "Develop the skills that will allow you to achieve and optimize results at work.",
+            "Internalize the elements and intellectual standards that are part of the critical thinking process."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/iux-information-systems",
+        "name": "Information Systems MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Information Systems"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Information systems and technologies are becoming increasingly integral to success as businesses transform themselves into digitally enabled organizations, requiring a shift in the skill sets needed to understand the role that information systems and technologies play in business.\nThe Information Systems MicroMasters\u00c2\u00ae program is designed to provide an overview of the foundational capabilities that form the digital core along with the digital technology strategy that focuses on creating value at the frontiers of business and technology. Learn from world-renowned information systems professors and authors of leading textbooks at the Kelley School of Business \u00e2\u0080\u0094 the #1 ranked school for online business graduate programs. This MicroMasters program will help you gain expertise in:\r\n\nContemporary organizations need to understand structured and unstructured data to generate insights to improve decision-making processes. Some topics will include data strategy and data governance; relational database systems; fundamentals of SQL; database design and management; data integration; master data management; and big data technologies.\nIn a competitive world where data is the new oil and information is distributed in platforms, it becomes fundamental for IT professionals to understand how data can be mined and organized to generate insights. Some topics covered in this course will include Excel\u00e2\u0080\u0099s Power Query add-in to get and transform data from external sources; data types and the implications of data types on analytical techniques; statistical measures to describe distributions; charts and graphs to visualize patterns within data; pivot tables, Excel tables, and advanced functions within Excel; Excel data model, KPIs, and Power BI tools; and business intelligence.\nAs technology becomes fundamental to implement strategic initiatives in modern organizations seeking digital transformation, understanding different aspects of managing technology projects and solutions becomes a high priority. Some topics covered will include blockchain and distributed trust; artificial intelligence and robotic process automation; business analytics and machine learning; managing IT investments and business applications; software development through agile approaches; organizational agility and business process redesign for digital transformation; and digital resiliency, information security, and risk management.\n\nThree graduate-level courses in the MicroMasters program represent 30% of the coursework in the online Master of Science in Information Technology Management from the Kelley School of Business at Indiana University (kelley.iu.edu) offered on the edX platform (https://www.edx.org/masters/online-master-in-it-mana gement-indiana-university). Completing this MicroMasters program in Information Systems can strengthen your application to the Information Technology Management Master\u00e2\u0080\u0099s degree, as well as advancing your career on its own.",
+        "language": "English",
+        "outcomes": [
+            "How to unlock business value using information systems/digital technologies.",
+            "How to think about information systems/digital technologies from the perspective of a CEO, Chief Information Officer, or a member of the executive suite.",
+            "How to structure, manage, and leverage data and systems in support of business goals.",
+            "How to leverage cloud technologies to support business outcomes."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/tecdemonterreyx-innovacion-y-emprendimiento",
+        "name": "Innovaci\u00c3\u00b3n y emprendimiento MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Innovaci\u00c3\u00b3n y emprendimiento"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "En un mundo altamente interconectado que se mueve a gran velocidad debido a los cambios tecnol\u00c3\u00b3gicos, el esp\u00c3\u00adritu emprendedor y el desarrollo econ\u00c3\u00b3mico, los ciclos de negocios e innovaci\u00c3\u00b3n se han ido reduciendo como nunca antes. La duraci\u00c3\u00b3n de las empresas ha disminuido a menos de un tercio en los \u00c3\u00baltimos 30 a\u00c3\u00b1os, incluyendo peque\u00c3\u00b1as y grandes empresas, es aqu\u00c3\u00ad donde el emprendimiento y la gesti\u00c3\u00b3n empresarial se convierten en parte fundamental del \u00c3\u00a9xito del emprendimiento . La democratizaci\u00c3\u00b3n de la innovaci\u00c3\u00b3n ha abierto posibilidades ilimitadas para mucha gente, empresas y regiones alrededor del mundo, generando oportunidades de negocio, innovaci\u00c3\u00b3n empresarial y nuevas oportunidades econ\u00c3\u00b3micas. Empresarios y startups, en particular, han aprovechado las oportunidades que ha tra\u00c3\u00addo la transformaci\u00c3\u00b3n digital que ocurre actualmente, gracias a las ideas innovadoras y las nuevas tecnolog\u00c3\u00adas hemos visto el lanzamiento de nuevos productos en los \u00c3\u00baltimos a\u00c3\u00b1os.\nEste programa MicroMasters compuesto por 6 cursos en l\u00c3\u00adnea est\u00c3\u00a1 dedicado a entender:\r\n\nLa estrategia, conceptos clave y herramientas que requieren los emprendedores para crear valor y escalar sus proyectos empresariales;\nLas metodolog\u00c3\u00adas para resolver problemas e innovaci\u00c3\u00b3n que requieren investigaci\u00c3\u00b3n, persistencia y determinaci\u00c3\u00b3n;\nEl modelo y plan de negocios y c\u00c3\u00b3mo comenzar un nuevo proyecto emprendedor o construir una empresa de crecimiento; c\u00c3\u00b3mo construir, dirigir y mantener un capital de riesgo corporativo y un mecanismo de emprendimiento corporativo para la innovaci\u00c3\u00b3n; y las herramientas y modelos espec\u00c3\u00adficos para crear sinergia en el negocio familiar y desarrollar un esp\u00c3\u00adritu emprendedor transgeneracional.\n\nEste programa est\u00c3\u00a1 enfocado en innovaci\u00c3\u00b3n y emprendimiento para startups, corporaciones y empresas familiares. Este programa fue desarrollado por EGADE Business School, escuela de negocios n\u00c3\u00bamero uno de Am\u00c3\u00a9rica Latina.",
+        "language": "English",
+        "outcomes": [
+            "Determinar las estrategias y herramientas que los emprendedores y startups utilizan para desarrollar ideas de negocio y lanzar innovaciones.",
+            "Identificar los conceptos del modelo de negocio, dise\u00c3\u00b1ar proposiciones de valor \u00c3\u00banicas y distinguir los principios de la innovaci\u00c3\u00b3n en las nuevas empresas.",
+            "Distinguir los elementos de un modelo de negocios y valorar la tecnolog\u00c3\u00ada como estrategia para conectarse con la audiencia clave desde un emprendimiento innovador.",
+            "Explicar la importancia de la innovaci\u00c3\u00b3n y la innovaci\u00c3\u00b3n tecnol\u00c3\u00b3gica que se lleva a cabo en las organizaciones e identificar c\u00c3\u00b3mo la innovaci\u00c3\u00b3n se vincula a las estrategias de desarrollo de grandes y peque\u00c3\u00b1as empresas.",
+            "Aplicar estrategias, herramientas y modelos para liderar y orquestar la empresa familiar e Identificar y aplicar las caracter\u00c3\u00adsticas que te permitir\u00c3\u00a1n ser un buen l\u00c3\u00adder empresarial y un experto en la toma de decisiones de tu propio negocio.",
+            "Distinguir los modelos de emprendimiento e innovaci\u00c3\u00b3n e implementar las tendencias en emprendimiento de la actualidad en tu nuevo negocio/emprendimiento."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/tecdemonterreyx-innovation-entrepreneurship",
+        "name": "Innovation & Entrepreneurship MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Innovation & Entrepreneurship"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "In  a highly interconnected, fast-moving world, business and innovation cycles have been shrinking like never before. Companies\u00e2\u0080\u0099 life has decreased to less than a third in the last 30 years. Democratization of innovation has opened limitless possibilities for many people, companies and regions around the world. Entrepreneurs, innovators and startups, in particular, have taken advantage of the opportunities that digital transformation is currently taking place.\nThis MicroMasters program consisting of 6 online courses is dedicated to understanding:\n\nStrategy, key concepts and tools that entrepreneurs require to create value and scale their business projects or new venture.\nMethodologies for solving problems and innovative solutions that require research, persistence and determination.\nBusiness models and how to start a new entrepreneurial project or build a growth company; how to build, manage and maintain corporate venture capital and a corporate entrepreneurship mechanism for innovation; and the specific tools and models to create synergy in the family business and develop a transgenerational entrepreneurial spirit.\n\nThis program is focused on innovation and entrepreneurship for startups, corporations and family businesses. Moreover, gives sources of innovation and best practices that can be applied on marketing strategies helping to open up to new markets.",
+        "language": "English",
+        "outcomes": [
+            "Determine strategies and tools that entrepreneurs and startups use to develop and launch innovations.",
+            "Identify concepts of business model, design unique value propositions and distinguish principles of innovation.",
+            "Distinguish elements of a business model and value technology as a strategy to identify with the key audience.",
+            "Explain the importance of innovation that takes place in organizations and identify how innovation is linked to the development strategies of organizations.",
+            "Apply strategies, tools, models to orchestrate family business, identify and apply the characteristics that will allow you to be a good business leader.",
+            "Distinguish the models of entrepreneurship and innovation for implementing trends in entrepreneurship in your business today."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/usmx-umgc-instructional-design-technology",
+        "name": "Instructional Design and Technology MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Education & Teacher Training",
+            "Instructional Design and Technology"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Engage and inspire students through technology.\nLearn how to create enhanced learning opportunities using the latest tools and techniques to connect with today\u00e2\u0080\u0099s digital-first learners.\nOur unique approach to instructional design focuses on understanding learning theory, blending traditional instructional design models with rapid prototyping and data analytics to create online courses. You will gain hands-on experience developing and publishing online courses using a learning management system of your choice.\nThis Instructional Design and Technology MicroMasters program will provide the knowledge and skills needed to capitalize on one of the fastest-growing areas of education \u00e2\u0080\u0093 online teaching and learning. This program will prepare you to create engaging and active learning experiences, using digital pedagogy, emerging technologies and data analytics. \nThrough this program, you will learn how to design captivating learning experiences for learners who want mobile learning opportunities that are collaborative and accessible, while advancing your knowledge of educational theory.",
+        "language": "English",
+        "outcomes": [
+            "Explore contemporary learning theories to develop online learning experiences",
+            "Identify, evaluate, and integrate emerging technologies to support online learning",
+            "Design an implementation process for online learning experiences",
+            "Apply data mining techniques to the design and evaluation of learning experiences",
+            "Select, evaluate, and design digital media to support learning"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/hkpolyux-international-hospitality-management",
+        "name": "International Hospitality Management MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "International Hospitality Management"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The International Hospitality Management MicroMasters program offers a new way of nurturing talents for the dynamic global hospitality industry.\nThis program is designed to develop leaders for the global hospitality industry. You will gain in-depth knowledge about the luxury market, the latest technologies in the field, and the best marketing, human resources, and other important business practices.\nYou will learn through a blend of strategic perspectives and pragmatic implementation, problem identification and decision-making, as well as interdisciplinary theories and management applications.     If you want to further your education, your MicroMasters program certificate can fast track your study for the on-campus Master of Science in International Hospitality Management, International Tourism and Convention Management, International Wine Management program or online Master of Science in Hospitality Business Innovation at a fraction of the cost.\n*You have the option to take one or more courses at a time, depending on your schedule.  There is no necessity to take all four courses at the same time.\nIndividual Endorsements:\n\u00e2\u0080\u009cIn the digital age, everyone has access to online resources. However, a study program developed by a reputable university offers more comprehensive and well-designed content and delivery that attract first-hand endorsements from leaders in academia and industry, such as the following:\r\n \r\n\u00e2\u0080\u009cThe program format of the MicroMasters (MM) in International Hospitality Management is fascinating, easy to use, and has a balance of complexity and simplicity. By being up-to-date and concise, the MM complements my MSc in International Tourism and Convention Management study and develops my career path. I am now a project officer in the Evangelical Lutheran Church Social Service, Hong Kong.  I am responsible for an innovative social program in destigmatizing the local community recycling through public education. The knowledge and training I have received from the MM and my postgraduate study together greatly enhance my skills in project management.\u00e2\u0080\u009d\u00e2\u0080\u009d\nKarcsi Lam\r\nMicroMasters Graduate\n\"The MicroMasters program was the perfect stepping stone for me on my path to pursuing a Master's degree in the School of Hotel and Tourism Management (SHTM) of The Hong Kong Polytechnic University. It is an excellent choice for students transitioning from undergraduate to Master's study. Not only has it given me the opportunity to learn from experienced professors and professionals in the industry from around the world, but it has also assisted me to complete my Master's degree more efficiently through credit transfer. Even better, the online learning mode allows me to study anytime, anywhere! That offers me great learning flexibility without the constraints of study time and space.\"\nZiwei Zhu\r\nMicroMasters Graduate",
+        "language": "English",
+        "outcomes": [
+            "Leadership skills and best practices for managing human resources.",
+            "Integrated marketing management and strategies for the modern hospitality industry.",
+            "Technologies and innovations in hospitality and beyond.",
+            "Luxury product concepts, power of luxury brands, and evaluation of luxury experiences."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/louvainx-international-law",
+        "name": "International Law MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Law",
+            "International Law"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "International Law is the law of the international community. In our globalized world, it is an expanding field and international politics cannot be understood today without some knowledge of the legal constraints bearing on it.\nWith this International Law MicroMasters program, you\u00e2\u0080\u0099ll master the language and institutions of international law. The MicroMasters program will give you a clear understanding of the ways by which international law exists as a legal order and bears on domestic governance (human rights), war (law of armed conflict), migration (asylum and refugee law) and the economy (investment law). You\u00e2\u0080\u0099ll learn to decode international news from a legal perspective and to understand the legal rules at play in specific professional fields of international relations (diplomacy, humanitarian aid, NGOs...).\nIf you\u00e2\u0080\u0099re not a lawyer, you\u00e2\u0080\u0099ll become able to interact with professional lawyers in an articulate way.\r\nIf you already graduated in law, political sciences or international relations, you might even become interested in taking your MicroMasters credential to the next level, either by\r\n\nEnrolling in an online LL.M. program organized by the UCLouvain Law school.\nOr, becoming an on-campus degree student in the UCLouvain Advanced master in International Law in Belgium.\n",
+        "language": "English",
+        "outcomes": [
+            "Understand the legal rules at play in specific professional fields of international law and international relations (diplomacy, humanitarian aid, NGOs...).",
+            "Make sound legal arguments in order to enhance claims based on international law and interact with professional lawyers in an articulate way.",
+            "Decrypt international news from a legal perspective."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/curtinx-internet-of-things-iot",
+        "name": "Internet of Things (IoT) MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Nominated for the 2020 edX Prize\nThe explosion of embedded and connected smart devices, systems and technologies in our lives has created an opportunity to connect every \u00e2\u0080\u0098thing\u00e2\u0080\u0099 to the internet. The resultant data collection and connectivity has created efficiencies and solutions previously dreamt up only in science fiction stories.\nThis is disrupting and transforming every industry around the world.\nThis MicroMasters program will put you at the front of a digital revolution, where you can design problem-solving systems or guide cutting-edge IoT projects in your industry and area of expertise. Professionals from any field who want to leverage their existing business and/or technical knowledge across IoT-related functions in their workplace will learn exactly what IoT is, how it works, and how to harness its power to improve and streamline your business.\nThe program will show you the scope of the IoT, and reveal underlying principles and architecture of its networks, devices, programming, data, and security. You will learn how an idea can become a viable, workable IoT product and be able to generate your own IoT ideas and design and/or support their development. \nVerified learners will be able to participate in regular live discussions with course lecturers, and remotely access real laboratory equipment for practical sessions. In addition, verified learners will be given access to Cisco Network Academy resources.\nCurtin is ranked in the top 200 in the world for Electrical and Electronic Engineering, has a 5-star QS rating, and is ranked ERA 5 (the highest possible rating for Excellence in Research in Australia).\nNote:\nThe IoT Capstone Project (IOT6x) is the final course in CurtinX's Internet of Things (IoT) MicroMasters\u00c2\u00ae Program.\r\n\r\nLearners must have successfully completed IOT1x, IOT2x, IOT3x, IOT4x, and IOT5x to enroll and participate in this capstone course. It is also only available for verified learners.\r\n\r\nDue to these prerequisites and the intensive nature of this instructor-paced course, the IoT Capstone Project only runs once a calendar year, typically from early April until mid-July. Enrollments close soon after the course starts.",
+        "language": "English",
+        "outcomes": [
+            "Generate IoT concepts and design IoT solutions within your area of expertise.",
+            "Map out the process for an IoT solution, and identify the sensors and other devices required.",
+            "Evaluate different infrastructure components and network systems, and design the basic network for your IoT ideas.",
+            "Apply software solutions for different systems and Big Data to your concept designs, and appreciate how data is managed in the network.",
+            "Identify and analyse IoT security and privacy risks, and concept design secure hardware and software.",
+            "Produce a viable IoT concept design that solves a problem, is ready to prototype and test, and has an identified route to market."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/uqx-leadership-in-global-development-program",
+        "name": "Leadership in Global Development MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Social Sciences",
+            "Leadership in Global Development"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Are you working in the development sector and looking to take the next step in your career?\r\nInternational and community development aims to reduce poverty and improve the living standards, health and quality of life for those who need it most. As the challenges we face become more complex we need qualified and skilled professionals to lead across sectors and organizations.\nBalancing theoretical knowledge with practical abilities, the Leadership in Global Development MicroMasters program provides the strong technical and management skills you need to tackle the most demanding and complex challenges in global development. This program certificate will demonstrate that you have the advanced competencies that international development agencies are increasingly demanding from their leaders and managers.\nAfter gaining a verified certificate for each of the four prerequisite courses you will be awarded the MicroMasters program certificate in Leadership in Global Development.\nBuild on this program certificate and apply to one of UQ\u00e2\u0080\u0099s on-campus Postgraduate Programs in Global Development. More information about this program, including the other entry requirements, is available via UQ.",
+        "language": "English",
+        "outcomes": [
+            "An understanding of the prominent perspectives, trends, and challenges of leadership styles in development.",
+            "The ability to apply critical reasoning to the analysis of development-related issues.",
+            "Critical knowledge of the science, practice and policy of sustainable pathways to development.",
+            "Skills in adaptive development practice, in finding local solutions to complex problems, and for scaling those solutions to improve policy."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/michiganx-leading-educational-innovation-and-improvement",
+        "name": "Leading Educational Innovation and Improvement MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Education & Teacher Training",
+            "Leading Educational Innovation and Improvement"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Nominated for the 2020 edX Prize\nEducation systems around the world face the central challenge of finding innovative solutions and techniques for improving student performance. This challenge is shared by teachers, teacher-leaders, and principals who are responsible for improving opportunities to learn, with two goals: raising average levels of student performance and reducing achievement gaps between students.     Beyond schools, leaders in district offices, government agencies, professional associations, and other non-governmental enterprises also share the challenge of improving student performance at scale across entire schools, districts, and systems.    Developed in collaboration with the Carnegie Foundation for the Advancement of Teaching - and drawing on the expertise of leading researchers, innovators, and practitioners - the Leading Educational Innovation and Improvement MicroMasters program will empower learners to collaborate and strengthen educational opportunities and outcomes for millions of students, especially those currently underserved by their public schools.    This MicroMasters program will develop learners\u00e2\u0080\u0099 knowledge of educational innovation, research, and practice to enable them to improve the education and lives of children in their own schools and beyond.    More information on the MicroMasters program can be found at the University of Michigan website.",
+        "language": "English",
+        "outcomes": [
+            "To envision new possibilities for the work of students and teachers in classrooms.",
+            "To understand alternative logics and strategies for organizing the practice of educational innovation.",
+            "To examine the application of the emerging field of improvement science to the practice of educational innovation.",
+            "To explore innovation and improvement in large-scale educational reform initiatives in the US and around the world.",
+            "To improve your own practice as an educator, innovator, and/or reformer.",
+            "To develop and manage teams that use disciplined, evidence-based methods of educational innovation and improvement.",
+            "To employ disciplined, evidence-based methods of educational innovation and improvement to manage collaborations among schools, districts, and systems."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/rwthx-managing-technology-and-innovation-how-to-deal-with-disruptive-change",
+        "name": "Managing Technology & Innovation: How to deal with disruptive change MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Managing Technology & Innovation: How to deal with disruptive change"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Success or failure? The future of your organization today depends on how well it can adapt to and leverage disruptive technologies and business models.\nTake the next step in your career and add business knowledge to your technical skills to reach a leading position in your company using an entrepreneurial mindset.\nThis MicroMasters program enables you to do just that \u00e2\u0080\u0093 to deal with disruptive change in the marketplace and take advantage of the shifting landscape to benefit your organization.\nBy combining elements from innovation, entrepreneurship, and strategy research, this program will show you how to use a standard toolkit to judge and assess real life cases and learn using a practice-oriented approach.\nYou will be guided through the innovation process from ideation to implementation, will explore the typical creation process of a new venture and will learn more about the differences between entrepreneurial and managerial thought patterns. As a final part of the program, you\u00e2\u0080\u0099ll learn strategic management concepts \u00e2\u0080\u0093 so your organization can be ahead of the curve and not be victim to disruption. \nTo succeed in the program, you need to have basic mathematical knowledge and a general interest in business to succeed in the program. \nThe program is designed by RWTH Aachen University, one of the leading universities in Germany working at the intersection of technology and management. You\u00e2\u0080\u0099ll learn from leading entrepreneurship and innovation experts such as Malte Brettel, who was named the #1 Professor of Entrepreneurship in Germany.",
+        "language": "English",
+        "outcomes": [
+            "To scan an organization\u00e2\u0080\u0099s environment and identify relevant threats to its business",
+            "To develop a set of strategies to quickly address upcoming change",
+            "To discover risks and sources of internal resistance towards innovation and develop successful counter strategies",
+            "To familiarize yourself with the differences between entrepreneurial and corporate thinking",
+            "To strategically position your organization in times of uncertainty",
+            "The knowledge and skills needed to pursue a career at the interface of technology and management in disrupting times.",
+            "Important management skills that will enable you to lead employees and help your company succeed in the marketplace by effectively dealing with disruptive change."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/curtinx-marketing-in-a-digital-world",
+        "name": "Marketing in a Digital World MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Communication",
+            "Marketing in a Digital World"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Over the next decade, marketing jobs are projected to grow faster than the average for all occupations. In this era of digital disruption, companies are increasingly focused on digital marketing, creating heightened demand for a specialised skill set.\nThe Marketing in a Digital World MicroMasters program equips learners with the key concepts and practical skills to build a career in marketing in the digital age. Throughout the program, learners will engage in problem solving and analytical thinking, gaining expertise in:  Creating and sustaining a brand; Marketing through digital channels, such as social media;  Consumption behaviour across buying contexts; Marketing metrics;  Digital brand engagement;  Digital brand reputation management. ",
+        "language": "English",
+        "outcomes": [
+            "To manage an online brand and to optimise paid, earned and owned digital media assets for maximum impact",
+            "To develop hands-on skills in proactive and reactive corporate reputation management based on global public relations best practice",
+            "To examine brand management decisions including the strategies and tactics to build and manage brand equity",
+            "To understand and apply the fundamentals of consumer and buyer psychology essential to the development of any effective marketing campaign",
+            "To apply marketing strategies of segmentation, targeting, positioning and differentiation within an online context"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/purduex-nano-science-technology",
+        "name": "Nanoscience and Technology MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Electronics",
+            "Nanoscience and Technology"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Nanoelectronic devices are an integral part of our life, including the billion-plus transistors in every smartphone, each of which has an active region that is only a few hundred atoms in length. This previously unimaginable scale has become possible by thoroughly understanding the critical mechanisms that take place at the scale of individual atoms and molecules. Similarly, nanophotonic devices are built into the core of modern life through technologies such as fiber-optic communications, also known as the backbone of the internet. \nYou can now learn how to design advanced nanoelectronics and nanophotonics from the creators of nanoHUB, the global nanotechnology research and education portal, even with no prior background in nanotechnology or quantum mechanics. A uniquely designed sequence of courses will help you develop a unified understanding of the essential physics of nanoscale electronic and photonic devices (e.g., field effect transistors, interconnects, lasers and modulators) as well as their important applications in integrated circuits and future electronic and photonic systems.\nThis sequence of short courses builds all critical concepts from the ground up. Starting from the familiar concepts behind Ohm\u00e2\u0080\u0099s law, the lessons in these short courses lead naturally to a new perspective on even some of the basic physics concepts. This unique viewpoint not only clarifies many old questions about what happens at smaller length scales than we can readily observe but also provides a powerful approach to new questions at the frontier of modern nanoelectronics, such as how devices can be built to control the spin of electrons or other exotic states. Concepts and applications in nanophotonics and fiber optics communications are also discussed. Furthermore, you will learn about the key enabling characteristics of the latest advances in nanophotonic, plasmonic, and metamaterial components and systems.\nThese courses are intended to be broadly accessible to students in any branch of science or engineering. Students should have a basic familiarity with calculus, elementary differential equations, and elementary circuit concepts such as Ohm\u00e2\u0080\u0099s law. No prior acquaintance with quantum mechanics is assumed. An introductory level understanding of basic semiconductor physics will also be helpful. This topic will be briefly reviewed in this MicroMasters\u00c2\u00ae program and pointers to web-based lectures that cover background topics will be provided.\nOur distinguished faculty will share their unique perspective built over 30+ years of leading-edge research and educational innovation in nanotechnology.",
+        "language": "English",
+        "outcomes": [
+            "Essential physics of transistors, including modern nanoscale transistors.",
+            "How to design high-performance nanoelectronics.",
+            "Technology considerations and circuit applications.",
+            "How to model modern photonic nanostructures and fiber optics.",
+            "How to account for quantum transport phenomena in nanoscale devices and spintronics."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/ucx-organizational-psychology",
+        "name": "Organizational Psychology MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Organizational Psychology"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Organizational psychology is a quickly growing field due to the importance of work in people\u00e2\u0080\u0099s lives. Given the amount of time most of us spend at work, it is important to create workplaces that have a positive impact on employees, and support productivity. This MicroMasters introduces this exciting and dynamic field, by presenting topics that are relevant to anyone interested in understanding working life better through learning more about the psychology of work and organizations. You will learn about concepts and skills that can be directly apply to your own work situation.\nThis program will be useful for anyone with some background in psychology, human resource management, or related areas, or anyone who is working, perhaps in a team leader or managerial role, and want to add knowledge and skills to their toolbox.\nThe topics covered in this MicroMasters are selected to give an overview of the most salient processes that organizations deal with, from the perspective of how employees are affected by these processes and how they respond to them. Each course combines the latest research evidence with our own research on leadership and employee wellbeing, brought to life by examples from our own experience working with organizations. We are bringing selected parts of the University of Canterbury\u00e2\u0080\u0099s well established and trusted organizational psychology program to you.\nCompleting the five courses will give you a deeper understanding of people at work, and how organizations can get the best out of their people. These courses also give you solutions to common workplace issues; getting the right person and motivating staff, how to promote psychologically healthy workplaces and create an inclusive climate where people thrive.\nTo get the most out of these courses, we recommend that you complete all five, since the topics are linked to each other, and you will gain a deeper understanding, and be able to see how the different topics connect as you go through the courses.\nFirst, we start by focusing on recruitment and selection. Our second course focuses on how we get the best out of employees. We explore contemporary challenges for organizations, starting with reviewing aspects of leadership and how leaders play an important role in shaping organizational success. Then we move onto the topic of recurring changes and how employees and organizations are best supported through initiatives to support innovation. Finally, we explore factors that promote psychologically healthy workplaces.",
+        "language": "English",
+        "outcomes": [
+            "To apply psychological theories to the process of recruiting and selecting the right person for the job while minimizing bias in the selection process.",
+            "To apply motivation theories to performance management and appraisal, and to design appraisal systems that help promote high performance.",
+            "To understand significant leadership theories, and to explain the development of leadership skills and how they relate to employee engagement.",
+            "To apply core psychological concepts to explain how to build psychologically healthy and productive workplaces.",
+            "To understand and explain the factors leading to successful organizational change and learning among employees."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/mitx-principles-manufacturing",
+        "name": "Principles of Manufacturing MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Engineering",
+            "Principles of Manufacturing"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Develop the fundamental skills needed for global excellence in manufacturing and competitiveness with the Principles of Manufacturing MicroMasters Credential, designed and delivered by MIT\u00e2\u0080\u0099s #1-world ranked Mechanical Engineering department. Build your career with the credential or use it as credits towards a Master\u00e2\u0080\u0099s Degree by applying to MIT\u00e2\u0080\u0099s world-renowned Master of Engineering in Advanced Manufacturing and Design Blended Program.\nThis program provides students with a fundamental basis for understanding and controlling rate, quality and cost in a manufacturing enterprise.\nThe Principles of Manufacturing are a set of elements common to all manufacturing industries that revolve around the concepts of flow and variations. These principles have emerged from working closely with manufacturing industries at both the research and operational levels. \nTargeted towards graduate-level engineers, product designers, and technology developers with an interest in a career in advanced manufacturing, the program will help learners understand and apply these principles to product and process design, factory and supply chain design, and factory operations. \nThis curriculum focusses on the analysis, characterization and control of flow and variation at different levels of the enterprise through the following subject areas:\n\nUnit Process Variation and Control: Modeling and controlling temporal and spatial variation in unit processes\nFactory Level System Variation and Control: Modeling and controlling flows in manufacturing systems with stochastic elements and inputs.\nSupply Chain \u00e2\u0080\u0093 System Variation and Control: How to operate and design optimal manufacturing-centered supply chains.\nBusiness Flows: Understanding the uses and flow of business information to start up, scale up and operate a manufacturing facility.\n",
+        "language": "English",
+        "outcomes": [
+            "A new perspective for design and operational decision making at all levels of manufacturing, in the context of volume manufacturing, where rate, quality, cost and flexibility are the key metrics",
+            "How to operate and control unit processes to ensure maximum quality using basic and advanced statistical and feedback control methods",
+            "How to design and operate systems of processes with optimal capacity, resilience and inventory",
+            "How to design and operate optimal supply chain systems",
+            "The financial underpinnings of a manufacturing enterprise, including new ventures"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/iimbx-product-marketing-strategy",
+        "name": "Product Marketing Strategy MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Product Marketing Strategy"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The Product Marketing Strategy Program is designed to provide participants with a comprehensive understanding of the key concepts, frameworks, and techniques involved in developing effective marketing strategies for products. In today's highly competitive business landscape, a strong product marketing strategy is essential for the success and growth of any organization.\nThroughout this program, participants will explore various aspects of product marketing, including market research, product positioning, competitive analysis, pricing strategies, promotional tactics, and go-to-market strategies. By gaining a deep understanding of these fundamental principles and best practices, participants will be equipped with the knowledge and skills needed to create and execute successful product marketing campaigns.",
+        "language": "English",
+        "outcomes": [
+            "Understand the role and importance of product marketing in the overall marketing mix.",
+            "Learn how to conduct comprehensive market research to identify customer needs, preferences, and trends.",
+            "Develop strategies to effectively position products in the market and differentiate them from competitors.",
+            "Explore pricing strategies that align with product value, target market, and business objectives.",
+            "Learn how to create compelling product messaging and develop effective promotional tactics."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/ritx-project-management",
+        "name": "Project Management MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Project Management"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The Project Management MicroMasters program from RIT is a graduate level series of courses designed to provide you with the in-depth knowledge and skills needed to be a successful project manager in any industry.\nBy earning the MicroMasters program certificate you will develop the leadership skills needed to effectively manage a team that will meet the expectations of your customers and business goals. Build on your MicroMasters program certificate by applying to RIT\u00e2\u0080\u0099s School of Individualized Study for a customized master\u00e2\u0080\u0099s degree.",
+        "language": "English",
+        "outcomes": [
+            "The tools and techniques to manage the comprehensive project management life cycle for a project - from initiation through closing.",
+            "To balance the critical tradeoffs of time, cost and scope to meet customer expectations.",
+            "The ability to apply best practices across a variety of industries and businesses.",
+            "Lead a project to success, and how to capitalize on the leadership and behavioral facets to do so.",
+            "To navigate the social and cultural aspects, legal and regulatory practices, technology and infrastructure that influence projects\u00e2\u0080\u0099 success in the global market."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/purduex-quantum-technology-computing",
+        "name": "Quantum Technology: Computing MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Engineering",
+            "Quantum Technology: Computing"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Since the beginning of the 21st century, explosive advancement in the realization of quantum computing platforms has occurred, redefining information processing and computer science.  With such development, multidisciplinary and advanced training is urgently needed to move the technology forward, which has applications in artificial intelligence and data science.\nThis MicroMasters program introduces fundamental concepts and theories of quantum information and technologies and provides an overview of various emerging technologies, including quantum communication, quantum sensing, and quantum computation.  The primary focus of the program is to introduce state-of-the-art quantum bit architectures and their working principles and provide hands-on experience programming real quantum systems.\nCourses in this program are designed to introduce both physics and engineering aspects of quantum technologies, in particular quantum computing, with minimal prerequisite courses. Basic undergraduate physics and mathematics courses found in typical sophomore or junior-level engineering or science degrees are sufficient.",
+        "language": "English",
+        "outcomes": [
+            "How to mathematically describe basic quantum phenomena relevant to quantum technologies.",
+            "Engineering challenges of quantum computation.",
+            "How to formulate and apply basic quantum algorithms.",
+            "Quantum communication and sensing technologies.",
+            "How to analyze various quantum computing architectures."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/purduex-quantum-technology-detectors-and-networking",
+        "name": "Quantum Technology: Detectors and Networking MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Engineering",
+            "Quantum Technology: Detectors and Networking"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Classical detectors and sensors are ubiquitous \u00e2\u0080\u0093 examples include heat sensors in cars, light detectors in camera cell phones and magnetic field sensors in navigation systems. Leveraging advances in the theory of noise and measurement, an important paradigm of quantum metrology has emerged. Here, ultra-precision measurement devices collect maximal information from the world around us at the quantum limit. This enables a new frontier of perception that promises to impact machine learning, sensing platforms, autonomous navigation, surveillance strategies, information processing, and communication systems.\nIn this MicroMasters, students will learn the fundamentals of state-of-the-art quantum detectors and sensors with an emphasis on the important applications of quantum networking.\nIn addition, they will also learn the important foundational principles of quantum computers, quantum information, quantum communications, quantum sensors and quantum bits. They will be introduced to state-of -the-art quantum computing architectures and their working principles and will also gain hands-on experience programming real quantum machines.\nCourses in this program are designed to introduce both physics and engineering aspects of quantum technologies, in particular quantum detectors/sensors/networking/computing, with minimal prerequisite courses. Basic undergraduate physics and mathematics courses found in typical sophomore or junior-level engineering or science degrees are sufficient.",
+        "language": "English",
+        "outcomes": [
+            "How to design and incorporate quantum detectors in various systems.",
+            "Quantum networking and sensing technologies.",
+            "Engineering challenges of quantum computation.",
+            "How to formulate and apply basic quantum algorithms.",
+            "How to analyze various quantum computing architectures."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/purduex-reliability-and-decision-making-in-engineering-design",
+        "name": "Reliability and Decision Making in Engineering Design MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Engineering",
+            "Reliability and Decision Making in Engineering Design"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Successful design requires good decisions in the presence of uncertainty and competing goals. A key design requirement of successful products is their reliability. Often, performance and cost requirements drive product designs to possess relatively small margins of safety. Since materials degrade with time, the resulting product life is finite. Engineers are challenged to design the product to ensure predictable reliability while optimally achieving the goals of performance and cost.\nMaking optimal decisions considering tradeoffs between diverse objectives is an essential activity in all organizations and teams involved in engineering design and product development. The ability to effectively make design decisions, and to coordinate the decisions of a team are valuable competencies for various roles in the industry, including those of systems engineers, design engineers, and engineering managers.\nBoth product reliability as well as  design decisions  require an assessment of uncertainty in product lifetimes or market factors.  Product lifetimes are inherently uncertain, due to uncertainty in geometrical dimensions, material parameters or loading conditions. Assessment of market risk and uncertainty is crucial for good design decisions. Therefore, the tools and techniques of probability and statistics that are critical to the study of uncertainty form an important learning of this program. Analyzing the uncertainty and designing to reduce failure probability and the uncertainty in product performance represents another important goal. The physics of material degradation and the common failure mechanisms in mechanical and electronic products is an important learning, as well.\nThis MicroMasters program will benefit a wide range of practitioners and active learners, whether entry level engineers or transitioning into engineering management roles. The learning outcomes of this program will have applicability to products across all major engineering disciplines including automotive, aerospace, biomedical and electronics industries.  This MicroMasters program from the best ranked online Mechanical Engineering Master\u00e2\u0080\u0099s degree program will prepare the student for leadership roles in product development or engineering management.\nThe program content is suitable for individuals with an undergraduate degree in engineering, or a related field. Basic knowledge of mechanics of materials and programming is expected.",
+        "language": "English",
+        "outcomes": [
+            "Develop an engineering view of reliability analysis and design",
+            "Model time to failure of products and use these models during the design process",
+            "Formulate and make multi-objective design decisions in the presence of uncertainty",
+            "Apply model-driven and data-driven decision making in engineering design",
+            "Identify and reduce biases in design decisions"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/uncordobax-siembra-directa-agricultura-productiva-sustentable",
+        "name": "Siembra Directa: agricultura productiva sustentable MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Biology & Life Sciences",
+            "Siembra Directa: agricultura productiva sustentable"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "En los \u00c3\u00baltimos quince a\u00c3\u00b1os, gracias a la implementaci\u00c3\u00b3n de la siembra directa y los avances en biotecnolog\u00c3\u00ada, Am\u00c3\u00a9rica Latina ha experimentado un gran crecimiento tanto en su  producci\u00c3\u00b3n como un su \u00c3\u00a1rea cultivable,  generando nuevos r\u00c3\u00a9cords en la producci\u00c3\u00b3n esto signific\u00c3\u00b3 que en \u00c3\u00a1reas que anteriormente no eran arables con la  siembra directa se implantaron cultivos en  forma exitosa lo que era estrictamente ganaderas pasaron a ser de alta producci\u00c3\u00b3n de granos, lo que ocurri\u00c3\u00b3 fue un desplazamiento de la ganader\u00c3\u00ada (frontera ganadera) disminuyendo la cantidad de superficie pero manteniendo el stock, calidad  y eficiencia de la carne.\nEl agricultor actual tiene diferentes opciones para ser sustentable y para ser productivos de forma sustentable.\nLa Siembra Directa:  es un sistema de producci\u00c3\u00b3n sustentable de cultivos, totalmente evolucionados, se fundamenta en: \r\n\nAusencia de laboreo\n Cobertura permanente del suelo con residuo\nCaptura de Carbono\nEconom\u00c3\u00ada del agua\nReducci\u00c3\u00b3n de insumos\n\nLos cursos en l\u00c3\u00adnea que componen este programa MicroMasters se estructuran desde lo general a lo particular, atendiendo en primer lugar a los aspectos m\u00c3\u00a1s b\u00c3\u00a1sicos asociados al sistema de cultivo, para luego tratar temas m\u00c3\u00a1s novedosos y actuales, como Agricultura Certificada y Agricultura por ambientes.",
+        "language": "English",
+        "outcomes": [
+            "El sistema de Siembra Directa: Su contexto hist\u00c3\u00b3rico y Agricultura Certificada, principios y fundamentos de la siembra directa.",
+            "Sobre el  suelo en la Siembra Directa, sus aspectos ambientales, propiedades y procesos asociados a la calidad f\u00c3\u00adsica y qu\u00c3\u00admica.",
+            "Significado de la  microbiolog\u00c3\u00ada del suelo: funciones, microorganismos presentes en el suelo y la modificaci\u00c3\u00b3n de la biolog\u00c3\u00ada del suelo por acci\u00c3\u00b3n u omisi\u00c3\u00b3n.",
+            "Algunos puntos a considerar para mejorar los resultados: La importancia de las rotaciones agr\u00c3\u00adcola-ganadera.",
+            "Algunas maquinarias para Siembra Directa. Conceptos de agricultura de precisi\u00c3\u00b3n aplicados a la Siembra Directa, la fertilizaci\u00c3\u00b3n y siembra.",
+            "El manejo de plagas, malezas y enfermedades en el Sistema de Siembra Directa."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/ubcx-software-development",
+        "name": "Software Development MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Speed is critical in software development. Successful developers are those who are able to quickly learn new technologies and new software systems, and they do this by seeing any software \u00e2\u0080\u0093 in any programming language \u00e2\u0080\u0093 as common repeating patterns, not just detailed lines of code.\nIn this MicroMasters program, you will learn this same kind of expert thinking. By working through several software development projects, you will learn specific technologies, including Java, JUnit, IntelliJ IDEA, Typescript and Node.js. But even more important, you will develop the ability to see the common structures in programs and in tools and learn how to apply these skills to master new technologies quickly. \nUpon completion of this program, you will be able to write programs using a systematic approach and to design programs that are easy to maintain. You will also learn how to use agile methods in order to build software programs that solve real world problems. \nWith the skills obtained in this program, you will have the confidence to apply for positions that use any programming language or technology.",
+        "language": "English",
+        "outcomes": [
+            "How to develop programs that are well tested and easy to modify",
+            "To structure the development of large software systems using abstraction and decomposition",
+            "To quickly write and revise code using programming tools",
+            "How to do full-stack software development using an agile approach in a pair or team",
+            "Popular languages Java and Typescript, and the ability to quickly learn new ones"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/delftx-solar-energy-engineering",
+        "name": "Solar Energy Engineering MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Engineering",
+            "Solar Energy Engineering"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Solar energy technology use is expanding rapidly. The Solar Photovoltaic (PV) sector is the largest and fastest growing renewable energy employer worldwide with an increasing need for experts that can support this growth.\nIn this MicroMasters program you will gain the knowledge and skills needed to pursue a career in the solar energy field and become a successful solar energy professional. This program will teach you what is expected from solar experts, and will prepare you for employment in various capacities including:    Systems design and engineering Solar systems installation Device fabrication and characterization QA and reliability testing Project management and consultancy as well as (technical) sales\nThe program includes diverse learning activities, including videos, readings, exercises and real-world applications. You will be guided through the content in an inspiring, hands-on, but rigorous manner. It is designed so knowledge is built gradually. We therefore recommend that students follow the courses in the suggested order. However, you may choose to enroll in any course of your choice based on your background knowledge or experience.\nThe program is taught by photovoltaics research experts from TU Delft with many years of experience working with industry partners. Among these experts is Professor Arno Smets, the first ever recipient of the edX Prize for Exceptional Contributions to Online Teaching and Learning.",
+        "language": "English",
+        "outcomes": [
+            "The physics of and how to model all aspects of a working solar cell: performance, efficiency limits and design rules.",
+            "Design concepts and fabrication processes of various photovoltaic (PV) technologies and applications.",
+            "How to evaluate components of a PV system: PV modules, inverters, DC-DC converters, batteries, charge controllers and cables.",
+            "Application techniques for designing a PV system ranging from a residential rooftop system to a utility scale solar farm.",
+            "Design concepts of microgrids that include PV systems.",
+            "How to assess the economics and ecology of PV systems and communicate these accordingly."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/mitx-statistics-and-data-science",
+        "name": "Statistics and Data Science MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Demand for professionals skilled in data, analytics, and machine learning is exploding. The U.S. Bureau of Labor Statistics reports that demand for data science skills will drive a 27.9 percent rise in employment in the field through 2026. Data scientists bring value to organizations across industries because they are able to solve complex challenges with data and drive important decision-making processes. Not only is there a huge demand, but there is a significant shortage of qualified data scientists with 39% of the most rigorous data science positions requiring a degree higher than a bachelor\u00e2\u0080\u0099s.\nThis MicroMasters program in Statistics and Data Science is comprised of four online courses and a virtually proctored exam that will provide you with the foundational knowledge essential to understanding the methods and tools used in data science, and hands-on training in data analysis and machine learning. You will dive into the fundamentals of probability and statistics, as well as learn, implement, and experiment with data analysis techniques and machine learning algorithms. This program will prepare you to become an informed and effective practitioner of data science who adds value to an organization. The program certificate can be applied, for admitted students, towards a PhD in Social and Engineering Systems (SES) through the MIT Institute for Data, Systems, and Society (IDSS) or may accelerate your path towards a Master\u00e2\u0080\u0099s degree at other universities around the world.\nAnyone can enroll in this MicroMasters program. It is designed for learners that want to acquire sophisticated and rigorous training in data science without leaving their day job but without compromising quality. There is no application process but college-level calculus and comfort with mathematical reasoning and Python programming are highly recommended if you want to excel. All the courses are taught by MIT faculty at a similar pace and level of rigor as an on-campus course at MIT.   This program brings MIT\u00e2\u0080\u0099s rigorous, high-quality curricula and hands-on learning approach to learners around the world \u00e2\u0080\u0093 at scale. \nFor more detail on this program and credit pathways, please visit https://micromasters.mit.edu/ds/",
+        "language": "English",
+        "outcomes": [
+            "Master the foundations of data science, statistics, and machine learning",
+            "Analyze big data and make data-driven predictions through probabilistic modeling and statistical inference; identify and deploy appropriate modeling and methodologies in order to extract meaningful information for decision making",
+            "Develop and build machine learning algorithms to extract meaningful information from seemingly unstructured data; learn popular unsupervised learning methods, including clustering methodologies and supervised methods such as deep neural networks",
+            "Finishing this MicroMasters program will prepare you for job titles such as: Data Scientist, Data Analyst, Business Intelligence Analyst, Systems Analyst, Data Engineer"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/mitx-supply-chain-management",
+        "name": "Supply Chain Management MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Supply Chain Management"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Gain expertise in the growing field of Supply Chain Management through an innovative online program consisting of five courses and a final capstone exam. The MicroMasters Program in Supply Chain from MITx is an advanced, professional, graduate-level foundation in Supply Chain Management. It represents the equivalent of one semester's worth of coursework at MIT.\nThe MicroMasters program certificate will showcase your understanding of supply chain analytics, design, technology, dynamics and end-to-end supply chain management. Build on the program certificate and take advantage of a great opportunity to be accepted into the #1 ranked supply chain management Masters Degree program for a fraction of the cost.",
+        "language": "English",
+        "outcomes": [
+            "To apply core methodologies (probability, statistics, optimization) used in supply chain modeling and analysis.",
+            "To understand and use fundamental models to make trade-offs between forecasting, inventory, and transportation.",
+            "To design supply chain networks as well as financial and information flows.",
+            "To understand how supply chains act as systems and interact.",
+            "How technology is used within supply chains from fundamentals to packaged software systems.",
+            "End to end supply chain management."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/doanex-sustainable-agribusiness",
+        "name": "Sustainable Agribusiness MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Business & Management",
+            "Sustainable Agribusiness"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "The Sustainable Agriculture MicroMasters program provides you the knowledge to create a healthy environment, economic profitability, and social and economic equity. Its fundamental purpose is to help you meet current societal needs without compromising the ability of future generations to meet their own needs. \nYou will learn that sustainable agriculture is more than a collection of sustainable agriculture methods and practices. It is also a process of negotiation: a push and pull between the sometimes competing interests of an individual farmer, a community, a nation, or geo-political groups as they work to solve complex problems about how to grow crops and livestock.\nAs a practitioner of sustainable agriculture \u00e2\u0080\u0094 manager, grower, food processor, distributor, retailer, consumer, waste manager, or policymaker \u00e2\u0080\u0094 the Sustainable Agriculture MicroMasters program will equip you to play a role in ensuring a sustainable agricultural system. A systems perspective is essential to understanding sustainability and implies interdisciplinary efforts. \nYou will gain an understanding of the importance of the sustainable agriculture system in its broadest sense, from the individual farm, to the local ecosystem, and to communities affected by crop and livestock production practices, both locally and globally. An emphasis on the system allows a larger and more thorough view of the consequences of crop and livestock practices on both human communities and the environment. A systems approach gives you the tools to explore the interconnections between agriculture and other aspects of our environment.\nFarmers, laborers, policymakers, researchers, retailers, consumers, and managers have a responsibility to reach toward the goal of sustainable agriculture. This MicroMasters program provides you with the fundamental knowledge so that you can uniquely contribute to strengthen the sustainable agriculture community. ",
+        "language": "English",
+        "outcomes": [
+            "Agricultural Growth and Productivity Analysis",
+            "Sustainable Agrifood Supply Chain Management",
+            "Global Agri-food, Livestock, and Crop Systems Solution",
+            "Agricultural Economic Modeling Tools",
+            "Environmental and Natural Resources Economics",
+            "Food Futures and Market"
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/hecmontrealx-ux-design-and-evaluation",
+        "name": "UX Design and Evaluation MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Social Sciences",
+            "UX Design and Evaluation"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "It is hard to overstate the importance of UX in our relationship with the digital environment. Forrester has established that organizations that invest in UX have fared better than most in bull markets and in recessions (Forrester, 2015). This is truer than ever, now that the pandemic has broadened the adoption of remote work, online social life and entertainment.\nLearn User Experience fundamentals from the professors of the most important UX lab in North America. In this UX MicroMasters program, you will learn to meet organizational goals and satisfy users by applying a user-centred process to the digital products and services development that solve industry-relevant, real-world problems.\nFor each user-centred development phase (UX Research, Design, Prototyping and Evaluation), you will acquire the relevant theoretical knowledge and the applied best practices to plan, perform, analyze and communicate useful insights for the following development phase.\nFrom personal financial services and employee-oriented software to disruptive medical applications, this MicroMasters program will help you develop the design thinking, UX evaluation and UX project management skills necessary to generate new solutions to pressing problems.\nIn each course, you will face a series of week-long challenges based on state-of-the-art research currently underway at HEC Montr\u00c3\u00a9al\u00e2\u0080\u0099s Tech3lab Laboratory. Through these challenges, you will refine your understanding of core concepts and prove your abilities in the very sought-after field of UX , from user interface, heuristic evaluation, human-computer interaction, usability testing, user interaction, to user experience.\nThis rigorous graduate-level series represents 20% of the coursework towards a Master of Science degree in UX in a Business Context from HEC Montr\u00c3\u00a9al. You will have unique access to the Tech3lab, an applied laboratory in management science, specializing in the analysis of interactions between technological interfaces in organizations and their employees or customers.\n\n\n\n\n",
+        "language": "English",
+        "outcomes": [
+            "Design professional interfaces offering quality user experiences;",
+            "Develop empathy and insights using Web analytics and qualitative and quantitative methods;",
+            "Leverage insights from data in order to propose  empirically-based recommendations;",
+            "Prototype low-tech mock-ups to high-fidelity interactive interfaces; and",
+            "Execute formal lab evaluations for all user testing, including compliance testing."
+        ]
+    },
+    {
+        "url": "https://www.edx.org/micromasters/writing-for-performance-and-the-entertainment-industries",
+        "name": "Writing for Performance and the Entertainment Industries MicroMasters\u00c2\u00ae Program | edX",
+        "topics": [
+            "Communication",
+            "Writing for Performance and the Entertainment Industries"
+        ],
+        "skills": [],
+        "type": "MicroMasters",
+        "description": "Writing for stage, screen, you-tube and digital platforms, video games, performance poetry, stand-up comedy, installation and performance art, has never been more popular. The golden age of television has diversified to become the golden age of streaming, with Netflix and Amazon creating exceptional opportunities for new writers to enter the industry.\nThe MicroMasters\u00c2\u00ae in Writing for Performance and the Entertainment Industries offers both an experimental and industry-relevant opportunity to hone your skills as a dramatist or performance artist across many genres, as well as preparing you practically for engaging successfully with the film/TV /theatre/digital media and industries.\nYou will receive world-class teaching from academics from the University of Cambridge as well as expert advice from writers and directors who have navigated highly successful careers. We will delve into themes across all performance genres, including: dialogue, narrative structure/story-telling, and character psychology. You will learn how to write outlines and story-bibles, how to pitch an idea to a producer, and how to present your work to the industry of your choice.\nWe want to build innovative writers who disrupt traditional performance practices and are professionally resilient in the market-place. This creative writing program will help you build your entrepreneurial confidence by our engagement with audience theory, performance theory, and anti-fragility theory.  This course would suit those already working as professional dramatists/writers who wish to broaden their portfolio, as well as those involved in associated creative industries. Literary agents, editors, you- tubers, stand-up comics, performance artists and poets, and those involved in managing writers in the entertainment and media industries would all benefit from insights gained in this course.\nThe courses within the MicroMasters can be studied independently, but to gain the most from the course, we recommend following them in sequence. In particular Writing successfully for the stage: structure, plot and dialogue follows on from Finding your voice as a playwright: scenes, themes and characters.\nFor those interested in continuing onto a full Master\u00e2\u0080\u0099s degree at the University of Cambridge, this graduate level MicroMasters\u00c2\u00ae offers the chance to experience the expertise of our dynamic world-class tutors, led by published playwrights Abigail Docherty and Fraser Grace, at a time and place to suit you. If accepted to the full program, following our normal application procedures, those who have studied the MicroMasters\u00c2\u00ae in Writing for Performance and the Entertainment Industries will have completed 30 credits (15 ECTS) of the full 180 credit program.\nThe University of Cambridge has long produced famous performers such as Emma Thompson, Stephen Fry, Hugh Laurie and Rowan Atkinson. Our recent alumni includes Sara Collins and her award-winning novel, The Confessions of Frannie Langton.",
+        "language": "English",
+        "outcomes": [
+            "Specialised knowledge of histories, forms, and traditions of writing for performance and entertainment as well as the cultural contexts of innovative practitioners and practices within performance and entertainment.",
+            "A detailed understanding of key performance/entertainment components within the discipline, to include: ideational sources, body, space, image, sound, text, movement, environment",
+            "How to create effective structure within a scene, how to edit your scene, and think like a dramaturg/script editor; how to create effective character",
+            "Advanced awareness of the relevant market and distribution demands of entertainment industries",
+            "Developed advanced self-management skills to include working in planned and improvisatory ways, as well as the ability to anticipate and accommodate change, ambiguity, creative risk-taking, uncertainty and unfamiliarity"
+        ]
+    }
+]
