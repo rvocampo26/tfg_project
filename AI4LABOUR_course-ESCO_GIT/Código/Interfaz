@@ -1,0 +1,179 @@
+import tkinter as tk
+from tkinter import *
+from PIL import ImageTk, Image
+from sentence_transformers import SentenceTransformer
+from sentence_transformers import util
+import torch
+import pandas as pd
+from sentence_transformers import SentenceTransformer
+from sentence_transformers import util
+import torch
+import pandas as pd
+
+class mi_app:
+    
+    def __init__(self):
+        self.modelo = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+        self.df_esco = pd.read_csv("C:/Users/rvoca/OneDrive/Escritorio/tfg_project/AI4LABOUR_course-ESCO_GIT/data/skills_en_ESCO1.1v1.csv")
+        self.escoLabels = self.df_esco["preferredLabel"].to_list()
+        self.escoLabelsAlt = self.df_esco["altLabels"].to_list()
+
+        #Diccionario que contiene la relación entre las etiquetas generales y las alternativas
+        self.dict_Labels= {}
+        self.create_dict_Labels()
+        #Lista con todas las alternativas
+        self.list_AltLabel=[]
+        self.prepare_AltLabels()
+        #Codificamos la lista alternativa
+        self.embeddings = self.modelo.encode(self.escoLabels)
+        self.embeddingsALT = self.modelo.encode(self.list_AltLabel)
+        print("FIN INIT")
+                
+        
+    def get_General_Label(self,skill):
+        print("generalLabel")
+        for clave, lista_palabras in self.dict_Labels.items():
+            if skill in lista_palabras:
+                return clave
+        return None
+                  
+    def create_dict_Labels(self):
+        print("creat_dict")
+        for pos in range(0,len(self.escoLabels)):
+            # print("***********************")
+            # print(pos)
+            # print(self.escoLabels[pos])
+            # print(self.escoLabelsAlt[pos])
+            if(pd.isna(self.escoLabelsAlt[pos])):
+                self.dict_Labels[self.escoLabels[pos]]=None
+            else:
+                alternatives = self.escoLabelsAlt[pos].split("\r\n")
+                #print(type(alternatives))
+                #print(type(escoLabelsAlt[pos]))
+                self.dict_Labels[self.escoLabels[pos]]= self.escoLabelsAlt[pos]
+
+                 
+    def prepare_AltLabels(self):
+        print("prepare")
+        for elem in self.df_esco["altLabels"].to_list():
+            self.list_AltLabel.append(elem)
+        
+        
+
+    def get_Information_Skill(self, sim, skill):
+        print("MAX1")
+        res=[] 
+        label = self.escoLabels[torch.argmax(sim).item()]
+        uriLabel = self.df_esco["conceptUri"][torch.argmax(sim).item()]
+        res.append(skill) 
+        res.append(label)
+        res.append(uriLabel)
+        return res
+    
+    def get_ALT_Information_Skill(self, sim, skill):
+        print("MAXALT")
+        res=[] 
+        label = self.list_AltLabel[torch.argmax(sim).item()]
+        originalLabel = self.get_General_Label(label)
+        uriLabel = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["conceptUri"]
+        res.append(skill) 
+        res.append(label)
+        res.append(uriLabel)
+        return res
+        
+    def get_skill_similar(self,skill):
+        print("GETSKILL")
+        resultado=[]
+        #Compute embedding for the skill
+        embedding= self.modelo.encode(skill, convert_to_tensor=True)    # we encode the skill  
+        sim = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
+        max_Sim = torch.max(sim).item()
+        print(max_Sim)
+        if(max_Sim>=0.83):
+            resultado = self.get_Information_Skill(sim,skill)
+        else:
+            simALT = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
+            max_Sim = torch.max(simALT).item()
+            resultado = self.get_ALT_Information_Skill(simALT,skill)
+            
+        return resultado
+      
+        
+    def mostrar_habilidad(informacion):
+        print(informacion)
+    
+        if len(informacion) != 0:
+            label_skill = Label(ventana, text="SKILL")
+            label_skill.place(x=40,y=275)
+            label_skill["fg"] = "#E7F4FF"
+            
+            skill_ventana = Text(ventana, width=40, height=0, padx=0, pady=5)
+            skill_ventana.insert(INSERT,informacion[0])
+            skill_ventana.place(x=40,y=310)
+            
+            
+            label_label = Label(ventana, text="LABEL").place(x=40,y=345)
+            label_ventana = Text(ventana, width=40, height=0, padx=0, pady=5)
+            label_ventana.insert(INSERT,informacion[1])
+            label_ventana.place(x=40,y=375)
+        
+            # url_ventana = Text(ventana, width=70, height=20)
+            # url_ventana.insert(INSERT,"URL\n")
+            # url_ventana.insert(INSERT,informacion[2])
+            # url_ventana.place(x=40, y=425) 
+            
+            
+    def find_skill(self,skill):
+        print("Buscamos")
+        info_skill = self.get_skill_similar(skill)
+        print("Mosrtramos")
+        self.mostrar_habilidad(info_skill)
+        
+#################################################################################################################
+app = mi_app()
+
+ventana = Tk()
+# Nombre de ventana
+ventana.title("Skill extractor")
+# Ajustar tamaño de ventana
+ventana.geometry("1000x600")
+# Cambiamos color ventana
+# Código de color
+color_fondo = "#E7F4FF"
+ventana["bg"]= color_fondo
+
+##################### MANEJO DE INFORMACIÓN
+## Variable para almacenar informacion
+skill_ob = StringVar()
+
+#Agregamos icono ventana
+ventana.iconbitmap("C:/Users/rvoca/OneDrive/Escritorio/tfg_project/AI4LABOUR_course-ESCO_GIT/Código/LogoV.ico")
+
+#Agregamos logo
+#Leemos img
+image = Image.open("C:/Users/rvoca/OneDrive/Escritorio/tfg_project/AI4LABOUR_course-ESCO_GIT/Código/Logo.jpg")
+# Redimensionamos
+rsz_image = image.resize((300,100))
+img= ImageTk.PhotoImage(rsz_image)
+logo = Label(image=img)
+logo.image = img
+logo.place(x=400,y=10)
+
+    
+# Etiqueta1
+text = Label(ventana, text = "Introduce el texto del que deseas extraer información: ")
+text["bg"]= color_fondo
+text.place(x=30, y=150)
+
+
+# Entry1
+entrada = Entry(ventana,textvariable=skill_ob)
+entrada.place(x=33, y=180)
+
+# Botón Aceptar
+accept_button = Button(ventana, text="Buscar", command=app.find_skill(skill_ob))
+accept_button.place(x=33, y=220)
+
+
+# Para mantener ventana abierta (siempre debe ir al final)
+ventana.mainloop()
