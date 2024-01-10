@@ -9,8 +9,10 @@ from sentence_transformers import SentenceTransformer
 from sentence_transformers import util
 import torch
 import pandas as pd
+import nltk
 
-class mi_app:
+class mi_app: 
+    signs=[".",",",";","\\n",]
     
     def __init__(self):
         self.modelo = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
@@ -36,7 +38,7 @@ class mi_app:
             if skill in lista_palabras:
                 return clave
         return None
-                  
+    
     def create_dict_Labels(self):
         print("creat_dict")
         for pos in range(0,len(self.escoLabels)):
@@ -63,6 +65,9 @@ class mi_app:
     def get_Information_Skill(self, sim, skill):
         print("MAX1")
         res=[] 
+        print(sim)
+        print(skill)
+        print(torch.argmax(sim).item())
         label = self.escoLabels[torch.argmax(sim).item()]
         uriLabel = self.df_esco["conceptUri"][torch.argmax(sim).item()]
         res.append(skill) 
@@ -73,11 +78,15 @@ class mi_app:
     def get_ALT_Information_Skill(self, sim, skill):
         print("MAXALT")
         res=[] 
+        print(sim)
+        print(skill)
+        print(torch.argmax(sim).item())
         label = self.list_AltLabel[torch.argmax(sim).item()]
+        print(label)
         originalLabel = self.get_General_Label(label)
-        uriLabel = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["conceptUri"]
+        uriLabel = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["conceptUri"].values[0]
         res.append(skill) 
-        res.append(label)
+        res.append(originalLabel)
         res.append(uriLabel)
         return res
         
@@ -88,50 +97,73 @@ class mi_app:
         embedding= self.modelo.encode(skill, convert_to_tensor=True)    # we encode the skill  
         sim = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
         max_Sim = torch.max(sim).item()
+        print("Similitud normal")
         print(max_Sim)
-        if(max_Sim>=0.83):
+        if(max_Sim>=0.829):
             resultado = self.get_Information_Skill(sim,skill)
         else:
             simALT = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
-            max_Sim = torch.max(simALT).item()
+            max_SimALT = torch.max(simALT).item()
+            print("Similitud alternativa")
+            print(max_SimALT)                
             resultado = self.get_ALT_Information_Skill(simALT,skill)
+            print(resultado[1])
+            if(max_SimALT<0.829):
+                resultado = []
             
         return resultado
-      
         
-    def mostrar_habilidad(informacion):
-        print(informacion)
+    def get(self, texto):
+        print("Bucamos")
+        #skill = skill_ob.get()
+        res= {}
+        for elem in texto:
+            for skill in elem:
+                inf = self.get_skill_similar(skill)
+                if(len(inf)>0):
+                    res[skill]=[inf[1],inf[2]]
+                #skill_ob.set("")
+        return res
+
+       
+    def split_Text(self, text):
+        #Tokenizamos el texto
+        texto_ok=[]
+        text= text.replace("\\n","").replace(".",". ")
+        tokens = nltk.sent_tokenize(text)
+        print(len(tokens))
+        for sentence in tokens:
+            split = [word.strip() for word in sentence.split(",")]
+            texto_ok.append(split)
+        
+        return texto_ok
     
+#########################################################
+    def mostrar_habilidad(self, informacion):
+        print(informacion)
+        skill_ventana = Text(ventana,width=80, height=15)
+        print(len(informacion))
         if len(informacion) != 0:
-            label_skill = Label(ventana, text="SKILL")
-            label_skill.place(x=40,y=275)
-            label_skill["fg"] = "#E7F4FF"
-            
-            skill_ventana = Text(ventana, width=40, height=0, padx=0, pady=5)
-            skill_ventana.insert(INSERT,informacion[0])
-            skill_ventana.place(x=40,y=310)
-            
-            
-            label_label = Label(ventana, text="LABEL").place(x=40,y=345)
-            label_ventana = Text(ventana, width=40, height=0, padx=0, pady=5)
-            label_ventana.insert(INSERT,informacion[1])
-            label_ventana.place(x=40,y=375)
-        
-            # url_ventana = Text(ventana, width=70, height=20)
-            # url_ventana.insert(INSERT,"URL\n")
-            # url_ventana.insert(INSERT,informacion[2])
-            # url_ventana.place(x=40, y=425) 
-            
-            
-    def find_skill(self,skill):
-        print("Buscamos")
-        info_skill = self.get_skill_similar(skill)
-        print("Mosrtramos")
-        self.mostrar_habilidad(info_skill)
+            print("Resultado ok")
+            for elem in informacion:
+                skill_ventana.insert(INSERT,"SKILL\n").__sizeof__
+                skill_ventana.insert(INSERT, elem+"\n")
+                skill_ventana.insert(INSERT,"LABEL ESCO\n")
+                skill_ventana.insert(INSERT,informacion[elem][0]+"\n")
+                skill_ventana.insert(INSERT,"URL ESCO\n")
+                skill_ventana.insert(INSERT,informacion[elem][1]+"\n")
+                skill_ventana.place(x=25, y=260)
+        else: 
+            print("Resultado vacío")
+            skill_ventana.insert(INSERT, "No se han encontrado habilidades en el texto introducido")
+            skill_ventana.place(x=25, y=260)
+
         
 #################################################################################################################
+##################### MANEJO DE INFORMACIÓN
+## Creamos una instancia del objeto mi_app
 app = mi_app()
-
+    
 ventana = Tk()
 # Nombre de ventana
 ventana.title("Skill extractor")
@@ -141,11 +173,20 @@ ventana.geometry("1000x600")
 # Código de color
 color_fondo = "#E7F4FF"
 ventana["bg"]= color_fondo
-
-##################### MANEJO DE INFORMACIÓN
 ## Variable para almacenar informacion
-skill_ob = StringVar()
+skill_obj = StringVar()
 
+def find_skill():
+    print("find_skill")
+    if(skill_obj.get()!=None):
+        print("Buscamos")
+        text = app.split_Text(skill_obj.get())
+        info_skill = app.get(text)
+        print("Mostramos")
+        app.mostrar_habilidad(info_skill)
+    
+    skill_obj.set("")
+    
 #Agregamos icono ventana
 ventana.iconbitmap("C:/Users/rvoca/OneDrive/Escritorio/tfg_project/AI4LABOUR_course-ESCO_GIT/Código/LogoV.ico")
 
@@ -167,13 +208,36 @@ text.place(x=30, y=150)
 
 
 # Entry1
-entrada = Entry(ventana,textvariable=skill_ob)
+entrada = Entry(ventana,textvariable=skill_obj)
 entrada.place(x=33, y=180)
 
 # Botón Aceptar
-accept_button = Button(ventana, text="Buscar", command=app.find_skill(skill_ob))
+accept_button = Button(ventana, text="Buscar", command=find_skill)
 accept_button.place(x=33, y=220)
 
+#ventana.bind("<Return>",find_skill)
 
 # Para mantener ventana abierta (siempre debe ir al final)
 ventana.mainloop()
+
+
+
+
+
+# import tkinter as tk
+
+
+# class app(tk.Frame):
+#     def __init__(self):
+#         self.root = tk.Tk()
+#         self.root.geometry("300x200")
+#         self.label = tk.Label(self.root, text="")
+#         self.label.pack()
+#         self.root.bind("<Return>", self.callback)
+#         self.root.mainloop()
+
+#     def callback(self, event):
+#         self.label["text"] = "You pressed {}".format(event.keysym)
+
+
+# app()
