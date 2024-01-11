@@ -1,0 +1,133 @@
+from sentence_transformers import SentenceTransformer
+from sentence_transformers import util
+import torch
+import pandas as pd
+import nltk
+
+class mi_app:
+    signs=[".",",",";","\\n",]
+    
+    def __init__(self):
+        self.modelo = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+        self.df_esco = pd.read_csv("C:/Users/rvoca/OneDrive/Escritorio/tfg_project/AI4LABOUR_course-ESCO_GIT/data/skills_en_ESCO1.1v1.csv")
+        self.escoLabels = self.df_esco["preferredLabel"].to_list()
+        self.escoLabelsAlt = self.df_esco["altLabels"].to_list()
+
+        #Diccionario que contiene la relación entre las etiquetas generales y las alternativas
+        self.dict_Labels= {}
+        self.create_dict_Labels()
+        #Lista con todas las alternativas
+        self.list_AltLabel=[]
+        self.prepare_AltLabels()
+        #Codificamos la lista alternativa
+        self.embeddings = self.modelo.encode(self.escoLabels)
+        self.embeddingsALT = self.modelo.encode(self.list_AltLabel)
+        print("FIN INIT")
+                
+        
+    def get_General_Label(self,skill):
+        print("generalLabel")
+        for clave, lista_palabras in self.dict_Labels.items():
+            if skill in lista_palabras:
+                return clave
+        return None
+    
+    def create_dict_Labels(self):
+        print("creat_dict")
+        for pos in range(0,len(self.escoLabels)):
+            # print("***********************")
+            # print(pos)
+            # print(self.escoLabels[pos])
+            # print(self.escoLabelsAlt[pos])
+            if(pd.isna(self.escoLabelsAlt[pos])):
+                self.dict_Labels[self.escoLabels[pos]]=None
+            else:
+                alternatives = self.escoLabelsAlt[pos].split("\r\n")
+                #print(type(alternatives))
+                #print(type(escoLabelsAlt[pos]))
+                self.dict_Labels[self.escoLabels[pos]]= self.escoLabelsAlt[pos]
+
+                 
+    def prepare_AltLabels(self):
+        print("prepare")
+        for elem in self.df_esco["altLabels"].to_list():
+            self.list_AltLabel.append(elem)
+        
+        
+
+    def get_Information_Skill(self, sim, skill):
+        print("MAX1")
+        res=[] 
+        print(sim)
+        print(skill)
+        print(torch.argmax(sim).item())
+        label = self.escoLabels[torch.argmax(sim).item()]
+        uriLabel = self.df_esco["conceptUri"][torch.argmax(sim).item()]
+        res.append(skill) 
+        res.append(label)
+        res.append(uriLabel)
+        return res
+    
+    def get_ALT_Information_Skill(self, sim, skill):
+        print("MAXALT")
+        res=[] 
+        print(sim)
+        print(skill)
+        print(torch.argmax(sim).item())
+        label = self.list_AltLabel[torch.argmax(sim).item()]
+        print(label)
+        originalLabel = self.get_General_Label(label)
+        uriLabel = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["conceptUri"]
+        res.append(skill) 
+        res.append(label)
+        res.append(uriLabel)
+        return res
+        
+    def get_skill_similar(self,skill):
+        print("GETSKILL")
+        resultado=[]
+        #Compute embedding for the skill
+        embedding= self.modelo.encode(skill, convert_to_tensor=True)    # we encode the skill  
+        sim = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
+        max_Sim = torch.max(sim).item()
+        print(max_Sim)
+        if(max_Sim>=0.83):
+            resultado = self.get_Information_Skill(sim,skill)
+        else:
+            simALT = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
+            max_Sim = torch.max(simALT).item()
+            if(max_Sim>=0.75):
+                resultado = self.get_ALT_Information_Skill(simALT,skill)
+            
+        return resultado
+        
+    def get(self, texto):
+        print("Bucamos")
+        #skill = skill_ob.get()
+        res= {}
+        for elem in texto:
+            for skill in elem:
+                inf = self.get_skill_similar(skill)
+                if(len(inf)>0):
+                    res[skill]=[inf[1],inf[2]]
+                #skill_ob.set("")
+        print(res)
+
+       
+    def split_Text(self, text):
+        #Tokenizamos el texto
+        texto_ok=[]
+        text= text.replace("\\n","").replace(".",". ")
+        tokens = nltk.sent_tokenize(text)
+        print(len(tokens))
+        for sentence in tokens:
+            split = [word.strip() for word in sentence.split(",")]
+            texto_ok.append(split)
+        
+        return texto_ok
+    
+        
+app = mi_app()
+texto='Cloud computing systems today, whether open-source or used inside companies, are built using a common set of core techniques, algorithms, and design philosophies \xc3\xa2\xc2\x80\xc2\x93 all centered around distributed systems. Learn about such fundamental distributed computing "concepts" for cloud computing.Some of these concepts include: clouds, MapReduce, key-value/NoSQL stores, classical distributed algorithms, widely-used distributed algorithms, scalability, trending areas, and much, much more! \\n \\nKnow how these systems work from the inside out. Get your hands dirty using these concepts with provided homework exercises. In the programming assignments, implement some of these concepts in template code (programs) provided in the C++ programming language. Prior experience with C++ is required.\\n \\nThe course also features interviews with leading researchers and managers, from both industry and academia.'
+res= app.split_Text(texto)
+app.get(res)
