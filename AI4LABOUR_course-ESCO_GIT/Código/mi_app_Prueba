@@ -27,7 +27,7 @@ class mi_app:
         
     def get_General_Label(self,skill):
         print("generalLabel")
-        for clave, lista_palabras in self.dict_Labels.items():
+        for clave, lista_palabras in self.dict_Labels.items():            
             if skill in lista_palabras:
                 return clave
         return None
@@ -35,16 +35,10 @@ class mi_app:
     def create_dict_Labels(self):
         print("creat_dict")
         for pos in range(0,len(self.escoLabels)):
-            # print("***********************")
-            # print(pos)
-            # print(self.escoLabels[pos])
-            # print(self.escoLabelsAlt[pos])
             if(pd.isna(self.escoLabelsAlt[pos])):
                 self.dict_Labels[self.escoLabels[pos]]=None
             else:
                 alternatives = self.escoLabelsAlt[pos].split("\r\n")
-                #print(type(alternatives))
-                #print(type(escoLabelsAlt[pos]))
                 self.dict_Labels[self.escoLabels[pos]]= self.escoLabelsAlt[pos]
 
                  
@@ -62,9 +56,10 @@ class mi_app:
         print(skill)
         print(torch.argmax(sim).item())
         label = self.escoLabels[torch.argmax(sim).item()]
+        descrip = self.df_esco["description"][torch.argmax(sim).item()]
         uriLabel = self.df_esco["conceptUri"][torch.argmax(sim).item()]
-        res.append(skill) 
         res.append(label)
+        res.append(descrip)
         res.append(uriLabel)
         return res
     
@@ -77,9 +72,10 @@ class mi_app:
         label = self.list_AltLabel[torch.argmax(sim).item()]
         print(label)
         originalLabel = self.get_General_Label(label)
-        uriLabel = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["conceptUri"]
-        res.append(skill) 
-        res.append(label)
+        uriLabel = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["conceptUri"].values[0]
+        descrip = self.df_esco[self.df_esco["preferredLabel"]==originalLabel]["description"].values[0]
+        res.append(originalLabel) 
+        res.append(descrip)
         res.append(uriLabel)
         return res
         
@@ -94,11 +90,13 @@ class mi_app:
         if(max_Sim>=0.83):
             resultado = self.get_Information_Skill(sim,skill)
         else:
-            simALT = util.pytorch_cos_sim(embedding, self.embeddings)         # get the cosine similarity
+            simALT = util.pytorch_cos_sim(embedding, self.embeddingsALT)         # get the cosine similarity
             max_Sim = torch.max(simALT).item()
+            print(max_Sim)
             if(max_Sim>=0.75):
                 resultado = self.get_ALT_Information_Skill(simALT,skill)
-            
+
+        print(resultado)            
         return resultado
         
     def get(self, texto):
@@ -109,9 +107,9 @@ class mi_app:
             for skill in elem:
                 inf = self.get_skill_similar(skill)
                 if(len(inf)>0):
-                    res[skill]=[inf[1],inf[2]]
+                    res[skill]=[inf[0],inf[1],inf[2]]
                 #skill_ob.set("")
-        print(res)
+        return res
 
        
     def split_Text(self, text):
@@ -128,6 +126,7 @@ class mi_app:
     
         
 app = mi_app()
-texto='Cloud computing systems today, whether open-source or used inside companies, are built using a common set of core techniques, algorithms, and design philosophies \xc3\xa2\xc2\x80\xc2\x93 all centered around distributed systems. Learn about such fundamental distributed computing "concepts" for cloud computing.Some of these concepts include: clouds, MapReduce, key-value/NoSQL stores, classical distributed algorithms, widely-used distributed algorithms, scalability, trending areas, and much, much more! \\n \\nKnow how these systems work from the inside out. Get your hands dirty using these concepts with provided homework exercises. In the programming assignments, implement some of these concepts in template code (programs) provided in the C++ programming language. Prior experience with C++ is required.\\n \\nThe course also features interviews with leading researchers and managers, from both industry and academia.'
+texto="Computer-Aided Design (CAD)"
 res= app.split_Text(texto)
+print(res)
 app.get(res)
